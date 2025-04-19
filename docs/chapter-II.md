@@ -159,7 +159,7 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 
 ### User Persona: Psicóloga vocacional
 
-<p align="left"><img width="auto" height="240" src="../assets/img/chapter-ii/UserPersona2.png">
+<p align="left"><img width="auto" height="240" src="../assets/img/chapter-ii/UserJourneyMapping1.png">
 
 **Nombre**: Carla Huamán  
 **Edad**: 35 años  
@@ -234,24 +234,10 @@ Los siguientes recorridos representan la experiencia actual (*As-Is*) de los seg
 
 ### Estudiante de secundaria (Mariana Espinoza)
 
-| **Etapa**                       | **Acciones**                                                                 | **Pensamientos**                                                      | **Emociones**                 | **Puntos de dolor**                                                 |
-|--------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------|----------------------------------------------------------------------|
-| 1. Últimos meses del colegio   | Conversa con amigos o familiares sobre carreras.                             | “No tengo idea qué estudiar…”                                          | Confusión, ansiedad           | Opiniones contradictorias, falta de guía profesional.               |
-| 2. Búsqueda en internet        | Investiga en YouTube, Google o redes sociales sobre carreras y universidades.| “Todo se ve interesante, pero no sé si es para mí.”                   | Agobio, curiosidad            | Información dispersa y superficial.                                 |
-| 3. Test vocacional online      | Realiza tests gratuitos en webs poco conocidas.                              | “Tal vez me salga algo que me ayude a decidir.”                       | Esperanza, duda               | Resultados vagos, sin orientación posterior.                        |
-| 4. Conversación con tutor/a    | Habla con un profesor o tutor del colegio.                                   | “Quiero preguntar, pero me da vergüenza.”                             | Inseguridad, timidez          | Falta de confianza, respuestas poco claras o breves.               |
-| 5. Feria vocacional            | Asiste a un evento del colegio o municipio.                                  | “Hay muchas opciones, pero sigo sin saber qué hacer.”                 | Abrumación, desconcierto      | Poco seguimiento, mucha información en poco tiempo.                |
-| 6. Toma de decisión            | Escoge una carrera con ayuda de familiares.                                  | “Espero no estarme equivocando…”                                      | Incertidumbre, resignación    | Decisión influenciada sin autoconocimiento real.                   |
-
+<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-ii/UserJourneyMapping1.png">
+  
 ---
 
 ### Psicóloga vocacional (Carla Huamán)
 
-| **Etapa**                    | **Acciones**                                                                 | **Pensamientos**                                               | **Emociones**              | **Puntos de dolor**                                                  |
-|-----------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------|----------------------------|------------------------------------------------------------------------|
-| 1. Captación de estudiantes | Recibe estudiantes por agenda del colegio o de forma directa.                | “Hay muchos casos y poco tiempo para cada uno.”                | Presión, saturación         | Horarios limitados, poca autonomía del estudiante.                    |
-| 2. Recolección de datos     | Usa fichas impresas, entrevistas individuales, preguntas abiertas.           | “Cada uno es distinto, pero necesito más información objetiva.”| Frustración, concentración  | Procesos manuales, falta de centralización.                           |
-| 3. Aplicación de test       | Usa test vocacionales impresos o genéricos en PDF.                           | “Este test me da una idea, pero no siempre refleja la realidad.” | Duda, escepticismo         | Poca personalización, resultados poco interpretables para el joven.   |
-| 4. Devolución de resultados | Explica los resultados en una sesión.                                        | “¿Me habrá entendido bien? ¿Se sentirá cómodo?”                | Empatía, tensión            | Sesiones cortas, estudiantes con baja apertura o desmotivados.        |
-| 5. Seguimiento              | Intenta contactar luego por WhatsApp o presencialmente.                      | “Muchos no vuelven o ya tomaron decisiones sin consultarme.”   | Desconexión, resignación    | Falta de canal permanente, escasa continuidad en el proceso.          |
-| 6. Informe final            | Llena ficha institucional o acta para el colegio.                            | “Solo puedo registrar un resumen, pero faltan más detalles.”   | Formalidad, limitación      | Documentación obligatoria, poco útil para el seguimiento real.        |
+<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-ii/UserJourneyMapping2.png">

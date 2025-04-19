@@ -226,7 +226,7 @@ Los segmentos considerados son:
   - Aplicar herramientas vocacionales.
   - Hacer seguimiento continuo.
 
-## 2.3.3. User Journey Mapping
+### 2.3.3. User Journey Mapping
 
 Los siguientes recorridos representan la experiencia actual (*As-Is*) de los segmentos objetivo de Pathly en su proceso de orientación vocacional.
 

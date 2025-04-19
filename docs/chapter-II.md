@@ -121,7 +121,7 @@ Conocer su experiencia en orientación vocacional, métodos de trabajo actuales,
 
 ## 2.3. Needfinding
 
-## 2.3.1. User Personas
+### 2.3.1. User Personas
 
 Esta sección presenta dos arquetipos desarrollados para representar a los segmentos objetivos de Pathly: estudiantes de secundaria y profesionales de la orientación vocacional.
 
@@ -155,7 +155,7 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 
 **Presentación**:  
 > “Siento que todos ya saben qué estudiar, pero yo no estoy segura de nada…”
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-ii/user-persona1">
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-ii/user-persona1.jpg">
   
 ---
 
@@ -190,4 +190,42 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 
 **Presentación**:  
 > “La vocación se construye desde el autoconocimiento, pero muchos alumnos no saben ni por dónde empezar.”
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-ii/user-persona2">
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-ii/user-persona2.jpg">
+
+### 2.3.2. User Task Matrix
+
+Los segmentos considerados son:
+- **Estudiante de secundaria (Mariana Espinoza)**
+- **Psicóloga vocacional (Carla Huamán)**
+
+### Matriz de tareas por User Persona
+
+| **Tarea**                                                   | **Estudiante**<br>Frecuencia | **Estudiante**<br>Importancia | **Psicóloga**<br>Frecuencia | **Psicóloga**<br>Importancia |
+|-------------------------------------------------------------|-------------------------------|-------------------------------|------------------------------|------------------------------|
+| Buscar información sobre carreras o universidades           | Media                         | Alta                          | Baja                         | Media                        |
+| Hablar con adultos sobre su futuro                          | Alta                          | Alta                          | Alta                         | Alta                         |
+| Hacer test vocacionales gratuitos en internet               | Media                         | Media                         | Baja                         | Baja                         |
+| Ver contenido vocacional o educativo en redes sociales      | Alta                          | Media                         | Media                        | Media                        |
+| Asistir a charlas o ferias vocacionales                     | Baja                          | Alta                          | Alta                         | Alta                         |
+| Realizar sesiones de orientación vocacional personalizadas  | Baja                          | Alta                          | Alta                         | Alta                         |
+| Leer o responder mensajes sobre seguimiento vocacional      | Media                         | Alta                          | Alta                         | Alta                         |
+| Coordinar horarios o sesiones con estudiantes               | N/A                           | N/A                           | Alta                         | Alta                         |
+| Diseñar o aplicar herramientas vocacionales (tests, guías)  | N/A                           | N/A                           | Media                        | Alta                         |
+
+---
+
+### Análisis comparativo
+
+- Las tareas con **mayor coincidencia en importancia** para ambos segmentos son:
+  - Hablar sobre el futuro profesional.
+  - Participar en sesiones de orientación vocacional.
+  - Asistir a eventos vocacionales.
+
+- Para los **estudiantes**, las tareas con más frecuencia son:
+  - Uso de redes sociales como medio indirecto de exploración vocacional.
+  - Conversaciones con adultos de confianza.
+
+- Para los **psicólogos**, las tareas de mayor frecuencia e importancia se centran en:
+  - Coordinar sesiones.
+  - Aplicar herramientas vocacionales.
+  - Hacer seguimiento continuo.

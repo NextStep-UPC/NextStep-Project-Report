@@ -120,3 +120,74 @@ Conocer su experiencia en orientación vocacional, métodos de trabajo actuales,
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
+
+## 2.3.1. User Personas
+
+Esta sección presenta dos arquetipos desarrollados para representar a los segmentos objetivos de Pathly: estudiantes de secundaria y profesionales de la orientación vocacional.
+
+### User Persona: Estudiante de secundaria
+
+**Nombre**: Mariana Espinoza  
+**Edad**: 16 años  
+**Género**: Femenino  
+**Grado**: 5to de secundaria  
+**Ubicación**: Villa El Salvador, Lima  
+**Tipo de institución**: Colegio nacional  
+**Acceso digital**: Celular propio con acceso a datos móviles y Wi-Fi en casa  
+
+**Objetivos**:
+- Descubrir qué carrera se adapta mejor a sus gustos e intereses.
+- Entender qué pasos debe seguir después del colegio.
+
+**Frustraciones**:
+- Siente presión familiar para decidir su futuro sin orientación clara.
+- Le cuesta identificar sus habilidades fuertes.
+- Le confunde la cantidad de información que encuentra en internet.
+
+**Habilidades y fortalezas**:
+- Buen desempeño en cursos de comunicación y arte.
+- Actitud reflexiva y empática.
+- Curiosa, usuaria activa de redes sociales.
+
+**Canales digitales preferidos**:
+- TikTok, Instagram, YouTube  
+- Prefiere contenido audiovisual e interactivo.
+
+**Presentación**:  
+> “Siento que todos ya saben qué estudiar, pero yo no estoy segura de nada…”
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-ii/user-persona1">
+  
+---
+
+### User Persona: Psicóloga vocacional
+
+**Nombre**: Carla Huamán  
+**Edad**: 35 años  
+**Profesión**: Psicóloga con especialización en orientación vocacional  
+**Ubicación**: Arequipa, Perú  
+**Experiencia**: 10 años trabajando con escolares en colegios privados y de convenio  
+**Canales de atención actuales**: Sesiones presenciales y ocasionalmente por Zoom  
+**Acceso digital**: Laptop y celular con buena conectividad  
+
+**Objetivos**:
+- Llegar a más estudiantes con orientación de calidad.
+- Utilizar herramientas digitales que faciliten su trabajo.
+- Establecer un canal confiable donde pueda organizar citas y hacer seguimiento.
+
+**Frustraciones**:
+- Limitaciones de tiempo para cada alumno en colegios.
+- Falta de herramientas unificadas para evaluación vocacional.
+- Resistencia de algunos padres al uso de plataformas digitales.
+
+**Habilidades y fortalezas**:
+- Alta empatía y experiencia guiando adolescentes.
+- Capacidad para adaptar el lenguaje y generar confianza.
+- Manejo fluido de recursos digitales educativos.
+
+**Canales digitales preferidos**:
+- Zoom, WhatsApp, Google Forms  
+- Le interesan plataformas con agenda integrada y ficha por estudiante.
+
+**Presentación**:  
+> “La vocación se construye desde el autoconocimiento, pero muchos alumnos no saben ni por dónde empezar.”
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-ii/user-persona2">

@@ -1,6 +1,10 @@
-## 2.1.1. Análisis competitivo
+# Capítulo II: Requirements Elicitation & Analysis
 
-### ¿Por qué llevar a cabo este análisis?
+## 2.1. Competidores
+
+### 2.1.1. Análisis competitivo
+
+#### ¿Por qué llevar a cabo este análisis?
 
 Este análisis busca comprender el posicionamiento de **Pathly** en comparación con otras plataformas que ofrecen servicios relacionados a la orientación vocacional y el acompañamiento psicológico, identificando oportunidades de mejora y diferenciación frente a las necesidades de nuestros segmentos objetivos: estudiantes de secundaria (4to y 5to año) y profesionales certificados en psicología y consejería vocacional.
 
@@ -32,7 +36,6 @@ Este análisis busca comprender el posicionamiento de **Pathly** en comparación
 | **Oportunidades** | Trabajar con colegios y profesionales independientes. | Ampliar vertical educativa. | Expandirse a población estudiantil. | Incluir red de psicólogos. |
 | **Amenazas** | Mayor experiencia y recursos de la competencia. | Pérdida de cuota frente a plataformas educativas. | Cambios en necesidades de los jóvenes. | Avance de soluciones híbridas más completas. |
 
-
 ## 2.1.2. Estrategias y tácticas frente a competidores
 
 En base al análisis competitivo, se han definido estrategias que permitirán a **Pathly** posicionarse efectivamente frente a otras plataformas, atendiendo tanto a estudiantes de secundaria como a psicólogos vocacionales certificados.
@@ -58,3 +61,62 @@ En base al análisis competitivo, se han definido estrategias que permitirán a 
 - **Panel para profesionales**: Crear una interfaz especial para psicólogos certificados donde puedan gestionar citas, dar seguimiento y comunicarse con estudiantes.
 
 - **Mejoras iterativas basadas en entrevistas**: Validar la plataforma en campo con ambos segmentos objetivo y adaptar funciones según sus necesidades reales.
+
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+
+Para diseñar entrevistas efectivas se han definido dos bloques de preguntas diferenciadas por segmento, aplicando buenas prácticas como: preguntas abiertas, lenguaje claro, tono amigable y estructura flexible.
+
+El objetivo principal es obtener información clave para construir arquetipos sólidos, considerando variables demográficas, psicológicas y de comportamiento digital, además de motivaciones, frustraciones y necesidades.
+
+### Segmento 1: Estudiantes de 4to y 5to de secundaria
+
+#### Objetivo
+Comprender su contexto académico, intereses, uso de tecnología, nivel de conocimiento sobre orientación vocacional y sus expectativas frente a una posible plataforma digital como Pathly.
+
+#### Preguntas principales
+1. ¿En qué grado estás y en qué colegio estudias?
+2. ¿Qué tanto conoces sobre orientación vocacional?
+3. ¿Has hecho antes algún test vocacional? ¿Cómo fue tu experiencia?
+4. ¿Qué esperas encontrar en una plataforma que te ayude a elegir tu carrera?
+5. ¿Cómo tomas decisiones importantes como elegir una carrera?
+6. ¿Conversas con tus padres, profesores o psicólogos sobre tu futuro profesional?
+7. ¿Qué tipo de contenido te gusta ver en internet y en qué plataformas pasas más tiempo?
+8. ¿Prefieres usar una app o una página web cuando necesitas buscar algo útil?
+
+#### Preguntas complementarias
+- ¿Qué materias o actividades disfrutas más en el colegio?
+- ¿Qué carrera(s) te interesan y por qué?
+- ¿Qué cosas te frustran cuando piensas en tu futuro?
+- ¿Has sentido presión por decidir tu carrera demasiado pronto?
+- ¿Qué tan fácil sería para ti acceder a una videollamada con un psicólogo?
+
+---
+
+### Segmento 2: Psicólogos y consejeros vocacionales certificados
+
+#### Objetivo
+Conocer su experiencia en orientación vocacional, métodos de trabajo actuales, disposición a usar plataformas digitales, y sus necesidades para trabajar con adolescentes.
+
+#### Preguntas principales
+1. ¿Qué experiencia tienes en el campo de la orientación vocacional?
+2. ¿Trabajas actualmente con estudiantes escolares? ¿Cómo suelen llegar a ti?
+3. ¿Qué herramientas usas para evaluar vocación y tomar decisiones con los estudiantes?
+4. ¿Qué opinas del uso de test vocacionales automatizados?
+5. ¿Qué elementos consideras clave en una buena orientación vocacional?
+6. ¿Estarías dispuesto a brindar servicios a través de una plataforma como Pathly?
+7. ¿Qué características debería tener una plataforma para facilitar tu trabajo?
+8. ¿Qué problemas enfrentas al trabajar con adolescentes en orientación vocacional?
+
+#### Preguntas complementarias
+- ¿Tienes experiencia con plataformas digitales o teleorientación?
+- ¿Qué tipo de comunicación prefieres con los estudiantes (videollamada, chat, correo)?
+- ¿Qué tipo de seguimiento realizas después de la orientación?
+- ¿Te gustaría acceder a un panel de gestión de usuarios?
+- ¿Qué tan dispuesto estás a trabajar en un sistema con validación y reputación profesional?
+
+### 2.2.2. Registro de entrevistas
+### 2.2.3. Análisis de entrevistas
+
+## 2.3. Needfinding

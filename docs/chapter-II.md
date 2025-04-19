@@ -242,6 +242,16 @@ Los siguientes recorridos representan la experiencia actual (*As-Is*) de los seg
 
 <p align="center"><img width="auto" height="auto" src="../assets/img/chapter-ii/UserJourneyMapping2.png">
 
+## 2.3.4. Empathy Mapping
+
+### Estudiante de secundaria (Mariana Espinoza)
+
+<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-ii/EmpathyMapping1.png">
+
+### Psicóloga vocacional (Carla Huamán)
+
+<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-ii/EmpathyMapping2.png">
+
 ### 2.3.5. As-Is Scenario Mapping
 
 ### Estudiante de secundaria – Mariana Espinoza

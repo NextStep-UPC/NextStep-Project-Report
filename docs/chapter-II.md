@@ -127,6 +127,8 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 
 ### User Persona: Estudiante de secundaria
 
+<p align="left"><img width="auto" height="240" src="../assets/img/chapter-ii/UserPersona1.png">
+
 **Nombre**: Mariana Espinoza  
 **Edad**: 16 años  
 **Género**: Femenino  
@@ -152,14 +154,12 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 **Canales digitales preferidos**:
 - TikTok, Instagram, YouTube  
 - Prefiere contenido audiovisual e interactivo.
-
-**Presentación**:  
-> “Siento que todos ya saben qué estudiar, pero yo no estoy segura de nada…”
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-ii/UserPersona1.png">
   
 ---
 
 ### User Persona: Psicóloga vocacional
+
+<p align="left"><img width="auto" height="240" src="../assets/img/chapter-ii/UserPersona2.png">
 
 **Nombre**: Carla Huamán  
 **Edad**: 35 años  
@@ -187,10 +187,6 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 **Canales digitales preferidos**:
 - Zoom, WhatsApp, Google Forms  
 - Le interesan plataformas con agenda integrada y ficha por estudiante.
-
-**Presentación**:  
-> “La vocación se construye desde el autoconocimiento, pero muchos alumnos no saben ni por dónde empezar.”
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-ii/UserPersona2.png">
 
 ### 2.3.2. User Task Matrix
 

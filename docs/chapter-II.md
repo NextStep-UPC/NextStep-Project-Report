@@ -155,7 +155,7 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 
 **Presentación**:  
 > “Siento que todos ya saben qué estudiar, pero yo no estoy segura de nada…”
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-ii/user-persona1.jpg">
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-ii/UserPersona1.png">
   
 ---
 
@@ -190,7 +190,7 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 
 **Presentación**:  
 > “La vocación se construye desde el autoconocimiento, pero muchos alumnos no saben ni por dónde empezar.”
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-ii/user-persona2.jpg">
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-ii/UserPersona2.png">
 
 ### 2.3.2. User Task Matrix
 

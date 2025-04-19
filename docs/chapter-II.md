@@ -159,7 +159,7 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 
 ### User Persona: Psicóloga vocacional
 
-<p align="left"><img width="auto" height="240" src="../assets/img/chapter-ii/UserJourneyMapping1.png">
+<p align="left"><img width="auto" height="240" src="../assets/img/chapter-ii/UserPersona2.png">
 
 **Nombre**: Carla Huamán  
 **Edad**: 35 años  
@@ -241,3 +241,58 @@ Los siguientes recorridos representan la experiencia actual (*As-Is*) de los seg
 ### Psicóloga vocacional (Carla Huamán)
 
 <p align="center"><img width="auto" height="auto" src="../assets/img/chapter-ii/UserJourneyMapping2.png">
+
+### 2.3.5. As-Is Scenario Mapping
+
+### Estudiante de secundaria – Mariana Espinoza
+
+| **Phases**             | **Doing**                                                                 | **Thinking**                                           | **Feeling**                  |
+|------------------------|---------------------------------------------------------------------------|--------------------------------------------------------|-------------------------------|
+| Inicio de búsqueda     | Escucha a amigos, padres, profesores hablar de carreras.                  | “Todos parecen tener claro qué hacer, menos yo.”       | Ansiedad, presión social      |
+| Exploración online     | Googlea “qué carrera estudiar”, mira videos en YouTube, hace un test.    | “Tal vez esto me dé una idea.”                         | Confusión, curiosidad         |
+| Toma decisiones parciales| Descarta algunas opciones, conversa con familiares.                     | “No estoy segura, pero necesito avanzar con algo.”     | Inseguridad, dudas            |
+| Participación en eventos| Asiste a charla o feria vocacional del colegio.                         | “Todo suena bien, pero no sé cómo saber si es para mí.”| Agobio, desorientación        |
+| Elección final         | Escoge una carrera influenciada por entorno o intuición.                 | “Espero no arrepentirme.”                              | Incertidumbre, resignación    |
+
+---
+
+### Psicóloga vocacional – Carla Huamán
+
+| **Phases**             | **Doing**                                                                 | **Thinking**                                              | **Feeling**               |
+|------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------|
+| Recepción del caso     | Lee ficha del alumno, agenda sesión presencial.                          | “Tengo poco tiempo para conocerlo bien.”                  | Tensión, carga laboral     |
+| Evaluación inicial     | Aplica test, entrevista, observa actitudes.                              | “Este test es básico, necesito más datos cualitativos.”   | Limitación, frustración    |
+| Interpretación         | Analiza respuestas y comportamiento.                                     | “Hay muchas variables que no puedo cubrir en 30 min.”     | Incertidumbre, esfuerzo    |
+| Devolución de resultados| Comunica hallazgos al estudiante, sugiere opciones.                    | “Espero que esto le sirva para reflexionar.”              | Empatía, duda              |
+| Cierre o seguimiento   | Entrega informe, intenta seguimiento si es posible.                      | “Muchos alumnos no regresan o ya decidieron solos.”       | Desconexión, frustración   |
+
+---
+
+### Blank Areas
+
+- **Para el estudiante**:
+  - Falta de claridad sobre sus propias fortalezas.
+  - Procesos de autoconocimiento dispersos y sin orientación profesional.
+  - Acciones reactivas más que planificadas.
+
+- **Para la psicóloga**:
+  - Procesos fragmentados sin centralización de información.
+  - Poco tiempo por estudiante.
+  - Escasa continuidad en el acompañamiento.
+
+## 2.4. Ubiquitous Language
+
+Este glosario contiene los términos clave del dominio de negocio de Pathly, redactados sin ambigüedad y utilizados de forma consistente entre todos los miembros del equipo. Los términos están en inglés (con su equivalente en español entre paréntesis) y las definiciones se presentan en español. Este lenguaje común permite una comunicación clara y coherente en todo el proceso de diseño y desarrollo.
+
+| **Term (Término)**                        | **Definition (Definición)**                                                                 |
+|------------------------------------------|---------------------------------------------------------------------------------------------|
+| Vocational Test (*Test vocacional*)      | Herramienta de evaluación estructurada que permite identificar carreras compatibles con los intereses, habilidades y rasgos de personalidad de un estudiante. |
+| Student Journey (*Recorrido del estudiante*) | Secuencia de pasos, decisiones y emociones que atraviesa un estudiante durante su proceso de orientación vocacional. |
+| Career Guidance (*Orientación vocacional*) | Proceso de acompañamiento para ayudar a los estudiantes a comprender sus opciones educativas y profesionales. |
+| Counselor (*Consejero/a vocacional*)     | Profesional certificado que guía a los estudiantes en la toma de decisiones sobre su futuro profesional. |
+| Self-awareness (*Autoconocimiento*)      | Capacidad del estudiante para reconocer sus propias fortalezas, intereses, valores y aspiraciones. |
+| Frustration Point (*Punto de frustración*) | Momento en el que el estudiante o el profesional encuentra una barrera que dificulta el avance del proceso vocacional. |
+| Student Segment (*Segmento de estudiantes*) | Grupo objetivo conformado por estudiantes de 4to y 5to de secundaria que buscan orientación vocacional. |
+| Personalized Recommendation (*Recomendación personalizada*) | Sugerencia basada en el perfil individual del usuario que busca alinear sus características con posibles carreras. |
+| Follow-up Session (*Sesión de seguimiento*) | Reunión posterior entre el consejero y el estudiante para evaluar avances, resolver dudas y continuar con la orientación. |
+| Digital Touchpoint (*Punto de contacto digital*) | Instancia de interacción entre el usuario y la plataforma, como la toma de un test, entrega de resultados o agendamiento. |

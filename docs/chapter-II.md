@@ -117,6 +117,26 @@ Conocer su experiencia en orientación vocacional, métodos de trabajo actuales,
 - ¿Qué tan dispuesto estás a trabajar en un sistema con validación y reputación profesional?
 
 ### 2.2.2. Registro de entrevistas
+
+<p align="left"><img width ="auto" height="240" src="../assets/img/chapter-ii/AdrianValera.png">
+
+ ***Segmento 1:Jóvenes estudiantes de 15 - 19 años***
+  **Entrevista N°1: Adrian Valera**
+  - Sexo: Masculino
+  - Edad: 17 años
+  - Ubicación en la que vive olivos, Lima, Perú
+**Entrevista**:
+- link: https://drive.google.com/file/d/1ytI4TQHYi9yd6shk1knVcFKFqv8wHry7/view?usp=drive_link
+- Momento en el que inicia: 0:02
+- Duración: 7:07
+
+
+**Resumen:**
+
+Adrian Valera es un chico de 5to grado de secundaria que aun no ha escogido una carrera ya que tiene el temor de que sea una opcion incorrecta  a las preguntas propuestas que ha tenido  muy poco acercamiento a los test vocacionales onlinne pero si ha llevado en lugares con psicologos y no ha sido de su agrado ya que a el le gustaria ver un poco mas de informacion y que el psicologo siga su orientacion paso por paso para que pueda escoger una carrera de acuerdo a su test vocacional ,con la pregunta de servicios a traves de una plataforma el se sintio muy agusto que tuviera esa facilidad para poder interactuar con test vocacional y un psicologo que lo ayude en ese proceso y que le gustaria estudiar psicologia. 
+  
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding

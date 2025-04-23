@@ -45,11 +45,11 @@ Nos enfocamos en brindar una plataforma integral donde los usuarios puedan reali
             <!-- DATOS del integrante 2-->
             <td > 
             <img src="/assets/img/chapter-I/vicente-photo.png" height="120" alt="">
-            Vicente Quijandria Araneda - U201822697
+            Moises - U201822697
             <br> 
             </td>
             <!--DESCRIPCIÓN del integrante 2-->
-            <td>Estudio la carrera de Ingenieria de Software en la UPC. Me gusta el futbol, surf, buceo y la tecnologia. Soy una persona que le gusta siempre aprender nuevos conocimientos que me pueden llevar a convertirme en un gran profesional, asi poder cada dia cumplir mis metas.</td>
+            <td>Prueba cambio</td>
             <!-- CONOCIMIENTOS del integrante 2-->
             <td>Tengo conocimientos en multiples lenguajes de programación como Typescript, Java, C#, C++, Python. Tambien cuento con experiencia desarrollando aplicaciones web tanto Front como Backend. Me inclino mas para lo que es el desarrollo backend, manejo de datos y arquitecturas de software.</td>
         </tr>

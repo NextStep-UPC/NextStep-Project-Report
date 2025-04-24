@@ -2,6 +2,8 @@
 
 ## 3.1. To-Be Scenario Mapping
 
+![To-Be Scenario Mapping](./assets/img/chapter-iii/tobescenario1.png)
+
 ## 3.2. User Stories
 
 ## 3.3. Impact Mapping

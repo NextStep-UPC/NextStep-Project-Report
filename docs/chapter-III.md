@@ -2,7 +2,10 @@
 
 ## 3.1. To-Be Scenario Mapping
 
-![To-Be Scenario Mapping](./assets/img/chapter-iii/ToBeScenarioMapping1.png)
+<p align="left">
+  <img width="auto" height="240" src="../assets/img/chapter-iii/ToBeScenarioMapping1.png">
+</p>
+
 
 ## 3.2. User Stories
 

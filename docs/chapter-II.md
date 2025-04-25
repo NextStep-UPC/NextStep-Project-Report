@@ -117,15 +117,13 @@ Conocer su experiencia en orientación vocacional, métodos de trabajo actuales,
 - ¿Qué tan dispuesto estás a trabajar en un sistema con validación y reputación profesional?
 
 ### 2.2.2. Registro de entrevistas
-
-<p align="left"><img width ="auto" height="240" src="../assets/img/chapter-ii/AdrianValera.png">
-
  ***Segmento 1:Jóvenes estudiantes de 15 - 19 años***
   **Entrevista N°1: Adrian Valera**
   - Sexo: Masculino
   - Edad: 17 años
   - Ubicación en la que vive olivos, Lima, Perú
     
+    <p align="left"><img width ="auto" height="240" src="../assets/img/chapter-ii/AdrianValera.png">
 **Entrevista**:
 - link: https://drive.google.com/file/d/1ytI4TQHYi9yd6shk1knVcFKFqv8wHry7/view?usp=drive_link
 - Momento en el que inicia: 0:02
@@ -137,17 +135,23 @@ Conocer su experiencia en orientación vocacional, métodos de trabajo actuales,
 Adrian Valera es un chico de 5to grado de secundaria que aun no ha escogido una carrera ya que tiene el temor de que sea una opcion incorrecta  a las preguntas propuestas que ha tenido  muy poco acercamiento a los test vocacionales onlinne pero si ha llevado en lugares con psicologos y no ha sido de su agrado ya que a el le gustaria ver un poco mas de informacion y que el psicologo siga su orientacion paso por paso para que pueda escoger una carrera de acuerdo a su test vocacional ,con la pregunta de servicios a traves de una plataforma el se sintio muy agusto que tuviera esa facilidad para poder interactuar con test vocacional y un psicologo que 
 lo ayude en ese proceso y que le gustaria estudiar psicologia. 
 
+
+
+
+
   **Entrevista N°2: Anyelo Alejos**
   - Sexo: Masculino
   - Edad: 17 años
   - Ubicación en la que vive Independencia, Lima, Perú
+
+<p align="left"><img width ="auto" height="240" src="../assets/img/chapter-ii/Anyelo.png">
     
 **Entrevista**:
-- link: 
+- link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EZ3MnphrLQ5DrRb7NmGPEZEBDl3JarEgirlFJFtvqdAkZw?e=YOkBkE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi4yNn19
 - Momento en el que inicia: 0:02
-- Duración: 7:07
+- Duración: 5:55
 
-
+**Resumen:**
 
 
 
@@ -194,13 +198,14 @@ Antonella también resaltó la importancia del rol que cumplen los padres en est
   - Edad: 24 años
   - Ubicación en la que vive Independencia, Lima, Perú
     
+    <p align="left"><img width ="auto" height="240" src="../assets/img/chapter-ii/Marcos.png">
 **Entrevista**:
 - link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/Eb72kDMH6gNHt9tAQhgZkZYBXCf9tGGwbrpUYmwE7SYbDA?e=wrH5Qu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MS45Nn19
   
 - Momento en el que inicia: 0:02
 - Duración: 7:07
 
-
+**Resumen:**
 
 
 

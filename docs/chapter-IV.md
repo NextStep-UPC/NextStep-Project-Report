@@ -1,7 +1,32 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+Las presentes guías de estilo definen la identidad visual y comunicacional de Pathly, nuestra plataforma digital de orientación vocacional. Su propósito es asegurar la coherencia en todos los elementos gráficos, tonos de comunicación y estructuras visuales que conforman tanto la aplicación web como la landing page.
+
 ### 4.1.1. General Style Guidelines
+
 #### 4.1.1.1 Colores
+La paleta de colores de Pathly ha sido cuidadosamente seleccionada para reflejar los valores de la marca: orientación, claridad, apoyo profesional y entusiasmo juvenil. Cada color cumple un rol visual y emocional específico dentro de la experiencia del usuario.
+
+#23383F – Confidence Navy
+Representa estructura, enfoque y estabilidad. Ideal para generar un ambiente serio y profesional, sin ser demasiado rígido.
+Se usa en los encabezados, fondo de navbar, botones principales, footer.
+
+#C6D5C9 – Soft Sage
+Un verde suave con toques grisáceos que genera paz visual y naturalidad, creando una sensación de bienestar y orden.
+Se usa en los fondos de secciones, tarjetas, áreas de descanso visual.
+
+#F8F8F6 – Gentle White
+Un blanco cálido y limpio que aporta claridad.
+Se usa en el fondo principal, formularios, áreas amplias de lectura.
+
+#8595AA – Cool Clarity Blue
+Este color que transmite calma, objetividad y enfoque. Muy útil para equilibrar la paleta con un aire profesional.
+Se usa en los íconos, elementos informativos, indicadores secundarios.
+
+#2E6864 – Trust Green Teal
+Este verde azulado intenso combina serenidad con firmeza, y comunica acompañamiento emocional y apertura.
+Se usa en botones secundarios, títulos destacados, íconos de confianza o conexión.
+
 #### 4.1.1.2 Tipografía
 #####  4.1.1.3 Spacing:
 #### 4.1.1.4 Branding:

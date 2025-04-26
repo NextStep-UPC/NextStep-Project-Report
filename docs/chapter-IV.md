@@ -33,6 +33,9 @@ Se usa en los íconos, elementos informativos, indicadores secundarios.
 Este verde azulado intenso combina serenidad con firmeza, y comunica acompañamiento emocional y apertura.
 Se usa en botones secundarios, títulos destacados, íconos de confianza o conexión.
 
+![paleta img](/assets/img/chapter-IV/paleta-colores.png)
+
+
 #### 4.1.1.2 Tipografía
 
 Nuestra tipografía utiliza una combinación de fuentes sans-serif modernas que equilibran juventud y profesionalismo ya que, se busca reflejar claridad, estructura y modernidad. Se prioriza la claridad en la comunicación, y que la experiencia de lectura sea amigable para los usuarios, sin perder de vista un estilo amigable y accesible.
@@ -41,14 +44,19 @@ Nuestra tipografía utiliza una combinación de fuentes sans-serif modernas que 
 - **Uso:** Títulos principales, encabezados destacados, botones importantes (CTA).
 - **Justificación:** El aspecto limpio y geometría equilibradad de Poppins, comunica modernidad y profesionalismo sin ser intimidante. Su estructura de líneas redondas transmite dinamismo y cercanía.
 
+![poppins font](/assets/img/chapter-IV/poppins-font.png)
+
 #### **Open Sans**
 - **Uso**: Texto de párrafos, descripciones, formularios, información secundaria.
 - **Justificación:** Se seleccionó a Open Sans por su excelente legibilidad en pantalla, y por su neutralidad visual. Complementa a Poppins porque aporta una base sobria y fácil de leer para los textos largos, lo que contribuye a una experiencia de usuario fluida en plataformas digitales.
+
+![opens sans font](/assets/img/chapter-IV/open-sans-font.png)
 
 #### **Raleway**
 - **Uso**: Subtítulos, frases, pequeños encabezados secundarios.
 - **Justificación:** Raleway combina perfectamente con la redondez de Poppins y la neutralidad de Open Sans. Aporta un diseño estilizado que le da un toque de sofisticación ligera, sin perder frescura.
 
+![raleway font](/assets/img/chapter-IV/raleway-font.png)
 
 
 #### 4.1.1.3 Spacing:
@@ -68,6 +76,9 @@ Toda la interfaz se construye utilizando múltiplos de 8:
 Justificación:
 
 Un sistema de espaciado claro y coherente permite que los elementos estén en armonía, guíen visualemente al usuario, y generan una sensación de orden y profesionalismo. Esto es muy importante en Pathly, porque los estudiantes deben tomar decisiones importantes y con claridad, sin sobrecarga visual.
+
+![spacing](/assets/img/chapter-IV/spacing.png)
+
 
 #### 4.1.1.4 Branding:
 #### 4.1.1.5 Tono de Comunicación

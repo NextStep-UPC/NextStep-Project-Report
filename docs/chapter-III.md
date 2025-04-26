@@ -63,3 +63,28 @@ Diseñar la experiencia ideal de un psicólogo certificado utilizando Pathly, en
 <p align="center"><img width="auto" height="auto" src="../assets/img/chapter-III/impact-mapping.jpg">
 
 ## 3.4. Product Backlog
+
+| # Orden | User Story ID | Título                                | Descripción (formato "Como... deseo... para...")                                | Story Points | Epic ID |
+|---------|----------------|----------------------------------------|----------------------------------------------------------------------------------|--------------|---------|
+| 1       | US01           | Registro de estudiante                 | Como estudiante, deseo registrarme fácilmente para comenzar mi proceso vocacional. | 2            | E01     |
+| 2       | US15           | API de login y registro                | Como developer, deseo una API segura para login y registro de usuarios.         | 3            | E04     |
+| 3       | US02           | Realizar test vocacional               | Como estudiante, deseo realizar un test vocacional para conocer mis intereses.   | 5            | E01     |
+| 4       | US03           | Ver resultados del test               | Como estudiante, deseo ver resultados personalizados para tomar decisiones.      | 3            | E01     |
+| 5       | US12           | Ver sección para estudiantes           | Como visitante, deseo conocer los beneficios para estudiantes desde el landing.  | 2            | E03     |
+| 6       | US04           | Agendar sesión con psicólogo           | Como estudiante, deseo agendar una sesión con un psicólogo para orientación.     | 5            | E01     |
+| 7       | US07           | Registro de psicólogo                  | Como psicólogo, deseo registrarme y validar mis credenciales.                   | 3            | E02     |
+| 8       | US05           | Acceder a recursos educativos          | Como estudiante, deseo consultar recursos vocacionales para tomar decisiones.    | 2            | E01     |
+| 9       | US13           | Ver sección para psicólogos            | Como visitante, deseo conocer los beneficios para psicólogos desde el landing.   | 2            | E03     |
+| 10      | US08           | Panel de gestión del psicólogo         | Como psicólogo, deseo acceder a un panel para gestionar sesiones y estudiantes.  | 5            | E02     |
+| 11      | US09           | Sesión por videollamada                | Como psicólogo, deseo realizar sesiones virtuales con estudiantes.               | 5            | E02     |
+| 12      | US06           | Dejar feedback de la orientación       | Como estudiante, deseo calificar mi experiencia con la orientación.              | 2            | E01     |
+| 13      | US10           | Registrar notas privadas               | Como psicólogo, deseo tomar notas privadas por cada sesión de orientación.       | 3            | E02     |
+| 14      | US14           | Acceso desde dispositivos móviles      | Como visitante, deseo navegar correctamente desde mi celular.                    | 2            | E03     |
+| 15      | US17           | API para resultados del test           | Como developer, deseo recibir resultados del test en formato JSON.               | 3            | E04     |
+| 16      | US16           | API para agendamiento de sesiones      | Como developer, deseo que las sesiones se registren correctamente desde backend. | 3            | E04     |
+| 17      | US11           | Ver estadísticas de desempeño          | Como psicólogo, deseo ver métricas para mejorar mis sesiones.                    | 2            | E02     |
+| 18      | US18           | Recuperación de contraseña             | Como usuario, deseo recuperar mi contraseña si la olvido.                        | 2            | E05     |
+| 19      | US19           | Notificaciones de sesiones             | Como usuario, deseo recibir notificaciones sobre mis sesiones próximas.          | 2            | E05     |
+| 20      | US22           | Panel de administración                | Como administrador, deseo visualizar KPIs y reportes del sistema.                | 3            | E06     |
+| 21      | US20           | Filtro de psicólogos                   | Como estudiante, deseo filtrar psicólogos por criterios de interés.              | 3            | E05     |
+| 22      | US21           | Modo oscuro / accesibilidad visual     | Como usuario, deseo adaptar la interfaz a mis preferencias visuales.             | 2            | E05     |

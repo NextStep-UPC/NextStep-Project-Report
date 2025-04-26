@@ -21,7 +21,7 @@ Convertirnos en la plataforma de referencia en orientación vocacional en Latino
 ### 1.1.2. Perfiles de integrantes del equipo
 
 | Foto | Descripción |
-|------|------------|
+|------|-------------|
 | <img width="150" src="../assets/img/chapter-I/vicente-photo.png"> | Estudio la carrera de Ingeniería de Software en la UPC. Me gusta el fútbol, surf, buceo y la tecnología. Soy una persona que siempre busca aprender nuevos conocimientos que me lleven a convertirme en un gran profesional y así poder cumplir mis metas cada día. |
 | <img width="150" src="../assets/img/chapter-I/pedro-photo.jpg"> | Mi nombre es Pedro Lecca y actualmente estudio la carrera de Ingeniería de Software en la Universidad UPC, sede San Miguel. Tengo 20 años y me considero una persona responsable, comprometida con el cumplimiento de mis deberes académicos. Además, valoro profundamente mantener una buena relación con mi equipo de trabajo, ya que estoy convencido de que un ambiente colaborativo y respetuoso permite alcanzar mejores resultados y potencia el desarrollo colectivo. |
 | <img width="150" src="../assets/img/chapter-I/moises-photo.jpg"> | Mi nombre es Moisés Espinoza Chávez, estoy estudiando la carrera de Ingeniería de Software y actualmente me encuentro cursando el quinto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje. Tengo conocimientos en SQL, C++ y un poco de HTML, CSS y JavaScript, así como habilidades para la adaptabilidad y la responsabilidad. |
@@ -118,3 +118,34 @@ A partir de la problemática detectada y el análisis de usuarios, se establecen
 - Generar alianzas con instituciones educativas para implementar Pathly como herramienta oficial de orientación.
 - Incrementar la conversión de usuarios gratuitos a planes de pago mediante valor percibido.
 - Construir una red profesional sólida que refuerce la confianza y reputación de la plataforma.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+A partir de nuestras asunciones, formulamos las siguientes hipótesis que deben ser validadas con usuarios reales:
+
+1. **Creemos que los estudiantes de secundaria necesitan una forma clara y accesible de entender su vocación**  
+   porque actualmente enfrentan confusión y presión al tomar decisiones sin acompañamiento profesional,  
+   entonces, si les ofrecemos una plataforma con test guiados y sesiones con orientadores certificados,  
+   aumentará su claridad y confianza en la elección de carrera.
+
+2. **Creemos que los psicólogos vocacionales necesitan una herramienta para organizar y dar seguimiento a sus orientaciones**  
+   porque ahora trabajan con recursos dispersos y tiempo limitado,  
+   entonces, si les damos un panel de gestión de citas, historial de estudiantes y comunicación integrada,  
+   podrán atender más casos sin sacrificar calidad.
+
+3. **Creemos que una plataforma digital con enfoque visual e interactivo motivará a los estudiantes a iniciar su proceso vocacional**  
+   porque están habituados al uso de tecnología, redes sociales y contenidos breves,  
+   entonces, si Pathly integra una experiencia de usuario fluida y amigable,  
+   se incrementará la frecuencia de uso y retención en la plataforma.
+
+4. **Creemos que permitir el contacto directo entre estudiante y orientador aumentará la percepción de valor de la plataforma**  
+   porque actualmente los estudiantes sienten que nadie les da seguimiento personalizado,  
+   entonces, si ofrecemos opciones como chat o videollamada,  
+   los usuarios confiarán más en la herramienta y en los resultados del proceso.
+
+5. **Creemos que un modelo freemium con test gratuitos y orientación opcional de pago**  
+   permitirá democratizar el acceso a la orientación vocacional,  
+   entonces, si ofrecemos una experiencia de valor desde el primer uso,  
+   lograremos atraer usuarios y convertirlos en clientes recurrentes.
+
+Estas hipótesis serán validadas mediante pruebas con usuarios, entrevistas, prototipos y análisis de métricas de uso.

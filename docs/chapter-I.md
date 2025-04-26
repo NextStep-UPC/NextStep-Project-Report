@@ -153,3 +153,52 @@ Estas hipótesis serán validadas mediante pruebas con usuarios, entrevistas, pr
 #### 1.2.2.4. Lean UX Canvas
 
 <p align="center"><img width="auto" height="auto" src="../assets/img/chapter-I/lean-ux-canvas.png">
+
+## 1.3. Segmentos objetivo
+
+Esta sección incluye la descripción de los segmentos asociados al dominio del problema, incluyendo características demográficas e información estadística de sustento.
+
+A partir de la investigación realizada, se han identificado dos segmentos clave para el desarrollo de Pathly. Ambos representan actores principales en el proceso de orientación vocacional y han sido seleccionados debido a su influencia directa en la toma de decisiones académicas y su apertura al uso de herramientas digitales.
+
+---
+
+#### 1. Estudiantes de secundaria (4to y 5to año)
+
+Este grupo está compuesto por adolescentes entre 15 y 18 años, que cursan los últimos años de educación secundaria. Según datos del Ministerio de Educación del Perú (MINEDU), más de 600 mil jóvenes transitan por este nivel cada año, siendo un grupo clave en el sistema educativo. La mayoría de estos estudiantes aún no define claramente una opción profesional, y lo hace influido por el entorno familiar, social o por presión institucional.
+
+**Características clave:**
+
+- Edad: entre 15 y 18 años  
+- Escolaridad: 4to y 5to año de secundaria  
+- Acceso digital: uso frecuente de celulares, redes sociales y Google  
+- Intereses: contenidos interactivos, autoconocimiento, seguridad en sus decisiones  
+- Comportamiento: búsqueda informal de información vocacional, presión por decidir, falta de orientación profesional continua
+
+**Necesidades detectadas:**
+
+- Herramientas accesibles que ayuden a explorar intereses, habilidades y opciones de carrera
+- Procesos guiados y personalizados que acompañen la decisión vocacional
+- Apoyo profesional que puedan entender y con el que se sientan escuchados
+
+---
+
+#### 2. Psicólogos vocacionales certificados
+
+Este segmento está conformado por profesionales de la psicología que trabajan en instituciones educativas, consultorías privadas o de manera independiente. En el Perú, según SUNEDU, hay más de 70 mil psicólogos licenciados, de los cuales una parte importante trabaja en entornos escolares. Sin embargo, la mayoría no cuenta con herramientas digitales integradas para procesos vocacionales, ni con plataformas que conecten eficientemente con estudiantes.
+
+**Características clave:**
+
+- Profesión: psicólogos con especialización en orientación vocacional
+- Modalidad de trabajo: presencial o virtual, en instituciones o de forma independiente
+- Dificultades: alta carga laboral, procesos manuales, falta de seguimiento estructurado
+- Intereses: plataformas que les permitan gestionar casos, agendar sesiones, brindar seguimiento y construir una reputación profesional validada
+
+**Necesidades detectadas:**
+
+- Acceder a un entorno digital donde puedan realizar test, seguimiento e interpretación de resultados
+- Gestionar múltiples estudiantes de manera organizada y segura
+- Participar de una red profesional confiable que potencie su impacto educativo
+
+---
+
+Ambos segmentos fueron validados mediante entrevistas, arquetipos, matrices de tareas y mapeos de experiencia. Pathly busca atender estas necesidades de forma conjunta, articulando tecnología con acompañamiento humano para transformar la orientación vocacional en una experiencia más efectiva, cercana y equitativa.

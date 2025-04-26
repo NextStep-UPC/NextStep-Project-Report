@@ -136,9 +136,6 @@ Adrian Valera es un chico de 5to grado de secundaria que aun no ha escogido una 
 lo ayude en ese proceso y que le gustaria estudiar psicologia. 
 
 
-
-
-
   **Entrevista N°2: Anyelo Alejos**
   - Sexo: Masculino
   - Edad: 17 años
@@ -152,14 +149,16 @@ lo ayude en ese proceso y que le gustaria estudiar psicologia.
 - Duración: 5:55
 
 **Resumen:**
+Anyelo Alejos, estudiante de quinto de secundaria, se encuentra en proceso de exploración vocacional y aún no ha decidido una carrera específica. No ha realizado un test vocacional formal, pero muestra interés en herramientas que le permitan conocerse mejor y tomar decisiones informadas. Se describe como reflexivo, con una actitud madura frente a su futuro, y suele apoyarse en sus padres y profesores para discutir temas relacionados a su orientación profesional. Reconoce sentir cierta presión por definir su futuro pronto, y valora mucho el acompañamiento que una plataforma podría ofrecerle para aclarar sus dudas.
 
+En cuanto a su vida digital, Angelo utiliza principalmente su smartphone y en menor medida una laptop. Pasa tiempo en YouTube y TikTok, consumiendo tanto contenido educativo como de entretenimiento. Prefiere las apps móviles por su practicidad, aunque también está cómodo usando páginas web, siempre que sean intuitivas. Navega con Google Chrome y está familiarizado con redes sociales como Instagram. Considera que una plataforma vocacional efectiva debe ofrecer tests, información clara, y espacios de interacción con orientadores, ya que las sesiones presenciales a veces no le son accesibles por tiempo o disponibilidad.
 
 
 
 
 ***Segmento 2:Psicólogos enfocados en orientación vocacional***
 
-**Entrevista N°1: MarCielo Rugel**
+**Entrevista N°1: Maricielo Rugel**
 - Sexo: Femenino
 - Edad: 23 años
 - Ubicación en la que vive olivos, Lima, Perú
@@ -203,16 +202,42 @@ Antonella también resaltó la importancia del rol que cumplen los padres en est
 - link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/Eb72kDMH6gNHt9tAQhgZkZYBXCf9tGGwbrpUYmwE7SYbDA?e=wrH5Qu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MS45Nn19
   
 - Momento en el que inicia: 0:02
-- Duración: 7:07
+- Duración: 4:24
 
 **Resumen:**
+Marcos Contreras es egresado de la carrera de Psicología y actualmente trabaja en el área de orientación vocacional, especialmente con estudiantes escolares. Durante la entrevista, mencionó que suele atender a los alumnos tanto de manera presencial como virtual, y que muchos llegan a él por recomendación institucional o familiar. Utiliza diversas herramientas para evaluar la vocación, como entrevistas, test psicométricos y dinámicas de autoconocimiento. Está abierto al uso de plataformas digitales automatizadas siempre que estas sirvan de apoyo y no reemplacen la interacción humana esencial en estos procesos. Mostró disposición a ofrecer sus servicios a través de una plataforma como PG, especialmente si cuenta con funciones que faciliten la gestión y seguimiento de estudiantes.
 
-
-
-  
+Sobre los desafíos que enfrenta, comentó que muchos adolescentes sienten incomodidad al expresarse o no toman con seriedad los procesos vocacionales, lo que dificulta una orientación efectiva. Considera clave que una plataforma incluya recursos visuales, interacción personalizada, y un panel de gestión donde pueda dar seguimiento a cada estudiante. Tiene experiencia con herramientas digitales y prefiere comunicarse con los alumnos por videollamada o chat, ya que le permite una relación más cercana. Además, mencionó que realiza seguimientos posteriores a las sesiones, y que le sería muy útil una plataforma que le permita organizar su base de usuarios y gestionar sus casos en un solo lugar.
 
 
 ### 2.2.3. Análisis de entrevistas
+
+ ***Segmento 1:Jóvenes estudiantes de 15 - 19 años***
+  **Entrevista 1**:
+  Adrián nos comentó que le gustaría contar con una plataforma de orientación vocacional, siempre y cuando esta cuente con certificaciones oficiales y ofrezca una guía personalizada durante todo el proceso. Además, señaló que los test vocacionales en formato físico que ha realizado anteriormente no le han resultado útiles ni satisfactorios, por lo que considera que una plataforma bien estructurada y acompañada por profesionales podría brindarle mayor confianza y mejores resultados.
+  **Entrevista 2**:
+Angelo es un joven que busca herramientas digitales accesibles, interactivas y con un toque personal para guiarlo en su exploración vocacional, por lo que una plataforma que combine tecnología con interacción humana sería una solución ideal para su caso.
+**Entrevista 3**:
+
+
+
+***Segmento 2:Psicólogos enfocados en orientación vocacional***
+**Entrevista N°1:**
+Maricielo ofrece una perspectiva valiosa que resalta la importancia de una orientación vocacional estructurada y profesional, en la que los estudiantes reciban un acompañamiento cercano y personalizado. Coincide con otros entrevistados en la necesidad de contar con canales de comunicación eficientes y un seguimiento adecuado, además de la relevancia de un sistema de validación de profesionales que garantice la calidad del servicio.
+
+**Entrevista N°2:**
+Antonella nos comento que quisiera una plataforma digital que combine herramientas de orientación vocacional actualizadas, seguimiento personalizado y la posibilidad de involucrar a las familias podría ser una solución integral que potencie el trabajo de psicólogos como Antonella y Marcos. Esto permitiría que los jóvenes tengan acceso a información relevante, interactúen con expertos de manera accesible y, lo más importante, reciban un apoyo adecuado tanto de los profesionales como de sus familias.
+**Entrevista N°3:**
+Marcos es un profesional con un enfoque integrador y abierto a la innovación tecnológica, siempre que estas herramientas respeten la importancia de la interacción personal y ayuden a mejorar la experiencia de orientación vocacional de los estudiantes.
+
+<p align="left"><img width ="auto" height="240" src="../assets/img/chapter-ii/pie-chart.png">
+
+
+<p align="left"><img width ="auto" height="240" src="../assets/img/chapter-ii/pie-chart1.png">
+
+
+<p align="left"><img width ="auto" height="240" src="../assets/img/chapter-ii/pie-chart2.png">
+
 
 ## 2.3. Needfinding
 

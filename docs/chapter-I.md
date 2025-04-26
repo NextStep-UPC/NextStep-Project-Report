@@ -20,6 +20,11 @@ Convertirnos en la plataforma de referencia en orientación vocacional en Latino
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
+| <div align="center">Foto</div> | <div align="center">Descripción</div> |
+| <p align="center"><img width="auto" height="auto" src="assets/images/commons/vicente-photo.png"> </p> | Estudio la carrera de Ingenieria de Software en la UPC. Me gusta el futbol, surf, buceo y la tecnologia. Soy una persona que le gusta siempre aprender nuevos conocimientos que me pueden llevar a convertirme en un gran profesional, asi poder cada dia cumplir mis metas. |
+| <p align="center"><img width="auto" height="auto" src="assets/images/commons/pedro-photo.png"> </p> | Mi nombre es Pedro Lecca y actualmente estudio la carrera de Ingeniería de Software en la Universidad UPC, sede San Miguel. Tengo 20 años y me considero una persona responsable, comprometida con el cumplimiento de mis deberes académicos. Además, valoro profundamente mantener una buena relación con mi equipo de trabajo, ya que estoy convencido de que un ambiente colaborativo y respetuoso permite alcanzar mejores resultados y potencia el desarrollo colectivo. |
+| <p align="center"><img width="auto" height="auto" src="assets/images/commons/moises-photo.jpg"> | Mi nombre es Moisés Espinoza Chávez, estoy estudiando la carrera de Ingeniería de Software y actualmente me encuentro cursando el quinto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje. Tengo conocimientos en SQL, C++ y un poco de HTML, CSS y JavaScript, así como habilidades para la adaptabilidad y la responsabilidad. |
+
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y Problemática
@@ -51,3 +56,21 @@ Aplicando la técnica 5W2H, se identifican las siguientes justificaciones:
 
 - **How much (Cuánto):**  
   Se propone un modelo de negocio freemium, en el cual los estudiantes puedan acceder gratuitamente a las funcionalidades básicas como el test inicial y contenidos educativos, y optar por planes de pago accesibles para sesiones personalizadas o asesorías avanzadas. Este modelo garantiza la inclusión de un mayor número de usuarios, permitiendo también que colegios puedan adoptar el servicio mediante convenios institucionales para sus estudiantes, democratizando el acceso a una orientación vocacional de calidad.
+
+### 1.2.2. Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements
+
+En el Perú, miles de estudiantes de secundaria se enfrentan cada año a la difícil tarea de decidir qué carrera profesional seguir, en un contexto cargado de presión social, expectativas familiares y desinformación. A pesar de que la orientación vocacional debería ser un proceso acompañado, introspectivo y guiado por especialistas, la realidad educativa nacional muestra que este acompañamiento es escaso, superficial o totalmente ausente.
+
+Muchos colegios carecen de programas integrales de orientación vocacional y solo ofrecen sesiones breves o test genéricos que no reflejan la realidad, intereses o fortalezas de cada estudiante. Esto deja a los adolescentes en un estado de incertidumbre que puede llevarlos a elegir carreras por descarte, imitación o presión externa, sin una comprensión real de sí mismos.
+
+Por otro lado, los psicólogos vocacionales enfrentan barreras importantes: falta de tiempo, exceso de demanda, herramientas poco adaptadas a la era digital y escasa continuidad con cada estudiante. Esto limita su capacidad de brindar un proceso profundo y sostenido de orientación. La tecnología, que podría ser una aliada en este contexto, aún no se integra de manera eficaz y humanizada al proceso vocacional escolar.
+
+Pathly nace con el propósito de transformar esta realidad. Nuestra propuesta busca ofrecer una solución digital accesible, que integre evaluaciones vocacionales modernas con asesoría personalizada, permitiendo a los estudiantes conocerse mejor y tomar decisiones informadas, y a los psicólogos gestionar eficientemente cada caso.
+
+Lo que nos diferencia es el enfoque dual y colaborativo: unir a estudiantes y profesionales en una misma plataforma que respete el ritmo del usuario, facilite el seguimiento, y garantice la calidad del acompañamiento vocacional mediante validación profesional y buenas prácticas de UX.
+
+Los hallazgos de nuestras entrevistas evidencian que tanto estudiantes como orientadores desean una experiencia más fluida, empática, estructurada y continua, que combine lo mejor de la tecnología con el valor del contacto humano.
+
+**¿Cómo podemos diseñar una plataforma que no solo facilite la toma de decisiones vocacionales, sino que también promueva un proceso empático, guiado, accesible y sostenido en el tiempo para estudiantes y psicólogos?**

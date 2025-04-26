@@ -60,6 +60,6 @@ Diseñar la experiencia ideal de un psicólogo certificado utilizando Pathly, en
 
 ## 3.3. Impact Mapping
 
+<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-III/impact-mapping.jpg">
+
 ## 3.4. Product Backlog
-
-

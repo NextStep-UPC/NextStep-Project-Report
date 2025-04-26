@@ -77,10 +77,26 @@ Justificación:
 
 Un sistema de espaciado claro y coherente permite que los elementos estén en armonía, guíen visualemente al usuario, y generan una sensación de orden y profesionalismo. Esto es muy importante en Pathly, porque los estudiantes deben tomar decisiones importantes y con claridad, sin sobrecarga visual.
 
-![spacing](/assets/img/chapter-IV/spacing.png)
+![spacing img](/assets/img/chapter-IV/spacing.png)
 
 
 #### 4.1.1.4 Branding:
+
+![logo img](/assets/img/chapter-IV/logo.png)
+
+Nuestro logo presenta una identidad visual moderna, minimalista y sólida, diseñada para conectar con un público joven.
+
+#### **Características**
+
+- La tipografía en mayúsculas cuenta con cualidades esenciales que transmiten firmeza, confianza y claridad, especialmente para una plataforma tiene el objetivo de guiar a los estudiantes en su camino de crecimiento académico.
+
+- El detalle en la letra "A", representa de manera sutil una decisión o camino, que funciona como recordatorio visual de los múltiples rumbos que puede tomar un estudiante en su futuro.
+  
+- Sin perder la sensación de cercanía y accesibilidad, el uso del color gris oscuro aporta un tono serio y profesional.
+  
+- El logo, con una imagen limpia y atemporal, es una representación perfecta de nuestro propósito: ser una guía confiable para los jóvenes en decisiones sobre su futuro profesional.
+
+
 #### 4.1.1.5 Tono de Comunicación
 
 En Pathly queremos que los estudiantes sientan que nuestra plataforma es un acompañante de confianza en su proceso de elección vocacional. Por lo que, este será el lenguaje que usaremos 

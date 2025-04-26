@@ -76,30 +76,30 @@ Los hallazgos de nuestras entrevistas evidencian que tanto estudiantes como orie
 
 **¿Cómo podemos diseñar una plataforma que no solo facilite la toma de decisiones vocacionales, sino que también promueva un proceso empático, guiado, accesible y sostenido en el tiempo para estudiantes y psicólogos?**
 
-### 1.2.2.2. Lean UX Assumptions
+#### 1.2.2.2. Lean UX Assumptions
 
 A partir de la problemática detectada y el análisis de usuarios, se establecen las siguientes suposiciones clave que guían el desarrollo inicial de Pathly:
 
 **Suposiciones sobre estudiantes de secundaria:**
 
-- Suponemos que los estudiantes de 4to y 5to de secundaria **no tienen claro qué carrera elegir** y necesitan herramientas confiables para conocerse mejor.
-- Suponemos que **valoran la opinión de sus padres y profesores**, pero buscan decidir por sí mismos con mayor seguridad.
-- Suponemos que muchos **han realizado test vocacionales genéricos** en internet, pero no confían del todo en sus resultados.
-- Suponemos que **prefieren plataformas visuales, intuitivas y móviles**, debido a su afinidad con la tecnología y el uso cotidiano de redes sociales.
-- Suponemos que los estudiantes se sienten más cómodos **si pueden acceder a orientación desde casa o fuera del horario escolar**.
+- Suponemos que los estudiantes de 4to y 5to de secundaria no tienen claro qué carrera elegir y necesitan herramientas confiables para conocerse mejor.
+- Suponemos que valoran la opinión de sus padres y profesores, pero buscan decidir por sí mismos con mayor seguridad.
+- Suponemos que muchos han realizado test vocacionales genéricos en internet, pero no confían del todo en sus resultados.
+- Suponemos que prefieren plataformas visuales, intuitivas y móviles, debido a su afinidad con la tecnología y el uso cotidiano de redes sociales.
+- Suponemos que los estudiantes se sienten más cómodos si pueden acceder a orientación desde casa o fuera del horario escolar.
 
 **Suposiciones sobre psicólogos vocacionales:**
 
-- Suponemos que los psicólogos escolares y vocacionales **desean llegar a más estudiantes** sin sacrificar la calidad del proceso.
-- Suponemos que necesitan **herramientas digitales que integren test, historial y seguimiento** de los casos en una misma plataforma.
-- Suponemos que **valoran mantener el contacto humano**, pero estarían dispuestos a usar una plataforma si mejora la gestión y organización de su trabajo.
-- Suponemos que **prefieren trabajar en entornos donde puedan validar su experiencia profesional**, generar reputación y recibir retroalimentación.
+- Suponemos que los psicólogos escolares y vocacionales desean llegar a más estudiantes sin sacrificar la calidad del proceso.
+- Suponemos que necesitan herramientas digitales que integren test, historial y seguimiento de los casos en una misma plataforma.
+- Suponemos que valoran mantener el contacto humano, pero estarían dispuestos a usar una plataforma si mejora la gestión y organización de su trabajo.
+- Suponemos que prefieren trabajar en entornos donde puedan validar su experiencia profesional, generar reputación y recibir retroalimentación.
 
 **Suposiciones sobre el entorno digital:**
 
-- Suponemos que una plataforma digital debe ofrecer **resultados de test personalizables**, acompañados de recomendaciones prácticas y claras.
-- Suponemos que la solución debe incluir **funciones de contacto directo entre estudiante y orientador** (como chat o videollamada).
-- Suponemos que un modelo freemium permitiría **captar usuarios sin barreras económicas**, y que un sistema de perfiles motivaría el uso frecuente.
+- Suponemos que una plataforma digital debe ofrecer **resultados de test personalizables, acompañados de recomendaciones prácticas y claras.
+- Suponemos que la solución debe incluir funciones de contacto directo entre estudiante y orientador (como chat o videollamada).
+- Suponemos que un modelo freemium permitiría captar usuarios sin barreras económicas, y que un sistema de perfiles motivaría el uso frecuente.
 
 ---
 

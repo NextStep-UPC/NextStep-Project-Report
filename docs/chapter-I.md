@@ -149,3 +149,7 @@ A partir de nuestras asunciones, formulamos las siguientes hipótesis que deben 
    lograremos atraer usuarios y convertirlos en clientes recurrentes.
 
 Estas hipótesis serán validadas mediante pruebas con usuarios, entrevistas, prototipos y análisis de métricas de uso.
+
+#### 1.2.2.4. Lean UX Canvas
+
+<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-I/lean-ux-canvas.png">

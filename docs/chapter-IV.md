@@ -179,7 +179,7 @@ Una vez enviado, el sistema genera un enlace de recuperación de contraseña al 
 ---
 
 **Restablecer contraseña - Nueva contraseña:**
-<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-IV/Reset password Wireflow #2.png">
+<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-IV/Reset password Wireflow 2.png">
 
 El sistema solicita al usuario ingresar una **nueva contraseña** y confirmar su coincidencia para proceder con el cambio.  
 Al presionar el botón **"Realizar cambios"**, se actualiza la contraseña en el sistema.
@@ -187,13 +187,72 @@ Al presionar el botón **"Realizar cambios"**, se actualiza la contraseña en el
 ---
 
 **Restablecer contraseña - Error de coincidencia:**
-<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-IV/Reset password Wireflow #3.png">
+<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-IV/Reset password Wireflow 3.png">
 
 Si las contraseñas ingresadas no coinciden, se muestra un **mensaje de error en rojo** que indica "**¡Las contraseñas no coinciden!**".  
 El usuario debe corregir ambas entradas antes de poder continuar.
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+
 ### 4.4.3. Web Applications Mock-ups
+
+**Desktop Home Mock-Up:**
+<p align="center"><img src="../assets/img/chapter-IV/web-applications-desktop-home.png" width="45%" height="auto">
+
+---
+**Desktop Register Mock-up:**
+<p align="center"><img src="../assets/img/chapter-IV/web-applications-desktop-register.png" width="45%" height="auto">
+
+---
+
+**Desktop Login / Login Error Mock-up:**
+
+<p align="center"><img src="../assets/img/chapter-IV/web-applications-desktop-login.png" width="45%" height="auto">
+
+<p align="center"><img src="../assets/img/chapter-IV/web-applications-desktop-login-error.png" width="45%" height="auto">
+
+---
+
+**Desktop Reset password / Error reset password / Successfully reset password Mock-up:**
+
+<p align="center"><img src="../assets/img/chapter-IV/web-applications-desktop-reset-password-one" width="45%" height="auto">
+
+<p align="center"><img src="../assets/img/chapter-IV/web-applications-desktop-reset-password-two" width="45%" height="auto">
+
+<p align="center"><img src="../assets/img/chapter-IV/web-applications-desktop-reset-password-three" width="45%" height="auto">
+
+<p align="center"><img src="../assets/img/chapter-IV/web-applications-desktop-reset-password-four" width="45%" height="auto">
+
+---
+
+**Mobile Home Mock-up:**
+<p align="center"><img src="../assets/img/chapter-IV/web-applications-mobile-home.png" width="45%" height="auto">
+
+---
+
+**Mobile Register Mock-up:**
+<p align="center"><img src="../assets/img/chapter-IV/web-applications-mobile-register.png" width="45%" height="auto">
+
+---
+
+**Mobile Login / Login Error Mock-up:**
+
+<p align="center"><img src="../assets/img/chapter-IV/web-applications-mobile-login.png" width="45%" height="auto">
+
+<p align="center"><img src="../assets/img/chapter-IV/web-applications-mobile-login-error.png" width="45%" height="auto">
+
+---
+
+**Mobile Reset password / Error reset password / Successfully reset password Mock-up:**
+
+<p align="center"><img src="../assets/img/chapter-IV/web-applications-mobile-reset-password-one" width="45%" height="auto">
+
+<p align="center"><img src="../assets/img/chapter-IV/web-applications-mobile-reset-password-two" width="45%" height="auto">
+
+<p align="center"><img src="../assets/img/chapter-IV/web-applications-mobile-reset-password-three" width="45%" height="auto">
+
+<p align="center"><img src="../assets/img/chapter-IV/web-applications-mobile-reset-password-four" width="45%" height="auto">
+
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture

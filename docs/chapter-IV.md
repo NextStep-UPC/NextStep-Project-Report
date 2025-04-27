@@ -201,10 +201,12 @@ El usuario debe corregir ambas entradas antes de poder continuar.
 ### 4.4.3. Web Applications Mock-ups
 
 **Desktop Home Mock-Up:**
+
 <p align="center"><img swidth="45%" height="auto" rc="../assets/img/chapter-IV/web-applications-desktop-home.png">
 
 ---
 **Desktop Register Mock-up:**
+
 <p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-desktop-register.png">
 
 ---

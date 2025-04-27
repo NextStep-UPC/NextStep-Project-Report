@@ -13,7 +13,7 @@
 * **Quijandria Araneda, Vicente      U201822697**
 * **Lecca Villalobos. Pedro Omar     U202223293**
 * **Espinoza Chavez, Moises Filemon  U202221383**
-* **Geronimo Quispe,Pablo Antonio    U202314304**
+* **Geronimo Quispe, Pablo Antonio   U202314304**
 * **Paucar Zenteno, Jesús Fernando   U202316687**
 
 ---
@@ -26,10 +26,13 @@
 | TB1     | 25/07/2025 | Lecca Villalobos, Pedro Omar | Realizó el Capítulo 1 y 3 |
 | TB1     | 26/07/2025 | Lecca Villallbos, Pedro Omar | Realizó los puntos 4.3 y 4.4 del capítulo 4 |
 | TB1     | 26/07/2025 | Lecca Villalobos, Pedro Omar | Terminó la Landing Page / Web Applications & Wireframes & MockUp |
+| TB1     | 26/07/2025 | Geronimo Quispe, Pablo Antonio | Realizó el punto 4.6. |
 | TB1     | 26/07/2025 | Espinoza Chávez, Moisés Filemón | Realizó el punto 4.1.1. General Style Guidelines |
 | TB1     | 27/07/2025 | Espinoza Chávez, Moisés Filemón | Realizó el punto 4.1.2. Web Style Guidelines |
 | TB1     | 27/07/2025 | Espinoza Chávez, Moisés Filemón | Realizó los puntos 4.2.1, 4.2.2, 4.2.3, 4.2.4, 4.2.5 |
 | TB1     | 27/07/2025 | Espinoza Chávez, Moisés Filemón | Realizó el punto 5.2.1.5 Execution Evidence for Sprint Review. |
+| TB1     | 27/07/2025 | Lecca Villalobos, Pedro Omar | Realizó los puntos 5.1.1 hasta 5.2.1.4, luego 5.2.1.6 hasta 5.2.1.8. |
+| TB1     | 27/07/2025 | Lecca Villalobos, Pedro Omar | Realizó las conclusiones, y actualizó el documento. |
 
 ## Project Report Collaboration Insights
 

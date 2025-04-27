@@ -858,3 +858,564 @@ Diseñar la experiencia ideal de un psicólogo certificado utilizando Pathly, en
 | 20      | US22           | Panel de administración                | Como administrador, deseo visualizar KPIs y reportes del sistema.                | 3            | E06     |
 | 21      | US20           | Filtro de psicólogos                   | Como estudiante, deseo filtrar psicólogos por criterios de interés.              | 3            | E05     |
 | 22      | US21           | Modo oscuro / accesibilidad visual     | Como usuario, deseo adaptar la interfaz a mis preferencias visuales.             | 2            | E05     |
+
+# Capítulo IV: Product Design
+## 4.1. Style Guidelines
+Las presentes guías de estilo definen la identidad visual y comunicacional de Pathly, nuestra plataforma digital de orientación vocacional. Su propósito es asegurar la coherencia en todos los elementos gráficos, tonos de comunicación y estructuras visuales que conforman tanto la aplicación web como la landing page.
+
+### 4.1.1. General Style Guidelines
+
+#### 4.1.1.1 Colores
+La paleta de colores de Pathly ha sido cuidadosamente seleccionada para reflejar los valores de la marca: orientación, claridad, apoyo profesional y entusiasmo juvenil. Cada color cumple un rol visual y emocional específico dentro de la experiencia del usuario.
+
+
+`#23383F`– **Dark Night**
+
+Representa estructura, enfoque y estabilidad. Ideal para generar un ambiente serio y profesional, sin ser demasiado rígido.
+Se usa en los encabezados, fondo de navbar, botones principales, footer.
+
+`#C6D5C9` – **Slow Green**: 
+
+Un verde suave con toques grisáceos que genera paz visual y naturalidad, creando una sensación de bienestar y orden.
+Se usa en los fondos de secciones, tarjetas, áreas de descanso visual.
+
+`#F8F8F6` – **Pure White**: 
+
+Un blanco cálido y limpio que aporta claridad.
+Se usa en el fondo principal, formularios, áreas amplias de lectura.
+
+`#8595AA` – **Dried Lavander**: 
+
+Este color que transmite calma, objetividad y enfoque. Muy útil para equilibrar la paleta con un aire profesional.
+Se usa en los íconos, elementos informativos, indicadores secundarios.
+
+`#2E6864` – **Green Bay**: 
+
+Este verde azulado intenso combina serenidad con firmeza, y comunica acompañamiento emocional y apertura.
+Se usa en botones secundarios, títulos destacados, íconos de confianza o conexión.
+
+![paleta img](/assets/img/chapter-IV/paleta-colores.png)
+
+
+#### 4.1.1.2 Tipografía
+
+Nuestra tipografía utiliza una combinación de fuentes sans-serif modernas que equilibran juventud y profesionalismo ya que, se busca reflejar claridad, estructura y modernidad. Se prioriza la claridad en la comunicación, y que la experiencia de lectura sea amigable para los usuarios, sin perder de vista un estilo amigable y accesible.
+
+#### **Poppins**
+- **Uso:** Títulos principales, encabezados destacados, botones importantes (CTA).
+- **Justificación:** El aspecto limpio y geometría equilibradad de Poppins, comunica modernidad y profesionalismo sin ser intimidante. Su estructura de líneas redondas transmite dinamismo y cercanía.
+
+![poppins font](/assets/img/chapter-IV/poppins-font.png)
+
+#### **Open Sans**
+- **Uso**: Texto de párrafos, descripciones, formularios, información secundaria.
+- **Justificación:** Se seleccionó a Open Sans por su excelente legibilidad en pantalla, y por su neutralidad visual. Complementa a Poppins porque aporta una base sobria y fácil de leer para los textos largos, lo que contribuye a una experiencia de usuario fluida en plataformas digitales.
+
+![opens sans font](/assets/img/chapter-IV/open-sans-font.png)
+
+#### **Raleway**
+- **Uso**: Subtítulos, frases, pequeños encabezados secundarios.
+- **Justificación:** Raleway combina perfectamente con la redondez de Poppins y la neutralidad de Open Sans. Aporta un diseño estilizado que le da un toque de sofisticación ligera, sin perder frescura.
+
+![raleway font](/assets/img/chapter-IV/raleway-font.png)
+
+
+#### 4.1.1.3 Spacing:
+
+Pathly busca asegurar consistencia visual, equilibrio y una experiencia de usuario fluida. Su espaciado se basa en una escala modular de 8px, lo cual permite una interfaz clara, visualmente atractiva y adaptable a distintos dispositivos.
+
+Toda la interfaz se construye utilizando múltiplos de 8:
+8px - 16px - 4px - 32px - 40px - 48px - 64px
+
+- **8px**: Escala Base
+- **12px** vertical - 24px horizontal: Padding interno de botones
+- **16px**: Espaciado entre título y texto
+- **24px**: Espaciado entre elementos de una misma categoría (tarjetas)
+- **64px**: Separación entre secciones grandes, espaciado entre bloques
+- **1.5x**: el tamaño del texto, altura mínima de línea (line-height)
+
+Justificación:
+
+Un sistema de espaciado claro y coherente permite que los elementos estén en armonía, guíen visualemente al usuario, y generan una sensación de orden y profesionalismo. Esto es muy importante en Pathly, porque los estudiantes deben tomar decisiones importantes y con claridad, sin sobrecarga visual.
+
+![spacing img](/assets/img/chapter-IV/spacing.png)
+
+
+#### 4.1.1.4 Branding:
+
+![logo img](/assets/img/chapter-IV/logo.png)
+
+Nuestro logo presenta una identidad visual moderna, minimalista y sólida, diseñada para conectar con un público joven.
+
+#### **Características**
+
+- La tipografía en mayúsculas cuenta con cualidades esenciales que transmiten firmeza, confianza y claridad, especialmente para una plataforma tiene el objetivo de guiar a los estudiantes en su camino de crecimiento académico.
+
+- El detalle en la letra "A", representa de manera sutil una decisión o camino, que funciona como recordatorio visual de los múltiples rumbos que puede tomar un estudiante en su futuro.
+  
+- Sin perder la sensación de cercanía y accesibilidad, el uso del color gris oscuro aporta un tono serio y profesional.
+  
+- El logo, con una imagen limpia y atemporal, es una representación perfecta de nuestro propósito: ser una guía confiable para los jóvenes en decisiones sobre su futuro profesional.
+
+
+#### 4.1.1.5 Tono de Comunicación
+
+En Pathly queremos que los estudiantes sientan que nuestra plataforma es un acompañante de confianza en su proceso de elección vocacional. Por lo que, este será el lenguaje que usaremos 
+
+| Tonos                  | Justificación                                                                                              |
+| -----------------------|------------------------------------------------------------------------------------------------------------|
+| Amigable y cercano     |  Buscamos transmitir seguridad y apoyo, al ser nuestra plataforma empática y motivadora                    |
+| Inspirador y optimista |  El tono se enfoca en animar, y hacer ver que elegir su camino es una oportunidad para construir su futuro |
+| Claro y directo        |  El mensaje debe ser fácil de entender, por lo que se utilizan frases sencillas, naturales.                |
+| Juvenil y formal       |  Queremos sonar modernos, pero siempre respetando la inteligencia y madurez de los jóvenes.                |
+
+
+### 4.1.2. Web Style Guidelines
+
+En el desarrollo actual de Pathly, estamos estableciendo las bases de nuestros estándares visuales y de interacción para interfaces web responsivas. Aunque nuestra prioridad inicial es ofrecer una navegación intuitiva y construir una identidad visual fuerte, también hemos optado por la incorporación futura de patrones de lectura reconocidos, como lo son: el Patrón F y el Patrón Z. 
+Estos patrones mejorando tanto la usabilidad como la eficiencia de la navegación, optimizando así la forma en que los usuarios observan la información en diferentes dispositivos.
+
+Utilizaremos el Patrón F para páginas de contenido denso o informativo, mientras que el Patrón Z nos permitirá estructurar la landing page de manera fluida y atractiva, para que los usuarios enfoquen y guíen su mirada naturalmente hacia las acciones más importantes. De esta forma, garantizaremos una mejor experiencia, más intuitiva, coherente y adaptada a las expectativas de nuestro público joven y digitalmente activo.
+
+
+## 4.2. Information Architecture
+### 4.2.1. Organization Systems
+
+#### **Landing Page**
+Visual Organization:
+-	Jerárquica: 
+Se empleará una jerarquía visual clara que priorice la atención del usuario hacia la propuesta de valor, beneficios, metas, equipo, y opciones de registro o inicio de sesión.
+
+- Secuencial: El flujo de navegación guiará al usuario  de manera lógica desde el descubrimiento del servicio hacia el registro.
+  
+Esquemas de Categorización:
+- Por audiencia: Se implementarán dos caminos para cada segmento: "Soy estudiante" y "Soy psicólogo", para ofrecer contenido personalizado.
+
+
+
+
+#### **Web Application**
+
+Visual Organization:
+- Jerárquica: Los elementos que tendrán la máxima prioridad visual serán: el test vocacional y los resultados.
+  
+- Secuencial: El proceso estará estructurado paso por paso: Registro, Realizar Test, Visualizar Resultados.
+  
+Esquemas de Categorización:
+- Por tópicos: Para una fácil exploración, las carreras, habilidades y resultados estarán categorizados temáticamente.
+
+
+
+### 4.2.2. Labeling Systems
+
+#### **Landing Page**
+Se utilizarán etiquetas breves, considerando simplicidad y claridad, así evitando tecnicismos para facilitar la comprensión:
+
+- Inicio
+- Beneficios
+-	Metas
+-	Equipo
+-	Iniciar sesión
+-	Registrarse
+-	Soy estudiante
+-	Soy psicólogo
+  
+Cada sección estará hecha con términos familiares, buscando cercanía y claridad, para los estudiantes y psicólogos.
+
+
+
+
+#### **Web Application**
+
+Etiquetas claras y funcionales, adaptadas a la dinámica de uso de la app:
+
+- Iniciar sesión
+- Registrarse
+- Test vocacional
+- Resultados
+- Mi perfil
+- Mis carreras favoritas
+- Guía para psicólogos
+
+
+
+### 4.2.3. SEO Tags and Meta Tags
+
+#### **Landing Page**
+Title:
+Pathly | Guía Vocacional para Estudiantes y Psicólogos
+
+- Meta Description:
+
+Descubre Pathly: conecta a estudiantes de secundaria con su vocación ideal brindado herramientas digitales para guiar su proceso, de la mano de psicologos especializados.
+
+- Keywords:
+
+Guía vocacional, orientación vocacional, estudiantes, psicólogos, futuro académico profesional
+
+- Author:
+
+Equipo Pathly
+
+
+
+
+#### **Web Application**
+Title:
+Pathly | Descubre tu camino, decide tu futuro
+
+- Meta Description:
+Realiza tu test vocacional para encuentror tu verdadera pasión. Con Pathly, da el primer paso hacia tu futuro profesional ideal.
+
+- Keywords:
+test vocacional, futuro profesional, carrera ideal,  orientación vocacional, estudiantes, psicólogos
+
+- Author:
+Equipo Pathly
+
+
+
+### 4.2.4. Searching Systems
+
+#### **Landing Page**
+- Actualmente no están implementados sistemas de búsqueda en la landing page, porque su objetivo principal es guiar a los usuarios hacia el registro. Sin embargo, se incluirán en un futuro próximo, conforme se expanda el contenido disponible.
+
+
+
+
+#### **Web Application**
+
+Se integrarán buscadores en una futura implementación para:
+
+-	Buscar carreras profesionales.
+- Los datos luego de una búsqueda se presentarán en tarjetas de resultados con nombre de la carrera, categoría.
+- Filtrar resultados por habilidades, intereses u otros filtros .
+
+
+
+### 4.2.5. Navigation Systems
+
+#### **Landing Page**
+La navegación será simple:
+. El Menú superior estará anclado a las secciones principales (Inicio, Beneficios, Metas, Equipo).
+- Botones de "Soy estudiante" y "Soy psicólogo" visibles y accesibles en el primer pantallazo.
+- Acceso rápido a "Iniciar sesión" y "Registrarse" ubicado en un punto visible.
+
+
+
+
+#### **Web Application**
+
+- Barra de navegación en la aplicación.
+- Acceso directo a secciones como: “Test vocacional”, “Resultados” y “Mi perfil”.
+- Apartados internos para explorar carreras sugeridas.
+- Botones de acción ("Realizar test", "Ver resultados", "Editar perfil").
+
+
+
+## 4.3. Landing Page UI Design
+
+### 4.3.1. Landing Page Wireframe
+
+Los wireframes presentados corresponden al diseño inicial de la landing page de Pathly, tanto para versión web como móvil. La estructura muestra una navegación clara con secciones principales como presentación de la plataforma, beneficios destacados, descripción de servicios, testimonios y un llamado a la acción. Se incluyen áreas para imágenes representativas, texto explicativo breve y elementos interactivos, priorizando una experiencia de usuario intuitiva, visualmente limpia y optimizada para conversión."
+
+<p align="center"><img width="45%" height="45%" src="../assets/img/chapter-IV/landing-page-web-wireframe.png">
+
+---
+
+<p align="center"><img width="45%" height="45%" src="../assets/img/chapter-IV/landing-page-mobile-wireframe.png">
+
+### 4.3.2. Landing Page Mock-up
+
+Los mockups presentan el diseño visual final de la landing page de Pathly para versión web y móvil, mostrando la identidad gráfica, estructura de navegación, secciones clave (¿Quiénes somos?, Beneficios, Metas y Equipo) y una propuesta visual amigable para acompañar el proceso de orientación vocacional.
+
+<p align="center"><img width="45%" height="45%" src="../assets/img/chapter-IV/landing-page-web-mock-up.png">
+
+---
+
+<p align="center"><img width="auto" height="45%" src="../assets/img/chapter-IV/landing-page-mobile-mock-up.png">
+
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
+
+A continuación se presentan los wireframes de las principales pantallas de interacción del sistema Pathly:
+
+---
+
+**Login:**
+<p align="center"><img width="45%" height="45%" src="../assets/img/chapter-IV/Login Wireflow.png">
+
+La pantalla de inicio de sesión permite al usuario ingresar su **correo electrónico** y **contraseña** para acceder a la plataforma.  
+Se ofrecen enlaces para **crear una nueva cuenta** o **recuperar contraseña** en caso de olvido.  
+Si las credenciales ingresadas son correctas, el usuario accede directamente al sistema.
+
+---
+
+**Login con credenciales incorrectas:**
+<p align="center"><img width="45%" height="45%" src="../assets/img/chapter-IV/Login wrong credentials Wireflow.png">
+
+En caso de ingresar datos incorrectos, el sistema muestra un **mensaje de error en rojo** advirtiendo que el correo o la contraseña son incorrectos.  
+El formulario permanece visible para que el usuario corrija los datos o utilice los accesos de recuperación o registro.
+
+---
+
+**Registro de nuevo usuario:**
+<p align="center"><img width="45%" height="45%" src="../assets/img/chapter-IV/Register Wireflow.png">
+
+Para registrarse, el usuario debe completar los campos obligatorios: **nombre(s)**, **apellidos**, **fecha de nacimiento**, **número telefónico**, **correo electrónico**, **contraseña** y **confirmación de contraseña**.  
+Se incluye una opción de contacto para resolver problemas técnicos en el proceso.
+
+---
+
+**Restablecer contraseña - Solicitar correo electrónico:**
+<p align="center"><img width="45%" height="45%" src="../assets/img/chapter-IV/Reset password Wireflow.png">
+
+Para iniciar el proceso de recuperación, se pide al usuario que introduzca su **correo electrónico** registrado.  
+Una vez enviado, el sistema genera un enlace de recuperación de contraseña al correo proporcionado.
+
+---
+
+**Restablecer contraseña - Nueva contraseña:**
+<p align="center"><img width="45%" height="45%" src="../assets/img/chapter-IV/Reset password Wireflow 2.png">
+
+El sistema solicita al usuario ingresar una **nueva contraseña** y confirmar su coincidencia para proceder con el cambio.  
+Al presionar el botón **"Realizar cambios"**, se actualiza la contraseña en el sistema.
+
+---
+
+**Restablecer contraseña - Error de coincidencia:**
+<p align="center"><img width="45%" height="45%" src="../assets/img/chapter-IV/Reset password Wireflow 3.png">
+
+Si las contraseñas ingresadas no coinciden, se muestra un **mensaje de error en rojo** que indica "**¡Las contraseñas no coinciden!**".  
+El usuario debe corregir ambas entradas antes de poder continuar.
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+<p align="center"><img swidth="auto" height="auto" rc="../assets/img/chapter-IV/wireflow-inicio-sesion.jpg">
+
+### 4.4.3. Web Applications Mock-ups
+
+**Desktop Home Mock-Up:**
+
+<p align="center"><img swidth="45%" height="auto" rc="../assets/img/chapter-IV/web-applications-desktop-home.png">
+
+---
+**Desktop Register Mock-up:**
+
+<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-desktop-register.png">
+
+---
+
+**Desktop Login / Login Error Mock-up:**
+
+<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-desktop-login.png">
+
+<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-desktop-login-error.png">
+
+---
+
+**Desktop Reset password / Error reset password / Successfully reset password Mock-up:**
+
+<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-desktop-reset-password-one.png">
+
+<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-desktop-reset-password-two.png">
+
+<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-desktop-reset-password-three.png">
+
+<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-desktop-reset-password-four.png">
+
+---
+
+**Mobile Home Mock-up:**
+<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-mobile-home.png">
+
+---
+
+**Mobile Register Mock-up:**
+<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-mobile-register.png">
+
+---
+
+**Mobile Login / Login Error Mock-up:**
+
+<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-mobile-login.png">
+
+<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-mobile-login-error.png">
+
+---
+
+**Mobile Reset password / Error reset password / Successfully reset password Mock-up:**
+
+<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-mobile-reset-password-one.png">
+
+<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-mobile-reset-password-two.png">
+
+<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-mobile-reset-password-three.png">
+
+<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-mobile-reset-password-four.png">
+
+### 4.4.4. Web Applications User Flow Diagrams
+## 4.5. Web Applications Prototyping
+
+## 4.6. Domain-Driven Software Architecture
+
+### 4.6.1. Software Architecture Context Diagram
+
+![Context Diagram](/assets/img/chapter-IV/Context.png)
+
+### 4.6.2. Software Architecture Container Diagrams
+
+![Context Diagram](/assets/img/chapter-IV/container.png)
+
+### 4.6.3. Software Architecture Components Diagrams
+
+**Diagrama de Componentes - User support Bounded context**
+
+![Context Diagram](/assets/img/chapter-IV/User-component.png)
+
+**Diagrama de Componentes -Technical funcions Bounded context**
+
+![Component Diagram](/assets/img/chapter-IV/funcions-component.png)
+
+**Diagrama de Componentes -System administration Bounded context**
+
+![Component Diagram](/assets/img/chapter-IV/system-component.png)
+
+**Diagrama de Componentes -Information Site Bounded context**
+
+![Component Diagram](/assets/img/chapter-IV/Informacion-component.png)
+
+**Diagrama de Componentes -Managament Psychologist Bounded context**
+
+![Component Diagram](/assets/img/chapter-IV/Managament-component.png)
+
+**Diagrama de Componentes -Register student Bounded context**
+
+![Component Diagram](/assets/img/chapter-IV/student-component.png)
+
+
+## 4.7. Software Object-Oriented Design
+### 4.7.1. Class Diagrams
+### 4.7.2. Class Dictionary
+## 4.8. Database Design
+### 4.8.1. Database Diagram
+
+# Capítulo V: Product Implementation, Validation & Deployment
+
+## 5.1. Software Configuration Management
+
+### 5.1.1. Software Development Environment Configuration
+
+### Project Management
+
+- **Discord:** Herramienta de comunicación en línea que permitió al equipo realizar reuniones de coordinación en tiempo real mediante videollamadas y mensajes.
+- **Zoom:** Plataforma utilizada para llevar a cabo y registrar la exposición final, garantizando una grabación clara y accesible de la presentación grupal.
+- **Trello:** Sistema de gestión de tareas basado en tableros, que facilitó la organización, seguimiento y coordinación de actividades del equipo a través de listas, tarjetas y etiquetas.
+- **Miro**  Es una herramienta de colaboración visual en línea que permite crear mapas mentales, diagramas de flujo y tableros interactivos, facilitando la planificación, organización y co-creación de ideas en tiempo real.
+- **CodeSandBox:** Es una plataforma de desarrollo en línea que permite crear, editar y compartir proyectos web de manera rápida, ofreciendo un entorno de codificación colaborativo y basado en la nube, ideal para prototipado y desarrollo ágil.
+
+### Requirements Management
+
+- **Structurizr:** Es un conjunto de herramientas que facilita la creación colaborativa de modelos C4, permitiendo representar gráficamente los productos desarrollados.
+
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-IV/container.png">
+
+### Product UX/UI Design
+
+- **Figma:** Es una plataforma de diseño colaborativo en línea que permite crear, prototipar y compartir interfaces de usuario en tiempo real, facilitando el trabajo en equipo de forma ágil y visual.
+
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/figma_evidence.png">
+
+### Software Development 
+
+- **HTML5:** Es la quinta versión del lenguaje de marcado estándar para la creación de páginas web, que incorpora nuevas etiquetas y funcionalidades para estructurar mejor los contenidos, integrar multimedia y mejorar la experiencia de usuario en distintos dispositivos.
+
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/html5_evidence.png">
+
+- **CSS:** Es un lenguaje de hojas de estilo que permite definir la apariencia y el diseño de los documentos HTML, controlando aspectos como los colores, tipografías, márgenes, posiciones y adaptabilidad de los elementos en diferentes dispositivos.
+
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/css_evidence.png">
+
+- **JavaScript:** Es un lenguaje de programación que permite agregar interactividad, dinamismo y funcionalidades avanzadas a los sitios web, trabajando en conjunto con HTML y CSS para mejorar la experiencia del usuario en navegadores y aplicaciones web.
+
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/js_evidence.png">
+
+### Software Documentation
+
+- **GitHub:** Es una plataforma de alojamiento de código basada en Git que permite gestionar proyectos, realizar control de versiones, colaborar en equipo y facilitar el seguimiento de cambios a través de repositorios, ramas y solicitudes de extracción.
+
+- **Github Pages:** Es un servicio de GitHub que permite alojar sitios web estáticos directamente desde un repositorio, facilitando la publicación rápida de proyectos personales, portafolios o documentación sin necesidad de servidores externos.
+
+## 5.1.2. Source Code Management
+
+### GitFlow Implementation
+
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/gitflow1_evidence.png">
+
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/gitflow2_evidence.png">
+
+**Uso de ramas y Conventional Commits**
+
+Durante el desarrollo del proyecto, utilizamos ramas para organizar mejor nuestro trabajo y mantener el control sobre los cambios. Cada funcionalidad o corrección de errores se desarrollaba en una rama específica, independiente de la rama principal (main). Esto nos permitió trabajar en paralelo sin afectar la versión estable del proyecto.  
+
+Una vez que completábamos una tarea en su respectiva rama, realizábamos una revisión de los cambios y posteriormente fusionábamos (merge) esa rama a main, asegurando así que solo se integraran avances completos y funcionales.
+
+Para mantener la claridad y consistencia en el historial de cambios, aplicamos la convención de Conventional Commits, que consiste en redactar los mensajes de los commits siguiendo una estructura estándar, como:
+
+- `feat:` para nuevas funcionalidades
+- `fix:` para corrección de errores
+- `docs:` para cambios en la documentación
+- `style:` para ajustes de formato o estilos que no afectan la lógica
+- `refactor:` para reestructuraciones del código sin cambiar su comportamiento
+- `test:` para agregar o modificar pruebas
+
+Esta práctica facilitó la comprensión del historial del proyecto, automatizó procesos y mejoró la colaboración entre los miembros del equipo.
+
+## 5.1.3. Source Code Style Guide & Conventions
+
+### HTML
+
+- **Uso de minúsculas para nombres de elementos:** Todos los elementos HTML utilizados (`<html>`, `<head>`, `<body>`, `<section>`, `<div>`, `<form>`, etc.) están escritos en minúscula para mantener la consistencia y seguir las buenas prácticas de codificación.
+
+- **Cierre de todos los elementos HTML:** Todos los elementos HTML abiertos son correctamente cerrados, tanto en elementos dobles (`<div></div>`) como en elementos autoconclusivos (`<img />`).
+
+- **Uso de minúsculas en atributos:** Los nombres de los atributos (por ejemplo, `href`, `src`, `alt`, `class`, `id`, `type`) están escritos en minúscula en todos los archivos HTML.
+
+- **Especificación de `alt`, `width`, y `height` en imágenes:** En todas las imágenes insertadas (`<img>`), se especifica siempre el atributo `alt` para accesibilidad. El ancho (`width`) y alto (`height`) son gestionados a través de CSS.
+
+- **Espacios y signos de igual:** Se respeta la convención de no dejar espacios innecesarios alrededor de los signos de igual en los atributos, mejorando la legibilidad.
+
+---
+
+### CSS
+
+- **Nombres de clases e ID significativos:** Las clases e ID utilizados (ej. `.login-form`, `.register-container`, `.hero-container`, `#nav-menu`) son descriptivos, facilitando la comprensión del propósito de cada elemento.
+
+- **Estilo de nombres de clase e ID:** Se emplean nombres concisos pero suficientemente descriptivos para clases e IDs, usando *lowercase* y guiones medios (`-`) para separar palabras, como `login-form-content` o `technical-support`.
+- **Uso de propiedades abreviadas (Shorthand Properties):** En las hojas de estilo se aprovechan propiedades abreviadas como `padding: 2rem;`, `margin: 0 auto;`, y `box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);` para optimizar y simplificar el CSS.
+- **Valor 0 sin unidad:** Cuando corresponde, se omite la unidad en valores de `0`, por ejemplo, `margin: 0; padding: 0;`.
+- **Orden alfabético de declaraciones:** Aunque no de forma estricta en todos los bloques, se observa un esfuerzo de ordenamiento de propiedades para mantener la organización y facilitar el mantenimiento del código.
+
+---
+
+### JavaScript
+
+- **Sintaxis expandida:** El código JavaScript mantiene una estructura clara, con apertura de llaves `{` en la misma línea que la declaración y cierre `}` en una nueva línea.
+
+- **Nombrado de variables:** Se utilizan `const` y `let` para declarar variables, evitando `var`, en línea con las mejores prácticas modernas.
+
+- **Nombrado de funciones:** El nombre de las funciones emplea **lowerCamelCase**, siguiendo la convención estándar de JavaScript (por ejemplo, `addEventListener`, `form.addEventListener`).
+
+## 5.1.4. Software Deployment Configuration
+
+Creamos un repositorio en GitHub específicamente para alojar el código de nuestra Landing Page.
+El repositorio está configurado como público, lo que significa que cualquier persona puede acceder, visualizar y clonar el proyecto si lo desea. Esto facilita la transparencia, la colaboración abierta y también permite que sea desplegado fácilmente a través de GitHub Pages
+
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/landing-page-repository-evidence.png">
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1

@@ -125,7 +125,7 @@ Los wireframes presentados corresponden al diseño inicial de la landing page de
 
 ---
 
-<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-IV/landing-page-mobile-web-wireframe.png">
+<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-IV/landing-page-mobile-wireframe.png">
 
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design

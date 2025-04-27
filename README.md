@@ -1307,7 +1307,7 @@ El usuario debe corregir ambas entradas antes de poder continuar.
 
 ### 5.1.1. Software Development Environment Configuration
 
-### Project Management
+#### Project Management
 
 - **Discord:** Herramienta de comunicación en línea que permitió al equipo realizar reuniones de coordinación en tiempo real mediante videollamadas y mensajes.
 - **Zoom:** Plataforma utilizada para llevar a cabo y registrar la exposición final, garantizando una grabación clara y accesible de la presentación grupal.
@@ -1315,19 +1315,19 @@ El usuario debe corregir ambas entradas antes de poder continuar.
 - **Miro**  Es una herramienta de colaboración visual en línea que permite crear mapas mentales, diagramas de flujo y tableros interactivos, facilitando la planificación, organización y co-creación de ideas en tiempo real.
 - **CodeSandBox:** Es una plataforma de desarrollo en línea que permite crear, editar y compartir proyectos web de manera rápida, ofreciendo un entorno de codificación colaborativo y basado en la nube, ideal para prototipado y desarrollo ágil.
 
-### Requirements Management
+#### Requirements Management
 
 - **Structurizr:** Es un conjunto de herramientas que facilita la creación colaborativa de modelos C4, permitiendo representar gráficamente los productos desarrollados.
 
 <p align="center"><img width="auto" height="auto" src="assets/img/chapter-IV/container.png">
 
-### Product UX/UI Design
+#### Product UX/UI Design
 
 - **Figma:** Es una plataforma de diseño colaborativo en línea que permite crear, prototipar y compartir interfaces de usuario en tiempo real, facilitando el trabajo en equipo de forma ágil y visual.
 
 <p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/figma_evidence.png">
 
-### Software Development 
+#### Software Development 
 
 - **HTML5:** Es la quinta versión del lenguaje de marcado estándar para la creación de páginas web, que incorpora nuevas etiquetas y funcionalidades para estructurar mejor los contenidos, integrar multimedia y mejorar la experiencia de usuario en distintos dispositivos.
 
@@ -1341,15 +1341,15 @@ El usuario debe corregir ambas entradas antes de poder continuar.
 
 <p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/js_evidence.png">
 
-### Software Documentation
+#### Software Documentation
 
 - **GitHub:** Es una plataforma de alojamiento de código basada en Git que permite gestionar proyectos, realizar control de versiones, colaborar en equipo y facilitar el seguimiento de cambios a través de repositorios, ramas y solicitudes de extracción.
 
 - **Github Pages:** Es un servicio de GitHub que permite alojar sitios web estáticos directamente desde un repositorio, facilitando la publicación rápida de proyectos personales, portafolios o documentación sin necesidad de servidores externos.
 
-## 5.1.2. Source Code Management
+### 5.1.2. Source Code Management
 
-### GitFlow Implementation
+#### GitFlow Implementation
 
 <p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/gitflow1_evidence.png">
 
@@ -1372,9 +1372,9 @@ Para mantener la claridad y consistencia en el historial de cambios, aplicamos l
 
 Esta práctica facilitó la comprensión del historial del proyecto, automatizó procesos y mejoró la colaboración entre los miembros del equipo.
 
-## 5.1.3. Source Code Style Guide & Conventions
+### 5.1.3. Source Code Style Guide & Conventions
 
-### HTML
+#### HTML
 
 - **Uso de minúsculas para nombres de elementos:** Todos los elementos HTML utilizados (`<html>`, `<head>`, `<body>`, `<section>`, `<div>`, `<form>`, etc.) están escritos en minúscula para mantener la consistencia y seguir las buenas prácticas de codificación.
 
@@ -1388,7 +1388,7 @@ Esta práctica facilitó la comprensión del historial del proyecto, automatizó
 
 ---
 
-### CSS
+#### CSS
 
 - **Nombres de clases e ID significativos:** Las clases e ID utilizados (ej. `.login-form`, `.register-container`, `.hero-container`, `#nav-menu`) son descriptivos, facilitando la comprensión del propósito de cada elemento.
 
@@ -1399,7 +1399,7 @@ Esta práctica facilitó la comprensión del historial del proyecto, automatizó
 
 ---
 
-### JavaScript
+#### JavaScript
 
 - **Sintaxis expandida:** El código JavaScript mantiene una estructura clara, con apertura de llaves `{` en la misma línea que la declaración y cierre `}` en una nueva línea.
 
@@ -1407,7 +1407,7 @@ Esta práctica facilitó la comprensión del historial del proyecto, automatizó
 
 - **Nombrado de funciones:** El nombre de las funciones emplea **lowerCamelCase**, siguiendo la convención estándar de JavaScript (por ejemplo, `addEventListener`, `form.addEventListener`).
 
-## 5.1.4. Software Deployment Configuration
+### 5.1.4. Software Deployment Configuration
 
 Creamos un repositorio en GitHub específicamente para alojar el código de nuestra Landing Page.
 El repositorio está configurado como público, lo que significa que cualquier persona puede acceder, visualizar y clonar el proyecto si lo desea. Esto facilita la transparencia, la colaboración abierta y también permite que sea desplegado fácilmente a través de GitHub Pages

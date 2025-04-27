@@ -10,14 +10,11 @@
 ### 2025 - 01
 ## Relación de integrantes:
 
-* **Vicente Quijandria Araneda      U201822697**
-* **Lecca Villalobos Pedro Omar     U202223293**
-* **Nombre y Apellidos              U20211G192**
-* **Nombre y Apellidos              U20211G192**
-* **Nombre y Apellidos              U20211G192**
-
-## Abril, 2025
-URL del repositorio: https://github.com/NextStep-UPC/
+* **Quijandria Araneda, Vicente      U201822697**
+* **Lecca Villalobos. Pedro Omar     U202223293**
+* **Espinoza Chavez, Moises Filemon  U202221383**
+* **Geronimo Quispe,Pablo Antonio    U202314304**
+* **Paucar Zenteno, Jesús Fernando   U202316687**
 
 ---
 
@@ -1419,3 +1416,55 @@ El repositorio está configurado como público, lo que significa que cualquier p
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1
+
+En esta sección se detallan los aspectos principales de la reunión de planificación del Sprint 1 del proyecto “Pathly”. Se priorizó el diseño e implementación de la Landing Page inicial, así como la presentación de información clave sobre la orientación vocacional, enfocándose en la usabilidad, el diseño responsivo y la definición de una estructura de navegación intuitiva y accesible.
+
+| **Sprint #** | **Sprint 1** |
+|--------------|-------------|
+| **Date** | 2025-04-23 |
+| **Time** | 9:00 PM |
+| **Location** | Discord (Reunión virtual) |
+| **Prepared By** | Moises Filemon Espinoza Chavez |
+| **Attendees (to planning meeting)** | Moises Filemon Espinoza Chavez, Pedro Omar Lecca Villalobos, Vicente Quijandria Araneda, Pablo Antonio Geronimo Quispe, Jesús Fernando Paucar Zenteno |
+| **Sprint n – 1 Review Summary** | Al ser el primer Sprint, no se cuenta con un Sprint anterior que revisar. Se omitió este punto en la reunión. |
+| **Sprint n – 1 Retrospective Summary** | No aplica, dado que es el primer Sprint del proyecto. |
+| **Sprint n Goal** | Desarrollar la estructura inicial de la Landing Page de Pathly, asegurando un diseño responsivo, navegación funcional y coherente con las guías de estilo definidas. |
+| **Sprint n Velocity** | 15 Story Points |
+| **Sum of Story Points** | 15 |
+
+#### 5.2.1.2. Sprint Backlog 1
+
+Durante el primer Sprint se priorizó el desarrollo de funcionalidades esenciales para la experiencia inicial del usuario en Pathly, enfocándose en la implementación de la Landing Page y los formularios de registro e inicio de sesión. A continuación, se detallan las tareas asociadas a las historias de usuario priorizadas para este Sprint.
+
+| **User Story ID** | **User Story Title** | **Task ID** | **Task Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|:------------------|:---------------------|:------------|:---------------|:----------------|:-----------------------|:----------------|:-----------|
+| US01 | Registro de cuenta de estudiantes | T01-01 | Diseño de formulario de registro | Maquetación HTML del formulario de registro (nombre, apellidos, correo, etc.) | 2 | Pedro Lecca | Done |
+| US01 | Registro de cuenta de estudiantes | T01-02 | Validaciones frontend (JS) en registro | Validar campos obligatorios, formato de email y verificación de contraseñas | 4 | Pedro Lecca | Done |
+| US01 | Registro de cuenta de estudiantes | T01-03 | Estilos visuales (CSS) de formulario de registro | Aplicación de estilos personalizados para coherencia visual con la landing | 5 | Pedro Lecca | Done |
+| US02 | Inicio de sesión | T02-01 | Diseño de formulario de login | Maquetación HTML del formulario de acceso (correo y contraseña) | 3 | Pedro Lecca | Done |
+| US02 | Inicio de sesión | T02-02 | Validaciones de login (JS) | Verificación de campos vacíos y alertas en el inicio de sesión | 3 | Pedro Lecca | Done |
+| US12 | Landing Page inicial | T03-01 | Maquetar secciones principales de la Landing Page | Creación de secciones Inicio, Beneficios, Metas y Equipo | 4 | Pedro Lecca | Done |
+| US12 | Landing Page inicial | T03-02 | Estilos globales de la Landing Page | Definir diseño responsivo y estilos base (CSS general) | 6 | Pedro Lecca | Done |
+| US14 | Navegación responsiva | T04-01 | Programar menú hamburguesa en mobile | Activar/desactivar menú en pantallas pequeñas con JavaScript | 5 | Pedro Lecca | Done |
+| US05 | Vinculación de botones de Login y Registro | T05-01 | Enlazar botones de autenticación en Landing Page | Programar navegación de botones "Iniciar sesión" y "Registrarse" hacia sus respectivas páginas | 2 | Pedro Lecca | Done |
+
+**Nota:** Las tablas presentadas están sujetas a cambios conforme avance el proyecto y se realicen ajustes en el alcance o en la planificación de actividades.
+
+#### 5.2.1.3. Development Evidence for Sprint Review
+
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
+|:---------------|:-----------|:--------------|:-------------------|:------------------------|:------------------------|
+| NextStep-UPC/NextStep-LandingPage | main | 00e62fc | feat(home): add home page with HTML, CSS and JS | Se creó la página principal Home utilizando HTML, CSS y JavaScript, incluyendo secciones básicas de la Landing Page. | 27/04/2025 |
+| NextStep-UPC/NextStep-LandingPage | main | d4b7871 | feat(register): add register page with HTML, CSS and JS | Se desarrolló la página de registro de usuarios, integrando formulario de datos y validaciones básicas. | 27/04/2025 |
+| NextStep-UPC/NextStep-LandingPage | main | f6120f3 | feat(login): add login page with HTML, CSS and JS | Se implementó el formulario de login de usuarios y su validación inicial en frontend. | 27/04/2025 |
+| NextStep-UPC/NextStep-LandingPage | main | dd04cbd | feat(assets/images): add landing page images | Se agregaron las imágenes necesarias para la Landing Page (logos, ilustraciones). | 27/04/2025 |
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Durante este Sprint, se realizaron pruebas funcionales manuales para verificar el correcto funcionamiento de las funcionalidades implementadas.
+
+| **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
+|:-----------|:--------------|:-------------------|:------------------------|:------------------------|
+| main | 00e62fc | test: validaciones landing page | Se verificaron visualmente las validaciones de campos obligatorios y correos en formularios de login y registro. | 2025-04-27 |
+| main | d4b7871 | test: visual review de formulario de registro | Se realizaron pruebas funcionales del flujo de registro de nuevos usuarios en la plataforma. | 2025-04-27 |
+| main | f6120f3 | test: verificación de navegación landing | Se evaluó el correcto funcionamiento del menú de navegación y la responsividad en diferentes dispositivos. | 2025-04-27 |

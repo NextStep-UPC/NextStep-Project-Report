@@ -470,7 +470,7 @@ Conocer su experiencia en orientación vocacional, métodos de trabajo actuales,
   - Edad: 17 años
   - Ubicación en la que vive olivos, Lima, Perú
     
-    <p align="left"><img width ="auto" height="240" src="/assets/img/chapter-ii/AdrianValera.png">
+    <p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/AdrianValera.png">
 **Entrevista**:
 - link: https://drive.google.com/file/d/1ytI4TQHYi9yd6shk1knVcFKFqv8wHry7/view?usp=drive_link
 - Momento en el que inicia: 0:02
@@ -488,7 +488,7 @@ lo ayude en ese proceso y que le gustaria estudiar psicologia.
   - Edad: 17 años
   - Ubicación en la que vive Independencia, Lima, Perú
 
-<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-ii/Anyelo.png">
+<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/Anyelo.png">
     
 **Entrevista**:
 - link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EZ3MnphrLQ5DrRb7NmGPEZEBDl3JarEgirlFJFtvqdAkZw?e=YOkBkE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi4yNn19
@@ -544,7 +544,7 @@ Antonella también resaltó la importancia del rol que cumplen los padres en est
   - Edad: 24 años
   - Ubicación en la que vive Independencia, Lima, Perú
     
-    <p align="left"><img width ="auto" height="240" src="/assets/img/chapter-ii/Marcos.png">
+    <p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/Marcos.png">
 **Entrevista**:
 - link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/Eb72kDMH6gNHt9tAQhgZkZYBXCf9tGGwbrpUYmwE7SYbDA?e=wrH5Qu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MS45Nn19
   
@@ -577,13 +577,13 @@ Antonella nos comento que quisiera una plataforma digital que combine herramient
 **Entrevista N°3:**
 Marcos es un profesional con un enfoque integrador y abierto a la innovación tecnológica, siempre que estas herramientas respeten la importancia de la interacción personal y ayuden a mejorar la experiencia de orientación vocacional de los estudiantes.
 
-<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-ii/pie-chart.png">
+<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/pie-chart.png">
 
 
-<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-ii/pie-chart1.png">
+<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/pie-chart1.png">
 
 
-<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-ii/pie-chart2.png">
+<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/pie-chart2.png">
 
 
 ## 2.3. Needfinding
@@ -594,7 +594,7 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 
 ### User Persona: Estudiante de secundaria
 
-<p align="left"><img width="auto" height="240" src="/assets/img/chapter-ii/UserPersona1.png">
+<p align="left"><img width="auto" height="240" src="/assets/img/chapter-II/UserPersona1.png">
 
 **Nombre**: Mariana Espinoza  
 **Edad**: 16 años  
@@ -626,7 +626,7 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 
 ### User Persona: Psicóloga vocacional
 
-<p align="left"><img width="auto" height="240" src="/assets/img/chapter-ii/UserPersona2.png">
+<p align="left"><img width="auto" height="240" src="/assets/img/chapter-II/UserPersona2.png">
 
 **Nombre**: Carla Huamán  
 **Edad**: 35 años  
@@ -701,23 +701,23 @@ Los siguientes recorridos representan la experiencia actual (*As-Is*) de los seg
 
 ### Estudiante de secundaria (Mariana Espinoza)
 
-<p align="center"><img width="auto" height="auto" src="/assets/img/chapter-ii/UserJourneyMapping1.png">
+<p align="center"><img width="auto" height="auto" src="/assets/img/chapter-II/UserJourneyMapping1.png">
   
 ---
 
 ### Psicóloga vocacional (Carla Huamán)
 
-<p align="center"><img width="auto" height="auto" src="/assets/img/chapter-ii/UserJourneyMapping2.png">
+<p align="center"><img width="auto" height="auto" src="/assets/img/chapter-II/UserJourneyMapping2.png">
 
 ## 2.3.4. Empathy Mapping
 
 ### Estudiante de secundaria (Mariana Espinoza)
 
-<p align="center"><img width="auto" height="auto" src="/assets/img/chapter-ii/EmpathyMapping1.png">
+<p align="center"><img width="auto" height="auto" src="/assets/img/chapter-II/EmpathyMapping1.png">
 
 ### Psicóloga vocacional (Carla Huamán)
 
-<p align="center"><img width="auto" height="auto" src="/assets/img/chapter-ii/EmpathyMapping2.png">
+<p align="center"><img width="auto" height="auto" src="/assets/img/chapter-II/EmpathyMapping2.png">
 
 ### 2.3.5. As-Is Scenario Mapping
 

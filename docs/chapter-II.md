@@ -178,6 +178,7 @@ un futuro prometedor que tanto anhela.
 - Ubicación en la que vive olivos, Lima, Perú
 
  <p align="left"><img width ="auto" height="240" src="../assets/img/chapter-ii/maricielo.png">
+  
   **Entrevista:**
   link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EcVMA4GvuX5PiYD6y-ZQDQoBMpOEFHInTl34d-NKVHWzAA?e=Xkc9TW
 - Momento en el que inicia: 0:00
@@ -198,8 +199,9 @@ Su perspectiva refuerza la importancia de unir la tecnología con un enfoque hum
 
 
 <p align="left"><img width ="auto" height="240" src="../assets/img/chapter-ii/antonella.png">
+ 
+ 
  **Entrevista:**
-
 link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EfgU6lkVBSdAu4djjhTMSGABFNyjN-QAbxvux7EK8lC03w?e=HzHUxX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - Momento en el que inicia: 0:00
 -Duración: 7:49
@@ -217,6 +219,7 @@ Antonella también resaltó la importancia del rol que cumplen los padres en est
   - Ubicación en la que vive Independencia, Lima, Perú
     
     <p align="left"><img width ="auto" height="240" src="../assets/img/chapter-ii/Marcos.png">
+
 **Entrevista**:
 - link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/Eb72kDMH6gNHt9tAQhgZkZYBXCf9tGGwbrpUYmwE7SYbDA?e=wrH5Qu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MS45Nn19
   

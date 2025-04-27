@@ -110,6 +110,13 @@ En Pathly queremos que los estudiantes sientan que nuestra plataforma es un acom
 
 
 ### 4.1.2. Web Style Guidelines
+
+En el desarrollo actual de Pathly, estamos estableciendo las bases de nuestros estándares visuales y de interacción para interfaces web responsivas. Aunque nuestra prioridad inicial es ofrecer una navegación intuitiva y construir una identidad visual fuerte, también hemos optado por la incorporación futura de patrones de lectura reconocidos, como lo son: el Patrón F y el Patrón Z. 
+Estos patrones mejorando tanto la usabilidad como la eficiencia de la navegación, optimizando así la forma en que los usuarios observan la información en diferentes dispositivos.
+
+Utilizaremos el Patrón F para páginas de contenido denso o informativo, mientras que el Patrón Z nos permitirá estructurar la landing page de manera fluida y atractiva, para que los usuarios enfoquen y guíen su mirada naturalmente hacia las acciones más importantes. De esta forma, garantizaremos una mejor experiencia, más intuitiva, coherente y adaptada a las expectativas de nuestro público joven y digitalmente activo.
+
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 
@@ -122,6 +129,8 @@ Se empleará una jerarquía visual clara que priorice la atención del usuario h
   
 Esquemas de Categorización:
 - Por audiencia: Se implementarán dos caminos para cada segmento: "Soy estudiante" y "Soy psicólogo", para ofrecer contenido personalizado.
+
+
 
 
 #### **Web Application**
@@ -151,6 +160,7 @@ Se utilizarán etiquetas breves, considerando simplicidad y claridad, así evita
 -	Soy psicólogo
   
 Cada sección estará hecha con términos familiares, buscando cercanía y claridad, para los estudiantes y psicólogos.
+
 
 
 
@@ -188,6 +198,7 @@ Equipo Pathly
 
 
 
+
 #### **Web Application**
 Title:
 Pathly | Descubre tu camino, decide tu futuro
@@ -206,7 +217,8 @@ Equipo Pathly
 ### 4.2.4. Searching Systems
 
 #### **Landing Page**
-- Actualmente no se implementarán sistemas de búsqueda en la landing page, porque su objetivo principal es guiar a los usuarios hacia el registro. Sin embargo, se evaluará su futura inclusión conforme se expanda el contenido disponible.
+- Actualmente no están implementados sistemas de búsqueda en la landing page, porque su objetivo principal es guiar a los usuarios hacia el registro. Sin embargo, se incluirán en un futuro próximo, conforme se expanda el contenido disponible.
+
 
 
 
@@ -227,6 +239,7 @@ La navegación será simple:
 . El Menú superior estará anclado a las secciones principales (Inicio, Beneficios, Metas, Equipo).
 - Botones de "Soy estudiante" y "Soy psicólogo" visibles y accesibles en el primer pantallazo.
 - Acceso rápido a "Iniciar sesión" y "Registrarse" ubicado en un punto visible.
+
 
 
 

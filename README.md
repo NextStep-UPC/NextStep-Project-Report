@@ -29,6 +29,7 @@
 | TB1     | 26/07/2025 | Espinoza Chávez, Moisés Filemón | Realizó el punto 4.1.1. General Style Guidelines |
 | TB1     | 27/07/2025 | Espinoza Chávez, Moisés Filemón | Realizó el punto 4.1.2. Web Style Guidelines |
 | TB1     | 27/07/2025 | Espinoza Chávez, Moisés Filemón | Realizó los puntos 4.2.1, 4.2.2, 4.2.3, 4.2.4, 4.2.5 |
+| TB1     | 27/07/2025 | Espinoza Chávez, Moisés Filemón | Realizó el punto 5.2.1.5 Execution Evidence for Sprint Review. |
 
 ## Project Report Collaboration Insights
 

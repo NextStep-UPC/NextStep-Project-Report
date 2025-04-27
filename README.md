@@ -1324,10 +1324,114 @@ El usuario debe corregir ambas entradas antes de poder continuar.
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+![class](/assets/img/chapter-IV/class.png)
+
 ### 4.7.2. Class Dictionary
+
+
+## Clase: `User`
+
+| Nombre de Atributo | Descripción                             | Tipo de Dato        |
+|--------------------|-----------------------------------------|---------------------|
+| `id`               | Identificador único del usuario         | int                 |
+| `name`             | Nombre del usuario                      | String              |
+| `password`         | Contraseña del usuario                  | String              |
+
+**Métodos**
+- `login()` — Iniciar sesión del usuario
+
+  
+## Clase: `Profile`
+
+| Nombre de Atributo | Descripción                     | Tipo de Dato |
+|--------------------|---------------------------------|--------------|
+| `idProfile`        | Identificador del perfil        | int          |
+| `name`             | Nombre del perfil               | String       |
+| `typeUser`         | Tipo de usuario del perfil      | enum         |
+| `mail`             | Correo del perfil               | String       |
+| `photoProfil`      | Foto del perfil (URL o ruta)    | String       |
+
+**Métodos**
+- `login()` — logearse
+
+---
+
+## Clase: `Student`
+
+Usuario con rol de estudiante.  
+Hereda de: `User`
+
+
+
+## Clase: `Psychologist`
+
+Usuario con rol de psicólogo.  
+Hereda de: `User`
+
+
+## Clase: `Appointment`
+
+| Nombre de Atributo | Descripción                     | Tipo de Dato       |
+|--------------------|---------------------------------|--------------------|
+| `id_lest`          | Identificador único de la cita  | int            |
+| `descripcion`          | Estudiante que participa    | String            |
+
+
+
+**Métodos**
+- `addOption()` — agrega una opcion 
+
+---
+
+
+## Clase: `Result`
+
+| Nombre de Atributo | Descripción                       | Tipo de Dato           |
+|--------------------|-----------------------------------|------------------------|
+| `id_result`        | Identificador del resultado       | int                    |
+| `descripcion`      | Identificador del test asociado   | string                 |
+
+
+**Métodos**
+- `score()` — calcula el puntaje del test 
+
+---
+
+
+## Clase: `Notification`
+
+| Nombre de Atributo | Descripción                       | Tipo de Dato              |
+|--------------------|-----------------------------------|---------------------------|
+| `id_notification`  | Identificador de la notificación  | int                       |
+| `tittle`           | Usuario destinatario              | string                    |
+| `message`          | Mensaje de la notificación        | String                    |
+| `date`             | Fecha y hora de la notificación   | DateTime                  |
+| `status`           | estado de notificación            | string                    |
+
+
+**Métodos**
+- `sendNotification()` — Enviar la notificación
+
+---
+
+## Clase: `Chat`
+
+| Nombre de Atributo | Descripción               | Tipo de Dato                  |
+|--------------------|---------------------------|-------------------------------|
+| `id`               | Identificador del mensaje | UUID                          |
+| `tittle`          | titulo                     | String                        |
+| `message`         | mensaje                    | string                        |
+| `date`           | Estado del mensaje          | datetime                      |
+| `status`         | Fecha y hora del mensaje    | string                        |
+**Métodos**
+- `sendNotifi()` —  Notificacion
+
+
+
+ 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-
+![Component Diagram](/assets/img/chapter-IV/blank.png)
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management

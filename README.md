@@ -462,34 +462,32 @@ Conocer su experiencia en orientación vocacional, métodos de trabajo actuales,
 - ¿Qué tan dispuesto estás a trabajar en un sistema con validación y reputación profesional?
 
 ### 2.2.2. Registro de entrevistas
- ***Segmento 1:Jóvenes estudiantes de 15 - 19 años***
-  **Entrevista N°1: Adrian Valera**
-  - Sexo: Masculino
-  - Edad: 17 años
-  - Ubicación en la que vive olivos, Lima, Perú
-    
-    <p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/AdrianValera.png">
-**Entrevista**:
-- link: https://drive.google.com/file/d/1ytI4TQHYi9yd6shk1knVcFKFqv8wHry7/view?usp=drive_link
+**Segmento 1:Jóvenes estudiantes de 15 - 19 años**
+
+**Entrevista N°1: Adrian Valera**
+- Sexo: Masculino
+- Edad: 17 años
+- Ubicación en la que vive olivos, Lima, Perú  
+<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/AdrianValera.png">
+- Link: https://drive.google.com/file/d/1ytI4TQHYi9yd6shk1knVcFKFqv8wHry7/view?usp=drive_link
 - Momento en el que inicia: 0:02
 - Duración: 7:07
 
 
 **Resumen:**
-
 Adrian Valera es un chico de 5to grado de secundaria que aun no ha escogido una carrera ya que tiene el temor de que sea una opcion incorrecta  a las preguntas propuestas que ha tenido  muy poco acercamiento a los test vocacionales onlinne pero si ha llevado en lugares con psicologos y no ha sido de su agrado ya que a el le gustaria ver un poco mas de informacion y que el psicologo siga su orientacion paso por paso para que pueda escoger una carrera de acuerdo a su test vocacional ,con la pregunta de servicios a traves de una plataforma el se sintio muy agusto que tuviera esa facilidad para poder interactuar con test vocacional y un psicologo que 
 lo ayude en ese proceso y que le gustaria estudiar psicologia. 
 
 
-  **Entrevista N°2: Anyelo Alejos**
-  - Sexo: Masculino
-  - Edad: 17 años
-  - Ubicación en la que vive Independencia, Lima, Perú
+**Entrevista N°2: Anyelo Alejos**
+- Sexo: Masculino
+- Edad: 17 años
+- Ubicación en la que vive Independencia, Lima, Perú
 
 <p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/Anyelo.png">
     
 **Entrevista**:
-- link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EZ3MnphrLQ5DrRb7NmGPEZEBDl3JarEgirlFJFtvqdAkZw?e=YOkBkE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi4yNn19
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EZ3MnphrLQ5DrRb7NmGPEZEBDl3JarEgirlFJFtvqdAkZw?e=YOkBkE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi4yNn19
 - Momento en el que inicia: 0:02
 - Duración: 5:55
 
@@ -498,17 +496,13 @@ Anyelo Alejos, estudiante de quinto de secundaria, se encuentra en proceso de ex
 
 En cuanto a su vida digital, Angelo utiliza principalmente su smartphone y en menor medida una laptop. Pasa tiempo en YouTube y TikTok, consumiendo tanto contenido educativo como de entretenimiento. Prefiere las apps móviles por su practicidad, aunque también está cómodo usando páginas web, siempre que sean intuitivas. Navega con Google Chrome y está familiarizado con redes sociales como Instagram. Considera que una plataforma vocacional efectiva debe ofrecer tests, información clara, y espacios de interacción con orientadores, ya que las sesiones presenciales a veces no le son accesibles por tiempo o disponibilidad.
 
-
-
-
-***Segmento 2:Psicólogos enfocados en orientación vocacional***
+**Segmento 2: Psicólogos enfocados en orientación vocacional**
 
 **Entrevista N°1: Maricielo Rugel**
 - Sexo: Femenino
 - Edad: 23 años
 - Ubicación en la que vive olivos, Lima, Perú
-  **Entrevista:**
-  link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EcVMA4GvuX5PiYD6y-ZQDQoBMpOEFHInTl34d-NKVHWzAA?e=Xkc9TW
+- link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EcVMA4GvuX5PiYD6y-ZQDQoBMpOEFHInTl34d-NKVHWzAA?e=Xkc9TW
 - Momento en el que inicia: 0:00
 - Duración: 7:49
   
@@ -524,11 +518,10 @@ Su perspectiva refuerza la importancia de unir la tecnología con un enfoque hum
 - Edad: 28 años
 - Ubicación en la que vive olivos, Lima, Perú
 
- **Entrevista:**
-
-link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EfgU6lkVBSdAu4djjhTMSGABFNyjN-QAbxvux7EK8lC03w?e=HzHUxX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+**Entrevista:**
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EfgU6lkVBSdAu4djjhTMSGABFNyjN-QAbxvux7EK8lC03w?e=HzHUxX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - Momento en el que inicia: 0:00
--Duración: 7:49
+- Duración: 7:49
 
 **Resumen:**
 Antonella Rugel es licenciada en Psicología y actualmente se desempeña en el área de salud psicológica. Cuenta con más de tres años de experiencia brindando orientación a jóvenes en la búsqueda de su vocación, utilizando herramientas como los test de Holland y Kuder.
@@ -537,14 +530,14 @@ Durante su experiencia, ha observado que las carreras que los jóvenes suelen de
 Antonella también resaltó la importancia del rol que cumplen los padres en este proceso, ya que, en varias situaciones, no solo se orienta al estudiante, sino que también se trabaja con la familia para que exista un entendimiento y acompañamiento adecuado.En algunos casos la desinformación de los jóvenes puede ser muy preocupante para los psicólogos al evaluarlos.
 
 
-  **Entrevista N°3: Marcos Contreras**
-  - Sexo: Masculino
-  - Edad: 24 años
-  - Ubicación en la que vive Independencia, Lima, Perú
+**Entrevista N°3: Marcos Contreras**
+- Sexo: Masculino
+- Edad: 24 años
+- Ubicación en la que vive Independencia, Lima, Perú
     
-    <p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/Marcos.png">
+<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/Marcos.png">
 **Entrevista**:
-- link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/Eb72kDMH6gNHt9tAQhgZkZYBXCf9tGGwbrpUYmwE7SYbDA?e=wrH5Qu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MS45Nn19
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/Eb72kDMH6gNHt9tAQhgZkZYBXCf9tGGwbrpUYmwE7SYbDA?e=wrH5Qu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MS45Nn19
   
 - Momento en el que inicia: 0:02
 - Duración: 4:24

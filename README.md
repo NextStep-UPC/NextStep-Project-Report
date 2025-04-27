@@ -1468,3 +1468,17 @@ Durante este Sprint, se realizaron pruebas funcionales manuales para verificar e
 | main | 00e62fc | test: validaciones landing page | Se verificaron visualmente las validaciones de campos obligatorios y correos en formularios de login y registro. | 2025-04-27 |
 | main | d4b7871 | test: visual review de formulario de registro | Se realizaron pruebas funcionales del flujo de registro de nuevos usuarios en la plataforma. | 2025-04-27 |
 | main | f6120f3 | test: verificación de navegación landing | Se evaluó el correcto funcionamiento del menú de navegación y la responsividad en diferentes dispositivos. | 2025-04-27 |
+
+# Conclusiones
+
+# Bibilografía
+- Ardisana, E. H. (2015). *Orientación vocacional a través de las TIC: ¿es suficiente?* ResearchGate. https://www.researchgate.net/publication/285584772
+- Martínez Clares, P. (2020). *El impacto de las TIC en los procesos de orientación profesional*. Revista Española de Orientación y Psicopedagogía, 31(1), 71-85. https://revistas.uned.es/index.php/reop/article/view/36460
+- Miro. (2024). Miro. Miro Corporation. https://miro.com
+- The C4 model for visualising software architecture. (2024). https://c4model.com/
+- Structurizr. (2024). https://www.structurizr.com/
+- GitHub. (2024). GitHub. https://github.com
+- GitHub Pages. (2024). Servicio de despliegue estático de GitHub. https://pages.github.com
+- Figma. (2024). Figma. https://www.figma.com
+- - Growform. (2023). *Guía completa de validación de formularios para mejorar la experiencia del usuario*. Growform.https://www.growform.co/es/guia-completa-de-validacion-de-formularios-para-mejorar-la-experiencia-del-usuario/
+- FreeCodeCamp. (2022). *Validación de datos: Cómo verificar la entrada del usuario en formularios HTML con JavaScript*. freeCodeCamp.org. https://www.freecodecamp.org/espanol/news/validacion-de-data-como-revisar-la-entrada-del-usuario-en-formularios-html-con-ejemplo/

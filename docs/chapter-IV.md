@@ -138,7 +138,60 @@ Los mockups presentan el diseño visual final de la landing page de Pathly para 
 <p align="center"><img width="auto" height="auto" src="../assets/img/chapter-IV/landing-page-mobile-mock-up.png">
 
 ## 4.4. Web Applications UX/UI Design
+
 ### 4.4.1. Web Applications Wireframes
+
+A continuación se presentan los wireframes de las principales pantallas de interacción del sistema Pathly:
+
+---
+
+**Login:**
+<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-IV/Login Wireflow.png">
+
+La pantalla de inicio de sesión permite al usuario ingresar su **correo electrónico** y **contraseña** para acceder a la plataforma.  
+Se ofrecen enlaces para **crear una nueva cuenta** o **recuperar contraseña** en caso de olvido.  
+Si las credenciales ingresadas son correctas, el usuario accede directamente al sistema.
+
+---
+
+**Login con credenciales incorrectas:**
+<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-IV/Login wrong credentials Wireflow.png">
+
+En caso de ingresar datos incorrectos, el sistema muestra un **mensaje de error en rojo** advirtiendo que el correo o la contraseña son incorrectos.  
+El formulario permanece visible para que el usuario corrija los datos o utilice los accesos de recuperación o registro.
+
+---
+
+**Registro de nuevo usuario:**
+<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-IV/Register Wireflow.png">
+
+Para registrarse, el usuario debe completar los campos obligatorios: **nombre(s)**, **apellidos**, **fecha de nacimiento**, **número telefónico**, **correo electrónico**, **contraseña** y **confirmación de contraseña**.  
+Se incluye una opción de contacto para resolver problemas técnicos en el proceso.
+
+---
+
+**Restablecer contraseña - Solicitar correo electrónico:**
+<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-IV/Reset password Wireflow.png">
+
+Para iniciar el proceso de recuperación, se pide al usuario que introduzca su **correo electrónico** registrado.  
+Una vez enviado, el sistema genera un enlace de recuperación de contraseña al correo proporcionado.
+
+---
+
+**Restablecer contraseña - Nueva contraseña:**
+<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-IV/Reset password Wireflow #2.png">
+
+El sistema solicita al usuario ingresar una **nueva contraseña** y confirmar su coincidencia para proceder con el cambio.  
+Al presionar el botón **"Realizar cambios"**, se actualiza la contraseña en el sistema.
+
+---
+
+**Restablecer contraseña - Error de coincidencia:**
+<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-IV/Reset password Wireflow #3.png">
+
+Si las contraseñas ingresadas no coinciden, se muestra un **mensaje de error en rojo** que indica "**¡Las contraseñas no coinciden!**".  
+El usuario debe corregir ambas entradas antes de poder continuar.
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams

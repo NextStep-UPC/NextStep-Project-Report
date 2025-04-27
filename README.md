@@ -29,6 +29,9 @@ URL del repositorio: https://github.com/NextStep-UPC/
 | TB1     | 25/07/2025 | Lecca Villalobos, Pedro Omar | Realizó el Capítulo 1 y 3 |
 | TB1     | 26/07/2025 | Lecca Villallbos, Pedro Omar | Realizó los puntos 4.3 y 4.4 del capítulo 4 |
 | TB1     | 26/07/2025 | Lecca Villalobos, Pedro Omar | Terminó la Landing Page / Web Applications & Wireframes & MockUp |
+| TB1     | 26/07/2025 | Espinoza Chávez, Moisés Filemón | Realizó el punto 4.1.1. General Style Guidelines |
+| TB1     | 27/07/2025 | Espinoza Chávez, Moisés Filemón | Realizó el punto 4.1.2. Web Style Guidelines |
+| TB1     | 27/07/2025 | Espinoza Chávez, Moisés Filemón | Realizó los puntos 4.2.1, 4.2.2, 4.2.3, 4.2.4, 4.2.5 |
 
 ## Project Report Collaboration Insights
 

@@ -198,8 +198,26 @@ El usuario debe corregir ambas entradas antes de poder continuar.
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
+![Context Diagram](/assets/img/chapter-IV/Context.png)
 ### 4.6.2. Software Architecture Container Diagrams
+![Context Diagram](/assets/img/chapter-IV/container.png)
 ### 4.6.3. Software Architecture Components Diagrams
+
+**Diagrama de Componentes - User support Bounded context**
+![Context Diagram](/assets/img/chapter-IV/User-component.png)
+
+
+
+**Diagrama de Componentes -Technical funcions Bounded context**
+![Component Diagram](/assets/img/chapter-IV/funcions-component.png)
+**Diagrama de Componentes -System administration Bounded context**
+![Component Diagram](/assets/img/chapter-IV/system-component.png)
+**Diagrama de Componentes -Information Site Bounded context**
+![Component Diagram](/assets/img/chapter-IV/Informacion-component.png)
+**Diagrama de Componentes -Managament Psychologist Bounded context**
+![Component Diagram](/assets/img/chapter-IV/Managament-component.png)
+**Diagrama de Componentes -Register student Bounded context**
+![Component Diagram](/assets/img/chapter-IV/student-component.png)
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary

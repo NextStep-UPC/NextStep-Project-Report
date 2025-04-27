@@ -128,6 +128,15 @@ Los wireframes presentados corresponden al diseño inicial de la landing page de
 <p align="center"><img width="auto" height="auto" src="../assets/img/chapter-IV/landing-page-mobile-wireframe.png">
 
 ### 4.3.2. Landing Page Mock-up
+
+Los mockups presentan el diseño visual final de la landing page de Pathly para versión web y móvil, mostrando la identidad gráfica, estructura de navegación, secciones clave (¿Quiénes somos?, Beneficios, Metas y Equipo) y una propuesta visual amigable para acompañar el proceso de orientación vocacional.
+
+<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-IV/landing-page-web-mock-up.png">
+
+---
+
+<p align="center"><img width="auto" height="auto" src="../assets/img/chapter-IV/landing-page-mobile-mock-up.png">
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams

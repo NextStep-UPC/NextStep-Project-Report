@@ -494,19 +494,34 @@ lo ayude en ese proceso y que le gustaria estudiar psicologia.
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EZ3MnphrLQ5DrRb7NmGPEZEBDl3JarEgirlFJFtvqdAkZw?e=YOkBkE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi4yNn19
 - Momento en el que inicia: 0:02
 - Duración: 5:55
+  **Entrevista N°3: Piero Tenorio**
+  - Sexo: Masculino
+  - Edad: 17 años
+  - Ubicación en la que vive San Miguel, Lima, Perú
+
+<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/Ethan.png">
+    
+**Entrevista**:
+- link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EZ72K_vbEyRNifUIwye0XYoBayn9JnUzIor_XMr0QY8Wfg?e=hopDKG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Momento en el que inicia: 0:00
+- Duración: 4:58
 
 **Resumen:**
-Anyelo Alejos, estudiante de quinto de secundaria, se encuentra en proceso de exploración vocacional y aún no ha decidido una carrera específica. No ha realizado un test vocacional formal, pero muestra interés en herramientas que le permitan conocerse mejor y tomar decisiones informadas. Se describe como reflexivo, con una actitud madura frente a su futuro, y suele apoyarse en sus padres y profesores para discutir temas relacionados a su orientación profesional. Reconoce sentir cierta presión por definir su futuro pronto, y valora mucho el acompañamiento que una plataforma podría ofrecerle para aclarar sus dudas.
+Piero tenorio nos cuenta un poco como es pasar la vida de un estudiante en 5to de secundaria que ha repetido pero que sigue intentado ya su ultimo año de las preguntas hechas nos dijo que el nunca ha hecho un test vocacional y que aun no tiene algo previsto pero que aun asi le gustaria probar una nueva forma para que el pueda conseguir 
+un futuro prometedor que tanto anhela.
 
-En cuanto a su vida digital, Angelo utiliza principalmente su smartphone y en menor medida una laptop. Pasa tiempo en YouTube y TikTok, consumiendo tanto contenido educativo como de entretenimiento. Prefiere las apps móviles por su practicidad, aunque también está cómodo usando páginas web, siempre que sean intuitivas. Navega con Google Chrome y está familiarizado con redes sociales como Instagram. Considera que una plataforma vocacional efectiva debe ofrecer tests, información clara, y espacios de interacción con orientadores, ya que las sesiones presenciales a veces no le son accesibles por tiempo o disponibilidad.
 
-**Segmento 2: Psicólogos enfocados en orientación vocacional**
+***Segmento 2:Psicólogos enfocados en orientación vocacional***
 
 **Entrevista N°1: Maricielo Rugel**
 - Sexo: Femenino
 - Edad: 23 años
 - Ubicación en la que vive olivos, Lima, Perú
-- link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EcVMA4GvuX5PiYD6y-ZQDQoBMpOEFHInTl34d-NKVHWzAA?e=Xkc9TW
+
+ <p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/maricielo.png">
+  
+  **Entrevista:**
+  link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EcVMA4GvuX5PiYD6y-ZQDQoBMpOEFHInTl34d-NKVHWzAA?e=Xkc9TW
 - Momento en el que inicia: 0:00
 - Duración: 7:49
   
@@ -522,10 +537,15 @@ Su perspectiva refuerza la importancia de unir la tecnología con un enfoque hum
 - Edad: 28 años
 - Ubicación en la que vive olivos, Lima, Perú
 
-**Entrevista:**
-- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EfgU6lkVBSdAu4djjhTMSGABFNyjN-QAbxvux7EK8lC03w?e=HzHUxX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/antonella.png">
+ 
+ 
+ **Entrevista:**
+link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EfgU6lkVBSdAu4djjhTMSGABFNyjN-QAbxvux7EK8lC03w?e=HzHUxX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - Momento en el que inicia: 0:00
-- Duración: 7:49
+-Duración: 7:49
 
 **Resumen:**
 Antonella Rugel es licenciada en Psicología y actualmente se desempeña en el área de salud psicológica. Cuenta con más de tres años de experiencia brindando orientación a jóvenes en la búsqueda de su vocación, utilizando herramientas como los test de Holland y Kuder.
@@ -534,14 +554,15 @@ Durante su experiencia, ha observado que las carreras que los jóvenes suelen de
 Antonella también resaltó la importancia del rol que cumplen los padres en este proceso, ya que, en varias situaciones, no solo se orienta al estudiante, sino que también se trabaja con la familia para que exista un entendimiento y acompañamiento adecuado.En algunos casos la desinformación de los jóvenes puede ser muy preocupante para los psicólogos al evaluarlos.
 
 
-**Entrevista N°3: Marcos Contreras**
-- Sexo: Masculino
-- Edad: 24 años
-- Ubicación en la que vive Independencia, Lima, Perú
+  **Entrevista N°3: Marcos Contreras**
+  - Sexo: Masculino
+  - Edad: 24 años
+  - Ubicación en la que vive Independencia, Lima, Perú
     
-<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/Marcos.png">
+    <p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/Marcos.png">
+
 **Entrevista**:
-- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/Eb72kDMH6gNHt9tAQhgZkZYBXCf9tGGwbrpUYmwE7SYbDA?e=wrH5Qu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MS45Nn19
+- link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/Eb72kDMH6gNHt9tAQhgZkZYBXCf9tGGwbrpUYmwE7SYbDA?e=wrH5Qu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MS45Nn19
   
 - Momento en el que inicia: 0:02
 - Duración: 4:24
@@ -560,7 +581,12 @@ Sobre los desafíos que enfrenta, comentó que muchos adolescentes sienten incom
   **Entrevista 2**:
 Angelo es un joven que busca herramientas digitales accesibles, interactivas y con un toque personal para guiarlo en su exploración vocacional, por lo que una plataforma que combine tecnología con interacción humana sería una solución ideal para su caso.
 **Entrevista 3**:
+Piero sigue motivado por el deseo de construir un futuro prometedor, lo que denota resiliencia y un enfoque positivo hacia los desafíos que enfrenta. La falta de un plan claro no le impide seguir intentando, lo que refleja un deseo de exploración y adaptación en busca de una forma de asegurar su éxito en el futuro. En resumen, Piero se encuentra en una etapa de indecisión, pero con una disposición para descubrir nuevas oportunidades que lo lleven a alcanzar sus metas.
 
+
+ <p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/test.png">
+
+ <p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/videollamada.png">
 
 
 ***Segmento 2:Psicólogos enfocados en orientación vocacional***

@@ -153,7 +153,21 @@ Anyelo Alejos, estudiante de quinto de secundaria, se encuentra en proceso de ex
 
 En cuanto a su vida digital, Angelo utiliza principalmente su smartphone y en menor medida una laptop. Pasa tiempo en YouTube y TikTok, consumiendo tanto contenido educativo como de entretenimiento. Prefiere las apps móviles por su practicidad, aunque también está cómodo usando páginas web, siempre que sean intuitivas. Navega con Google Chrome y está familiarizado con redes sociales como Instagram. Considera que una plataforma vocacional efectiva debe ofrecer tests, información clara, y espacios de interacción con orientadores, ya que las sesiones presenciales a veces no le son accesibles por tiempo o disponibilidad.
 
+  **Entrevista N°3: Piero Tenorio**
+  - Sexo: Masculino
+  - Edad: 17 años
+  - Ubicación en la que vive San Miguel, Lima, Perú
 
+<p align="left"><img width ="auto" height="240" src="../assets/img/chapter-ii/Ethan.png">
+    
+**Entrevista**:
+- link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EZ72K_vbEyRNifUIwye0XYoBayn9JnUzIor_XMr0QY8Wfg?e=hopDKG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Momento en el que inicia: 0:00
+- Duración: 4:58
+
+**Resumen:**
+Piero tenorio nos cuenta un poco como es pasar la vida de un estudiante en 5to de secundaria que ha repetido pero que sigue intentado ya su ultimo año de las preguntas hechas nos dijo que el nunca ha hecho un test vocacional y que aun no tiene algo previsto pero que aun asi le gustaria probar una nueva forma para que el pueda conseguir 
+un futuro prometedor que tanto anhela.
 
 
 ***Segmento 2:Psicólogos enfocados en orientación vocacional***
@@ -162,6 +176,8 @@ En cuanto a su vida digital, Angelo utiliza principalmente su smartphone y en me
 - Sexo: Femenino
 - Edad: 23 años
 - Ubicación en la que vive olivos, Lima, Perú
+
+ <p align="left"><img width ="auto" height="240" src="../assets/img/chapter-ii/maricielo.png">
   **Entrevista:**
   link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EcVMA4GvuX5PiYD6y-ZQDQoBMpOEFHInTl34d-NKVHWzAA?e=Xkc9TW
 - Momento en el que inicia: 0:00
@@ -179,6 +195,9 @@ Su perspectiva refuerza la importancia de unir la tecnología con un enfoque hum
 - Edad: 28 años
 - Ubicación en la que vive olivos, Lima, Perú
 
+
+
+<p align="left"><img width ="auto" height="240" src="../assets/img/chapter-ii/antonella.png">
  **Entrevista:**
 
 link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EfgU6lkVBSdAu4djjhTMSGABFNyjN-QAbxvux7EK8lC03w?e=HzHUxX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -218,9 +237,15 @@ Sobre los desafíos que enfrenta, comentó que muchos adolescentes sienten incom
   **Entrevista 2**:
 Angelo es un joven que busca herramientas digitales accesibles, interactivas y con un toque personal para guiarlo en su exploración vocacional, por lo que una plataforma que combine tecnología con interacción humana sería una solución ideal para su caso.
 **Entrevista 3**:
+Piero sigue motivado por el deseo de construir un futuro prometedor, lo que denota resiliencia y un enfoque positivo hacia los desafíos que enfrenta. La falta de un plan claro no le impide seguir intentando, lo que refleja un deseo de exploración y adaptación en busca de una forma de asegurar su éxito en el futuro. En resumen, Piero se encuentra en una etapa de indecisión, pero con una disposición para descubrir nuevas oportunidades que lo lleven a alcanzar sus metas.
 
 
+ <p align="left"><img width ="auto" height="240" src="../assets/img/chapter-ii/test.png">
 
+ <p align="left"><img width ="auto" height="240" src="../assets/img/chapter-ii/videollamada.png">
+
+
+  
 ***Segmento 2:Psicólogos enfocados en orientación vocacional***
 **Entrevista N°1:**
 Maricielo ofrece una perspectiva valiosa que resalta la importancia de una orientación vocacional estructurada y profesional, en la que los estudiantes reciban un acompañamiento cercano y personalizado. Coincide con otros entrevistados en la necesidad de contar con canales de comunicación eficientes y un seguimiento adecuado, además de la relevancia de un sistema de validación de profesionales que garantice la calidad del servicio.

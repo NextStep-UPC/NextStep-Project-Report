@@ -116,7 +116,9 @@ En Pathly queremos que los estudiantes sientan que nuestra plataforma es un acom
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
+
 ## 4.3. Landing Page UI Design
+
 ### 4.3.1. Landing Page Wireframe
 
 Los wireframes presentados corresponden al diseño inicial de la landing page de Pathly, tanto para versión web como móvil. La estructura muestra una navegación clara con secciones principales como presentación de la plataforma, beneficios destacados, descripción de servicios, testimonios y un llamado a la acción. Se incluyen áreas para imágenes representativas, texto explicativo breve y elementos interactivos, priorizando una experiencia de usuario intuitiva, visualmente limpia y optimizada para conversión."
@@ -193,6 +195,8 @@ Si las contraseñas ingresadas no coinciden, se muestra un **mensaje de error en
 El usuario debe corregir ambas entradas antes de poder continuar.
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+<p align="center"><img swidth="auto" height="auto" rc="../assets/img/chapter-IV/wireflow-inicio-sesion.jpg">
 
 ### 4.4.3. Web Applications Mock-ups
 

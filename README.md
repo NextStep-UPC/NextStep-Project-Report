@@ -1322,17 +1322,17 @@ El usuario debe corregir ambas entradas antes de poder continuar.
 
 - **Figma:** Es una plataforma de diseño colaborativo en línea que permite crear, prototipar y compartir interfaces de usuario en tiempo real, facilitando el trabajo en equipo de forma ágil y visual.
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/figma_evidence.png">
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/figma-evidence.png">
 
 #### Software Development 
 
 - **HTML5:** Es la quinta versión del lenguaje de marcado estándar para la creación de páginas web, que incorpora nuevas etiquetas y funcionalidades para estructurar mejor los contenidos, integrar multimedia y mejorar la experiencia de usuario en distintos dispositivos.
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/html5_evidence.png">
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/html5-evidence.png">
 
 - **CSS:** Es un lenguaje de hojas de estilo que permite definir la apariencia y el diseño de los documentos HTML, controlando aspectos como los colores, tipografías, márgenes, posiciones y adaptabilidad de los elementos en diferentes dispositivos.
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/css_evidence.png">
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/css-evidence.png">
 
 - **JavaScript:** Es un lenguaje de programación que permite agregar interactividad, dinamismo y funcionalidades avanzadas a los sitios web, trabajando en conjunto con HTML y CSS para mejorar la experiencia del usuario en navegadores y aplicaciones web.
 

@@ -112,10 +112,132 @@ En Pathly queremos que los estudiantes sientan que nuestra plataforma es un acom
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
+
+#### **Landing Page**
+Visual Organization:
+-	Jerárquica: 
+Se empleará una jerarquía visual clara que priorice la atención del usuario hacia la propuesta de valor, beneficios, metas, equipo, y opciones de registro o inicio de sesión.
+
+- Secuencial: El flujo de navegación guiará al usuario  de manera lógica desde el descubrimiento del servicio hacia el registro.
+  
+Esquemas de Categorización:
+- Por audiencia: Se implementarán dos caminos para cada segmento: "Soy estudiante" y "Soy psicólogo", para ofrecer contenido personalizado.
+
+
+#### **Web Application**
+
+Visual Organization:
+- Jerárquica: Los elementos que tendrán la máxima prioridad visual serán: el test vocacional y los resultados.
+  
+- Secuencial: El proceso estará estructurado paso por paso: Registro, Realizar Test, Visualizar Resultados.
+  
+Esquemas de Categorización:
+- Por tópicos: Para una fácil exploración, las carreras, habilidades y resultados estarán categorizados temáticamente.
+
+
+
 ### 4.2.2. Labeling Systems
+
+#### **Landing Page**
+Se utilizarán etiquetas breves, considerando simplicidad y claridad, así evitando tecnicismos para facilitar la comprensión:
+
+- Inicio
+- Beneficios
+-	Metas
+-	Equipo
+-	Iniciar sesión
+-	Registrarse
+-	Soy estudiante
+-	Soy psicólogo
+  
+Cada sección estará hecha con términos familiares, buscando cercanía y claridad, para los estudiantes y psicólogos.
+
+
+
+#### **Web Application**
+
+Etiquetas claras y funcionales, adaptadas a la dinámica de uso de la app:
+
+- Iniciar sesión
+- Registrarse
+- Test vocacional
+- Resultados
+- Mi perfil
+- Mis carreras favoritas
+- Guía para psicólogos
+
+
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+#### **Landing Page**
+Title:
+Pathly | Guía Vocacional para Estudiantes y Psicólogos
+
+- Meta Description:
+
+Descubre Pathly: conecta a estudiantes de secundaria con su vocación ideal brindado herramientas digitales para guiar su proceso, de la mano de psicologos especializados.
+
+- Keywords:
+
+Guía vocacional, orientación vocacional, estudiantes, psicólogos, futuro académico profesional
+
+- Author:
+
+Equipo Pathly
+
+
+
+#### **Web Application**
+Title:
+Pathly | Descubre tu camino, decide tu futuro
+
+- Meta Description:
+Realiza tu test vocacional para encuentror tu verdadera pasión. Con Pathly, da el primer paso hacia tu futuro profesional ideal.
+
+- Keywords:
+test vocacional, futuro profesional, carrera ideal,  orientación vocacional, estudiantes, psicólogos
+
+- Author:
+Equipo Pathly
+
+
+
 ### 4.2.4. Searching Systems
+
+#### **Landing Page**
+- Actualmente no se implementarán sistemas de búsqueda en la landing page, porque su objetivo principal es guiar a los usuarios hacia el registro. Sin embargo, se evaluará su futura inclusión conforme se expanda el contenido disponible.
+
+
+
+#### **Web Application**
+
+Se integrarán buscadores en una futura implementación para:
+
+-	Buscar carreras profesionales.
+- Los datos luego de una búsqueda se presentarán en tarjetas de resultados con nombre de la carrera, categoría.
+- Filtrar resultados por habilidades, intereses u otros filtros .
+
+
+
 ### 4.2.5. Navigation Systems
+
+#### **Landing Page**
+La navegación será simple:
+. El Menú superior estará anclado a las secciones principales (Inicio, Beneficios, Metas, Equipo).
+- Botones de "Soy estudiante" y "Soy psicólogo" visibles y accesibles en el primer pantallazo.
+- Acceso rápido a "Iniciar sesión" y "Registrarse" ubicado en un punto visible.
+
+
+
+#### **Web Application**
+
+- Barra de navegación en la aplicación.
+- Acceso directo a secciones como: “Test vocacional”, “Resultados” y “Mi perfil”.
+- Apartados internos para explorar carreras sugeridas.
+- Botones de acción ("Realizar test", "Ver resultados", "Editar perfil").
+
+
 
 ## 4.3. Landing Page UI Design
 

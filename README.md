@@ -1116,21 +1116,21 @@ La navegación será simple:
 
 Los wireframes presentados corresponden al diseño inicial de la landing page de Pathly, tanto para versión web como móvil. La estructura muestra una navegación clara con secciones principales como presentación de la plataforma, beneficios destacados, descripción de servicios, testimonios y un llamado a la acción. Se incluyen áreas para imágenes representativas, texto explicativo breve y elementos interactivos, priorizando una experiencia de usuario intuitiva, visualmente limpia y optimizada para conversión."
 
-<p align="center"><img width="45%" height="45%" src="../assets/img/chapter-IV/landing-page-web-wireframe.png">
+<p align="center"><img width="45%" height="45%" src="assets/img/chapter-IV/landing-page-web-wireframe.png">
 
 ---
 
-<p align="center"><img width="45%" height="45%" src="../assets/img/chapter-IV/landing-page-mobile-wireframe.png">
+<p align="center"><img width="45%" height="45%" src="assets/img/chapter-IV/landing-page-mobile-wireframe.png">
 
 ### 4.3.2. Landing Page Mock-up
 
 Los mockups presentan el diseño visual final de la landing page de Pathly para versión web y móvil, mostrando la identidad gráfica, estructura de navegación, secciones clave (¿Quiénes somos?, Beneficios, Metas y Equipo) y una propuesta visual amigable para acompañar el proceso de orientación vocacional.
 
-<p align="center"><img width="45%" height="45%" src="../assets/img/chapter-IV/landing-page-web-mock-up.png">
+<p align="center"><img width="45%" height="45%" src="assets/img/chapter-IV/landing-page-web-mock-up.png">
 
 ---
 
-<p align="center"><img width="auto" height="45%" src="../assets/img/chapter-IV/landing-page-mobile-mock-up.png">
+<p align="center"><img width="auto" height="45%" src="assets/img/chapter-IV/landing-page-mobile-mock-up.png">
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -1141,7 +1141,7 @@ A continuación se presentan los wireframes de las principales pantallas de inte
 ---
 
 **Login:**
-<p align="center"><img width="45%" height="45%" src="../assets/img/chapter-IV/Login Wireflow.png">
+<p align="center"><img width="45%" height="45%" src="assets/img/chapter-IV/Login Wireflow.png">
 
 La pantalla de inicio de sesión permite al usuario ingresar su **correo electrónico** y **contraseña** para acceder a la plataforma.  
 Se ofrecen enlaces para **crear una nueva cuenta** o **recuperar contraseña** en caso de olvido.  
@@ -1150,7 +1150,7 @@ Si las credenciales ingresadas son correctas, el usuario accede directamente al 
 ---
 
 **Login con credenciales incorrectas:**
-<p align="center"><img width="45%" height="45%" src="../assets/img/chapter-IV/Login wrong credentials Wireflow.png">
+<p align="center"><img width="45%" height="45%" src="assets/img/chapter-IV/Login wrong credentials Wireflow.png">
 
 En caso de ingresar datos incorrectos, el sistema muestra un **mensaje de error en rojo** advirtiendo que el correo o la contraseña son incorrectos.  
 El formulario permanece visible para que el usuario corrija los datos o utilice los accesos de recuperación o registro.
@@ -1158,7 +1158,7 @@ El formulario permanece visible para que el usuario corrija los datos o utilice 
 ---
 
 **Registro de nuevo usuario:**
-<p align="center"><img width="45%" height="45%" src="../assets/img/chapter-IV/Register Wireflow.png">
+<p align="center"><img width="45%" height="45%" src="assets/img/chapter-IV/Register Wireflow.png">
 
 Para registrarse, el usuario debe completar los campos obligatorios: **nombre(s)**, **apellidos**, **fecha de nacimiento**, **número telefónico**, **correo electrónico**, **contraseña** y **confirmación de contraseña**.  
 Se incluye una opción de contacto para resolver problemas técnicos en el proceso.
@@ -1166,7 +1166,7 @@ Se incluye una opción de contacto para resolver problemas técnicos en el proce
 ---
 
 **Restablecer contraseña - Solicitar correo electrónico:**
-<p align="center"><img width="45%" height="45%" src="../assets/img/chapter-IV/Reset password Wireflow.png">
+<p align="center"><img width="45%" height="45%" src="assets/img/chapter-IV/Reset password Wireflow.png">
 
 Para iniciar el proceso de recuperación, se pide al usuario que introduzca su **correo electrónico** registrado.  
 Una vez enviado, el sistema genera un enlace de recuperación de contraseña al correo proporcionado.
@@ -1174,7 +1174,7 @@ Una vez enviado, el sistema genera un enlace de recuperación de contraseña al 
 ---
 
 **Restablecer contraseña - Nueva contraseña:**
-<p align="center"><img width="45%" height="45%" src="../assets/img/chapter-IV/Reset password Wireflow 2.png">
+<p align="center"><img width="45%" height="45%" src="assets/img/chapter-IV/Reset password Wireflow 2.png">
 
 El sistema solicita al usuario ingresar una **nueva contraseña** y confirmar su coincidencia para proceder con el cambio.  
 Al presionar el botón **"Realizar cambios"**, se actualiza la contraseña en el sistema.
@@ -1182,75 +1182,75 @@ Al presionar el botón **"Realizar cambios"**, se actualiza la contraseña en el
 ---
 
 **Restablecer contraseña - Error de coincidencia:**
-<p align="center"><img width="45%" height="45%" src="../assets/img/chapter-IV/Reset password Wireflow 3.png">
+<p align="center"><img width="45%" height="45%" src="assets/img/chapter-IV/Reset password Wireflow 3.png">
 
 Si las contraseñas ingresadas no coinciden, se muestra un **mensaje de error en rojo** que indica "**¡Las contraseñas no coinciden!**".  
 El usuario debe corregir ambas entradas antes de poder continuar.
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-<p align="center"><img swidth="auto" height="auto" rc="../assets/img/chapter-IV/wireflow-inicio-sesion.jpg">
+<p align="center"><img swidth="auto" height="auto" rc="assets/img/chapter-IV/wireflow-inicio-sesion.jpg">
 
 ### 4.4.3. Web Applications Mock-ups
 
 **Desktop Home Mock-Up:**
 
-<p align="center"><img swidth="45%" height="auto" rc="../assets/img/chapter-IV/web-applications-desktop-home.png">
+<p align="center"><img swidth="45%" height="auto" rc="assets/img/chapter-IV/web-applications-desktop-home.png">
 
 ---
 **Desktop Register Mock-up:**
 
-<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-desktop-register.png">
+<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-desktop-register.png">
 
 ---
 
 **Desktop Login / Login Error Mock-up:**
 
-<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-desktop-login.png">
+<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-desktop-login.png">
 
-<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-desktop-login-error.png">
+<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-desktop-login-error.png">
 
 ---
 
 **Desktop Reset password / Error reset password / Successfully reset password Mock-up:**
 
-<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-desktop-reset-password-one.png">
+<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-desktop-reset-password-one.png">
 
-<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-desktop-reset-password-two.png">
+<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-desktop-reset-password-two.png">
 
-<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-desktop-reset-password-three.png">
+<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-desktop-reset-password-three.png">
 
-<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-desktop-reset-password-four.png">
+<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-desktop-reset-password-four.png">
 
 ---
 
 **Mobile Home Mock-up:**
-<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-mobile-home.png">
+<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-mobile-home.png">
 
 ---
 
 **Mobile Register Mock-up:**
-<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-mobile-register.png">
+<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-mobile-register.png">
 
 ---
 
 **Mobile Login / Login Error Mock-up:**
 
-<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-mobile-login.png">
+<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-mobile-login.png">
 
-<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-mobile-login-error.png">
+<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-mobile-login-error.png">
 
 ---
 
 **Mobile Reset password / Error reset password / Successfully reset password Mock-up:**
 
-<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-mobile-reset-password-one.png">
+<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-mobile-reset-password-one.png">
 
-<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-mobile-reset-password-two.png">
+<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-mobile-reset-password-two.png">
 
-<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-mobile-reset-password-three.png">
+<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-mobile-reset-password-three.png">
 
-<p align="center"><img width="45%" height="auto" src="../assets/img/chapter-IV/web-applications-mobile-reset-password-four.png">
+<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-mobile-reset-password-four.png">
 
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping

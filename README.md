@@ -33,6 +33,7 @@
 | TB1     | 27/07/2025 | Espinoza Chávez, Moisés Filemón | Realizó el punto 5.2.1.5 Execution Evidence for Sprint Review. |
 | TB1     | 27/07/2025 | Lecca Villalobos, Pedro Omar | Realizó los puntos 5.1.1 hasta 5.2.1.4, luego 5.2.1.6 hasta 5.2.1.8. |
 | TB1     | 27/07/2025 | Lecca Villalobos, Pedro Omar | Realizó las conclusiones, y actualizó el documento. |
+| TB1     | 27/07/2025 | Geronimo Quispe, Pablo Antonio | Realizó el punto 4.7 y 4.8 |
 
 ## Project Report Collaboration Insights
 

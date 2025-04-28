@@ -1607,6 +1607,9 @@ Durante este Sprint, se realizaron pruebas funcionales manuales para verificar e
 
 Nuestro equipo concluyó con este primer Sprint, donde se logró implementar y desplegar de forma funcional las vistas clave de la landing page Pathly. Las vistas fueron desarrolladas con estructura HTML, estilos personalizados y validaciones en tiempo real mediante JavaScript.
 
+Enlace al video del recorrido de nuestra Landing Page, Sprint 1: 
+https://youtu.be/mzCetYgiCDQ
+
 - Landing Page principal (index.html): incluye secciones de inicio, beneficios, metas, equipo, registro, inicio de sesión y llamado a la acción
   
 ![primera ](/assets/img/chapter-V/primera-pagina.png)

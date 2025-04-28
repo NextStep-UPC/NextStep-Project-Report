@@ -14,7 +14,6 @@
 * **Lecca Villalobos. Pedro Omar     U202223293**
 * **Espinoza Chavez, Moises Filemon  U202221383**
 * **Geronimo Quispe, Pablo Antonio   U202314304**
-* **Paucar Zenteno, Jesús Fernando   U202316687**
 
 ---
 

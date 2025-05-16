@@ -1682,100 +1682,78 @@ A lo largo del Sprint 1, Pedro Lecca se encargó de manera integral del desarrol
 
 <p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/github-evidence.png">
 
-### 5.2.1. Sprint 1
+### 5.2.2. Sprint 2
 
-#### 5.2.1.1. Sprint Planning 1
+### 5.2.2.2. Sprint Planning 2
 
-En esta sección se detallan los aspectos principales de la reunión de planificación del Sprint 1 del proyecto “Pathly”. Se priorizó el diseño e implementación de la Landing Page inicial, así como la presentación de información clave sobre la orientación vocacional, enfocándose en la usabilidad, el diseño responsivo y la definición de una estructura de navegación intuitiva y accesible.
+En esta sección se detallan los aspectos principales de la reunión de planificación del Sprint 2 del proyecto “Pathly”. En esta fase se definió el desarrollo del **frontend completo de la plataforma**, organizando el proyecto bajo principios de **Domain-Driven Design (DDD)** y estructurando la solución en distintos *Bounded Contexts* (`auth`, `admin`, `psychologist`, `students`). La sesión fue organizada por **Pedro Omar Lecca Villalobos** y contó con la participación de todos los integrantes del equipo.
 
-| **Sprint #** | **Sprint 1** |
+| **Sprint #** | **Sprint 2** |
 |--------------|-------------|
-| **Date** | 2025-04-23 |
+| **Date** | 2025-05-12 |
 | **Time** | 9:00 PM |
 | **Location** | Discord (Reunión virtual) |
-| **Prepared By** | Moises Filemon Espinoza Chavez |
-| **Attendees (to planning meeting)** | Moises Filemon Espinoza Chavez, Pedro Omar Lecca Villalobos, Vicente Quijandria Araneda, Pablo Antonio Geronimo Quispe, Jesús Fernando Paucar Zenteno |
-| **Sprint n – 1 Review Summary** | Al ser el primer Sprint, no se cuenta con un Sprint anterior que revisar. Se omitió este punto en la reunión. |
-| **Sprint n – 1 Retrospective Summary** | No aplica, dado que es el primer Sprint del proyecto. |
-| **Sprint n Goal** | Desarrollar la estructura inicial de la Landing Page de Pathly, asegurando un diseño responsivo, navegación funcional y coherente con las guías de estilo definidas. |
-| **Sprint n Velocity** | 15 Story Points |
-| **Sum of Story Points** | 15 |
+| **Prepared By** | Pedro Omar Lecca Villalobos |
+| **Attendees (to planning meeting)** | Pedro Omar Lecca Villalobos, Moises Filemon Espinoza Chavez, Vicente Quijandria Araneda, Pablo Antonio Geronimo Quispe, Jesús Fernando Paucar Zenteno |
+| **Sprint n – 1 Review Summary** | En el Sprint 1 se implementó la Landing Page de Pathly con secciones clave (inicio, beneficios, metas, equipo), además de los formularios de registro e inicio de sesión. Se integraron validaciones en JavaScript, se aplicaron estilos personalizados (CSS) y se garantizó la navegabilidad responsive. El despliegue se realizó mediante GitHub Pages y se documentaron evidencias funcionales, de testing y colaboración. |
+| **Sprint n – 1 Retrospective Summary** | Se cumplió exitosamente con los objetivos del Sprint 1, destacando la autonomía en el desarrollo de componentes esenciales. Se identificó la necesidad de adoptar una estructura de código más escalable y mantenible, por lo que se decidió incorporar el enfoque DDD en este nuevo Sprint. La planificación previa y la centralización de tareas en un responsable técnico resultaron efectivas para el cumplimiento de metas. |
+| **Sprint n Goal** | Implementar la arquitectura del frontend utilizando Domain-Driven Design (DDD), estructurando los *Bounded Contexts*: `auth`, `admin`, `psychologist` y `students`, estableciendo una base modular y escalable para la evolución del proyecto. |
+| **Sprint n Velocity** | 25 Story Points |
+| **Sum of Story Points** | 25 |
 
-#### 5.2.1.2. Sprint Backlog 1
+#### 5.2.2.3. Sprint Backlog 2
 
-Durante el primer Sprint se priorizó el desarrollo de funcionalidades esenciales para la experiencia inicial del usuario en Pathly, enfocándose en la implementación de la Landing Page y los formularios de registro e inicio de sesión. A continuación, se detallan las tareas asociadas a las historias de usuario priorizadas para este Sprint.
+Durante el segundo Sprint se priorizó el desarrollo de la estructura completa del frontend de la plataforma Pathly, organizando el código en *Bounded Contexts* alineados con la arquitectura DDD. Se desarrollaron componentes clave para autenticación, paneles de administración, funcionalidades del psicólogo, vistas del estudiante y configuración multilenguaje (i18n). A continuación, se detallan las tareas asociadas a las historias de usuario priorizadas.
 
-| **User Story ID** | **User Story Title** | **Task ID** | **Task Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
-|:------------------|:---------------------|:------------|:---------------|:----------------|:-----------------------|:----------------|:-----------|
-| US01 | Registro de cuenta de estudiantes | T01-01 | Diseño de formulario de registro | Maquetación HTML del formulario de registro (nombre, apellidos, correo, etc.) | 2 | Pedro Lecca | Done |
-| US01 | Registro de cuenta de estudiantes | T01-02 | Validaciones frontend (JS) en registro | Validar campos obligatorios, formato de email y verificación de contraseñas | 4 | Pedro Lecca | Done |
-| US01 | Registro de cuenta de estudiantes | T01-03 | Estilos visuales (CSS) de formulario de registro | Aplicación de estilos personalizados para coherencia visual con la landing | 5 | Pedro Lecca | Done |
-| US02 | Inicio de sesión | T02-01 | Diseño de formulario de login | Maquetación HTML del formulario de acceso (correo y contraseña) | 3 | Pedro Lecca | Done |
-| US02 | Inicio de sesión | T02-02 | Validaciones de login (JS) | Verificación de campos vacíos y alertas en el inicio de sesión | 3 | Pedro Lecca | Done |
-| US12 | Landing Page inicial | T03-01 | Maquetar secciones principales de la Landing Page | Creación de secciones Inicio, Beneficios, Metas y Equipo | 4 | Pedro Lecca | Done |
-| US12 | Landing Page inicial | T03-02 | Estilos globales de la Landing Page | Definir diseño responsivo y estilos base (CSS general) | 6 | Pedro Lecca | Done |
-| US14 | Navegación responsiva | T04-01 | Programar menú hamburguesa en mobile | Activar/desactivar menú en pantallas pequeñas con JavaScript | 5 | Pedro Lecca | Done |
-| US05 | Vinculación de botones de Login y Registro | T05-01 | Enlazar botones de autenticación en Landing Page | Programar navegación de botones "Iniciar sesión" y "Registrarse" hacia sus respectivas páginas | 2 | Pedro Lecca | Done |
+| **User Story ID** | **User Story Title**                     | **Task ID** | **Task Title**                             | **Description**                                                                 | **Estimation (Hours)** | **Assigned To**       | **Status** |
+|------------------:|:-----------------------------------------|-------------|---------------------------------------------|----------------------------------------------------------------------------------|------------------------:|------------------------|------------|
+| US01              | Registro de estudiante                   | T06-01      | Maquetación del formulario de registro      | Estructura del formulario con campos requeridos.                                | 3                      | Pedro Lecca           | Done       |
+| US01              | Registro de estudiante                   | T06-02      | Validaciones en formulario de registro      | Validación de campos requeridos, formato de email, contraseñas.                 | 3                      | Pedro Lecca           | Done       |
+| US02              | Realizar test vocacional                 | T07-01      | Diseño de interfaz del test vocacional      | Estructura de preguntas, navegación entre secciones.                            | 4                      | Vicente Quijandria    | Done       |
+| US03              | Ver resultados personalizados            | T08-01      | Mostrar resultados del test vocacional      | Vista de resultados, gráfica de perfil, recomendaciones personalizadas.         | 4                      | Vicente Quijandria    | Done       |
+| US04              | Agendar sesión con psicólogo             | T09-01      | Vista de calendario para agendamiento       | Selector de fecha y hora, validaciones y confirmación.                          | 3                      | Pablo Geronimo        | Done       |
+| US07              | Registro de psicólogo                    | T10-01      | Formulario de registro de psicólogo         | Campos para datos personales y validación de documentos adjuntos.               | 3                      | Pablo Geronimo        | Done       |
+| US08              | Panel del psicólogo                      | T11-01      | Panel de psicólogo con sesiones y estudiantes | Dashboard con agenda, perfiles de estudiantes y métricas básicas.               | 4                      | Pablo Geronimo        | Done       |
+| US22              | Dashboard de administración              | T12-01      | Vista principal del administrador           | Visualización de KPIs, métricas de uso y control de usuarios.                   | 4                      | Moises Espinoza       | Done       |
+| US18              | Recuperación de contraseña               | T13-01      | Formulario de recuperación y confirmación   | Inputs para email, validación y confirmación de envío.                          | 3                      | Pedro Lecca           | Done       |
+| US21              | Modo oscuro / Accesibilidad              | T14-01      | Implementación de dark mode                 | Toggle de tema claro/oscuro persistente en la app.                              | 3                      | Pedro Lecca           | Done       |
+| US23              | Internacionalización de interfaz (i18n)  | T15-01      | Configuración de idiomas (en/es)            | Implementación de archivos JSON de traducción e integración en la aplicación.   | 4                      | Pedro Lecca           | Done       |
 
-**Nota:** Las tablas presentadas están sujetas a cambios conforme avance el proyecto y se realicen ajustes en el alcance o en la planificación de actividades.
+**Nota:** Las tareas se organizaron bajo los *bounded contexts* definidos (`auth`, `admin`, `psychologist`, `students`, `shared`) siguiendo principios de separación de responsabilidades y escalabilidad.
 
-#### 5.2.1.3. Development Evidence for Sprint Review
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+Durante el Sprint 2 se realizaron múltiples avances en el desarrollo del frontend de Pathly, aplicando la arquitectura DDD y segmentando el código en bounded contexts. A continuación, se presenta la evidencia de los commits realizados por los integrantes del equipo:
 
 | **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
-|:---------------|:-----------|:--------------|:-------------------|:------------------------|:------------------------|
-| NextStep-UPC/NextStep-LandingPage | main | 00e62fc | feat(home): add home page with HTML, CSS and JS | Se creó la página principal Home utilizando HTML, CSS y JavaScript, incluyendo secciones básicas de la Landing Page. | 27/04/2025 |
-| NextStep-UPC/NextStep-LandingPage | main | d4b7871 | feat(register): add register page with HTML, CSS and JS | Se desarrolló la página de registro de usuarios, integrando formulario de datos y validaciones básicas. | 27/04/2025 |
-| NextStep-UPC/NextStep-LandingPage | main | f6120f3 | feat(login): add login page with HTML, CSS and JS | Se implementó el formulario de login de usuarios y su validación inicial en frontend. | 27/04/2025 |
-| NextStep-UPC/NextStep-LandingPage | main | dd04cbd | feat(assets/images): add landing page images | Se agregaron las imágenes necesarias para la Landing Page (logos, ilustraciones). | 27/04/2025 |
+|----------------|------------|---------------|---------------------|--------------------------|--------------------------|
+| pathly-frontend | main | `0ee876e` | fix:(feature/psychologist) fixed the logo in session-card.component.vue | Se corrigió el logo en el componente de sesiones del psicólogo. | 2025-05-14 |
+| pathly-frontend | main | `26ade4c` | add:(feature/psychologist) add components and views in psychologist v2 | CRUD en sección CREATE implementado para psicólogos. | 2025-05-14 |
+| pathly-frontend | main | `0ca67e6` | add:(feature/psychologist) add components and views in psychologist | Versión inicial del panel y formularios del psicólogo. | 2025-05-14 |
+| pathly-frontend | main | `02b7652` | add:(feature/psychologist) add json-server and CreateSectionForm.vue | Formulario de creación y configuración de mock server. | 2025-05-14 |
+| pathly-frontend | main | `e961804` | fix: update and rename landing.css to home.css | Unificación de estilos de la vista principal. | 2025-05-14 |
+| pathly-frontend | main | `fc5021f` | fix: update en.json | Actualización de traducciones al inglés. | 2025-05-14 |
+| pathly-frontend | main | `562a6b8` | fix: update es.json | Actualización de traducciones al español. | 2025-05-14 |
+| pathly-frontend | main | `ac6fc49` | feat: create language-switcher.component.vue | Componente de cambio de idioma integrado. | 2025-05-14 |
+| pathly-frontend | main | `c304315` | feat(test-question): applied css for a better ui | Mejora de estilos del módulo de test. | 2025-05-14 |
+| pathly-frontend | main | `a90f8af` | feat(test): implemented the first version of the test feature | Lógica funcional del test vocacional completada. | 2025-05-14 |
+| pathly-frontend | main | `5878d7e` | feat(db.json): created the server directory for the json server | Preparación de estructura simulada para pruebas. | 2025-05-14 |
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+#### 5.2.2.5. Testing Suite Evidence for Sprint Review
 
-Durante este Sprint, se realizaron pruebas funcionales manuales para verificar el correcto funcionamiento de las funcionalidades implementadas.
+Durante el Sprint 2 se realizaron pruebas funcionales manuales para verificar la correcta integración, navegabilidad y validación de las principales vistas y componentes desarrollados. A continuación, se presentan los principales resultados de testing:
 
-| **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
-|:-----------|:--------------|:-------------------|:------------------------|:------------------------|
-| main | 00e62fc | test: validaciones landing page | Se verificaron visualmente las validaciones de campos obligatorios y correos en formularios de login y registro. | 2025-04-27 |
-| main | d4b7871 | test: visual review de formulario de registro | Se realizaron pruebas funcionales del flujo de registro de nuevos usuarios en la plataforma. | 2025-04-27 |
-| main | f6120f3 | test: verificación de navegación landing | Se evaluó el correcto funcionamiento del menú de navegación y la responsividad en diferentes dispositivos. | 2025-04-27 |
+| **Branch** | **Commit Id** | **Commit Message** | **Prueba realizada** | **Resultado** | **Fecha** |
+|------------|---------------|--------------------|------------------------|----------------|-----------|
+| main | `a90f8af` | feat(test): implemented the first version of the test feature | Se verificó el flujo completo del test vocacional, incluyendo navegación, persistencia de respuestas y visualización de resultados. | Aprobado | 2025-05-15 |
+| main | `26ade4c` | add:(feature/psychologist) components and views in psychologist v2 | Se probó la creación de sesiones desde el panel del psicólogo, validando inputs, confirmación de guardado y visualización en dashboard. | Aprobado | 2025-05-16 |
+| main | `fc5021f` | fix: update en.json | Se comprobó el funcionamiento del selector de idioma (`en/es`) y la traducción dinámica de textos en la interfaz. | Aprobado | 2025-05-16 |
+| main | `02b7652` | add json-server and CreateSectionForm.vue | Se evaluó la interacción con datos simulados usando `json-server` y la correcta visualización en los formularios del psicólogo. | Aprobado | 2025-05-16 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-Nuestro equipo concluyó con este primer Sprint, donde se logró implementar y desplegar de forma funcional las vistas clave de la landing page Pathly. Las vistas fueron desarrolladas con estructura HTML, estilos personalizados y validaciones en tiempo real mediante JavaScript.
 
-Enlace al video del recorrido de nuestra Landing Page, Sprint 1: 
-
-https://youtu.be/mzCetYgiCDQ
-
-- Landing Page principal (index.html): incluye secciones de inicio, beneficios, metas, equipo, registro, inicio de sesión y llamado a la acción
-  
-![primera ](/assets/img/chapter-V/primera-pagina.png)
-
-- Se muestran el apartado de beneficios:
-  
-![segunda ](/assets/img/chapter-V/segunda-pagina.png)
-
-- Apartado donde se muestran las metas:
-  
-![tercera ](/assets/img/chapter-V/tercera-pagina.png)
-
-- Se muestran la seccion de equipo, y el footer:
-  
-![cuarta ](/assets/img/chapter-V/cuarta-imagen.png)
-
-- Formulario de registro (register.html): incluye validaciones de contraseña, confirmación y términos requeridos.
-  
-![registro ](/assets/img/chapter-V/registro.png)
-
-- Formulario de inicio de sesión (login.html): diseño con validaciones JS.
-  
-![inicio-sesion ](/assets/img/chapter-V/inicio-sesion.png)
-
-
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
-
-Durante este Sprint, la principal prioridad fue completar el desarrollo de la Landing Page, los formularios de registro e inicio de sesión, así como la estructura de navegación de la plataforma Pathly. Dado que aún no se han incorporado un backend ni servicios web, en esta etapa no se dispone de documentación de endpoints ni de especificaciones OpenAPI.
-
-El trabajo se enfocó en garantizar una experiencia de usuario funcional desde el lado del cliente. En próximas iteraciones, se procederá a la documentación de las rutas REST requeridas para la gestión de usuarios y procesos de orientación vocacional, utilizando OpenAPI como estándar de especificación.
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 **URL estimada del repositorio de backend:**
 https://github.com/NextStep-UPC/NextStep-Project-BackEnd
@@ -1808,17 +1786,24 @@ Durante este Sprint, se llevó a cabo la publicación de la Landing Page y de la
 
 - **Responsable:** Pedro Lecca
   
-#### 5.2.1.8. Team Collaboration Insights during Sprint
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 
-A lo largo del Sprint 1, Pedro Lecca se encargó de manera integral del desarrollo de la solución, asumiendo las responsabilidades de diseño, programación, validación y despliegue del sistema.
+Durante el Sprint 2 del proyecto Pathly, el equipo trabajó de forma distribuida bajo un enfoque colaborativo y basado en responsabilidades por módulo. La implementación se organizó aplicando Domain-Driven Design (DDD), permitiendo dividir el desarrollo por *bounded contexts*, lo que facilitó la asignación clara de tareas.
 
-| Integrante | Acciones realizadas durante el Sprint 2 |
-|------------|-----------------------------------------|
-| Lecca Villalobos, Pedro Omar | - Desarrollo integral de la interfaz de usuario, incluyendo la implementación de estructuras HTML y la maquetación visual mediante CSS.<br>- Programación de las validaciones de formularios en lenguaje JavaScript para asegurar la integridad de los datos ingresados por los usuarios.<br>- Organización y estructuración del proyecto, definiendo la jerarquía de carpetas y la distribución de componentes.<br>- Gestión de la subida del proyecto al repositorio GitHub y ejecución del despliegue de la plataforma mediante GitHub Pages. |
+| **Integrante** | **Acciones realizadas durante el Sprint 2** |
+|----------------|---------------------------------------------|
+| **Lecca Villalobos, Pedro Omar** | - Organización general del Sprint y planificación del equipo.<br>- Desarrollo de los formularios de autenticación y recuperación de contraseña.<br>- Implementación completa de la funcionalidad de internacionalización (i18n), incluyendo los archivos `en.json` y `es.json`, y el componente `language-switcher`.<br>- Estilización global de vistas compartidas y ajustes responsivos. |
+| **Geronimo Quispe, Pablo Antonio** | - Desarrollo del módulo `psychologist`, incluyendo el registro de psicólogos y su panel de gestión.<br>- Implementación del CRUD de sesiones y la vista con agenda de atención.<br>- Configuración e integración de `json-server` como base de datos simulada. |
+| **Quijandria Araneda, Vicente** | - Desarrollo de la funcionalidad de test vocacional, incluyendo navegación, captura de respuestas y renderizado de resultados.<br>- Mejora de estilos en componentes del test.<br>- Implementación de rutas simuladas y endpoints asociados en el servidor local. |
+| **Espinoza Chavez, Moises Filemon** | - Implementación del dashboard de administración (`admin`), con vista de KPIs, métricas y usuarios activos.<br>- Validaciones visuales y conexión entre secciones administrativas. |
 
-**Evidencia en GitHub (Sprint 1)**
+**Evidencia en GitHub (Sprint 2)**
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/github-evidence.png">
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/commits-evidence.png">
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/commits-evidence2.png">
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/commits-evidence3.png">
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/commits-evidence4.png">
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/commits-evidence5.png">
 
 # Conclusiones
 **TB1:** El proyecto "Pathly" reflejó un enfoque centrado en el usuario y orientado a abordar una necesidad social importante: la orientación vocacional de los estudiantes. Se consiguió estructurar una plataforma funcional y accesible mediante la aplicación de herramientas como User Stories, wireframes y una organización basada en funciones clave, priorizando en todo momento la experiencia del usuario. Las decisiones relacionadas con la navegación, la distribución de contenidos y la interacción visual fueron coherentes con el objetivo de facilitar el acceso a recursos de orientación académica y profesional. Además, la claridad en la definición de funciones y flujos de navegación favoreció la organización del equipo de trabajo, evidenciando un compromiso sólido con la misión educativa del proyecto y estableciendo una base sólida para su futura evolución y escalabilidad.

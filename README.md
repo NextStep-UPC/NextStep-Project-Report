@@ -207,19 +207,13 @@ Aplicando la técnica 5W2H, se identifican las siguientes justificaciones:
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-En el Perú, miles de estudiantes de secundaria se enfrentan cada año a la difícil tarea de decidir qué carrera profesional seguir, en un contexto cargado de presión social, expectativas familiares y desinformación. A pesar de que la orientación vocacional debería ser un proceso acompañado, introspectivo y guiado por especialistas, la realidad educativa nacional muestra que este acompañamiento es escaso, superficial o totalmente ausente.
+En el Perú, miles de estudiantes de secundaria enfrentan cada año el desafío de elegir una carrera profesional en un contexto cargado de presión social, expectativas familiares y desinformación. Aunque la orientación vocacional debería ser un proceso guiado y reflexivo, en la práctica escolar se ofrece de forma superficial, fragmentada o está ausente por completo.
 
-Muchos colegios carecen de programas integrales de orientación vocacional y solo ofrecen sesiones breves o test genéricos que no reflejan la realidad, intereses o fortalezas de cada estudiante. Esto deja a los adolescentes en un estado de incertidumbre que puede llevarlos a elegir carreras por descarte, imitación o presión externa, sin una comprensión real de sí mismos.
+Muchos colegios carecen de programas estructurados de orientación vocacional y se limitan a ofrecer test genéricos que no consideran los intereses, contextos ni capacidades individuales. Esta carencia deja a los adolescentes expuestos a tomar decisiones críticas sin autoconocimiento suficiente ni apoyo profesional, lo que puede derivar en frustración académica, deserción o cambios tardíos de carrera.
 
-Por otro lado, los psicólogos vocacionales enfrentan barreras importantes: falta de tiempo, exceso de demanda, herramientas poco adaptadas a la era digital y escasa continuidad con cada estudiante. Esto limita su capacidad de brindar un proceso profundo y sostenido de orientación. La tecnología, que podría ser una aliada en este contexto, aún no se integra de manera eficaz y humanizada al proceso vocacional escolar.
+Paralelamente, los psicólogos vocacionales enfrentan obstáculos como falta de tiempo, exceso de demanda y escasez de herramientas actualizadas, lo cual dificulta brindar un proceso profundo y continuo. La falta de canales eficientes para el seguimiento también debilita la relación entre el profesional y el estudiante.
 
-Pathly nace con el propósito de transformar esta realidad. Nuestra propuesta busca ofrecer una solución digital accesible, que integre evaluaciones vocacionales modernas con asesoría personalizada, permitiendo a los estudiantes conocerse mejor y tomar decisiones informadas, y a los psicólogos gestionar eficientemente cada caso.
-
-Lo que nos diferencia es el enfoque dual y colaborativo: unir a estudiantes y profesionales en una misma plataforma que respete el ritmo del usuario, facilite el seguimiento, y garantice la calidad del acompañamiento vocacional mediante validación profesional y buenas prácticas de UX.
-
-Los hallazgos de nuestras entrevistas evidencian que tanto estudiantes como orientadores desean una experiencia más fluida, empática, estructurada y continua, que combine lo mejor de la tecnología con el valor del contacto humano.
-
-**¿Cómo podemos diseñar una plataforma que no solo facilite la toma de decisiones vocacionales, sino que también promueva un proceso empático, guiado, accesible y sostenido en el tiempo para estudiantes y psicólogos?**
+Las entrevistas realizadas revelan que tanto estudiantes como psicólogos perciben esta situación como una limitación significativa y manifiestan el deseo de contar con un proceso más empático, accesible, estructurado y sostenido en el tiempo.
 
 #### 1.2.2.2. Lean UX Assumptions
 

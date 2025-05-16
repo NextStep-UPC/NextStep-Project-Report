@@ -1749,6 +1749,7 @@ Durante el Sprint 2 se realizaron múltiples avances en el desarrollo del fronte
 | pathly-frontend | main | `c304315` | feat(test-question): applied css for a better ui | Mejora de estilos del módulo de test. | 2025-05-14 |
 | pathly-frontend | main | `a90f8af` | feat(test): implemented the first version of the test feature | Lógica funcional del test vocacional completada. | 2025-05-14 |
 | pathly-frontend | main | `5878d7e` | feat(db.json): created the server directory for the json server | Preparación de estructura simulada para pruebas. | 2025-05-14 |
+| pathly-frontend    | main       | `ac8c590`     | add: docs "sessions schedule components"     |                                                       | 2025-05-15              |
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
@@ -1760,6 +1761,7 @@ Durante el Sprint 2 se realizaron pruebas funcionales manuales para verificar la
 | main | `26ade4c` | add:(feature/psychologist) components and views in psychologist v2 | Se probó la creación de sesiones desde el panel del psicólogo, validando inputs, confirmación de guardado y visualización en dashboard. | Aprobado | 2025-05-16 |
 | main | `fc5021f` | fix: update en.json | Se comprobó el funcionamiento del selector de idioma (`en/es`) y la traducción dinámica de textos en la interfaz. | Aprobado | 2025-05-16 |
 | main | `02b7652` | add json-server and CreateSectionForm.vue | Se evaluó la interacción con datos simulados usando `json-server` y la correcta visualización en los formularios del psicólogo. | Aprobado | 2025-05-16 |
+| pathly-frontend    | main       | `ac8c590`     | add: docs "sessions schedule components"     |                                                       | 2025-05-15              |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
@@ -1791,6 +1793,8 @@ Durante este Sprint, se llevó a cabo la publicación de la Landing Page y de la
 <p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/s2-deployment-evidence8.jpeg">
 - Se desarrollo la funcionalidad de tests
 <p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/s2-deployment-evidence9.jpeg">
+- Se desarrollo la funcionalidad de Admin Dashboard
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/admin-dashboard.jpeg">
 
 - **Responsable:** Pedro Lecca
   
@@ -1812,6 +1816,7 @@ Durante el Sprint 2 del proyecto Pathly, el equipo trabajó de forma distribuida
 <p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/commits-evidence3.png">
 <p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/commits-evidence4.png">
 <p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/commits-evidence5.png">
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/commits-evidence6.png">
 
 # Conclusiones
 **TB1:** El proyecto "Pathly" reflejó un enfoque centrado en el usuario y orientado a abordar una necesidad social importante: la orientación vocacional de los estudiantes. Se consiguió estructurar una plataforma funcional y accesible mediante la aplicación de herramientas como User Stories, wireframes y una organización basada en funciones clave, priorizando en todo momento la experiencia del usuario. Las decisiones relacionadas con la navegación, la distribución de contenidos y la interacción visual fueron coherentes con el objetivo de facilitar el acceso a recursos de orientación académica y profesional. Además, la claridad en la definición de funciones y flujos de navegación favoreció la organización del equipo de trabajo, evidenciando un compromiso sólido con la misión educativa del proyecto y estableciendo una base sólida para su futura evolución y escalabilidad.

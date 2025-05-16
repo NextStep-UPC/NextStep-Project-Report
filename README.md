@@ -1763,26 +1763,21 @@ https://github.com/NextStep-UPC/NextStep-Project-BackEnd
 Durante este Sprint, se llevó a cabo la publicación de la Landing Page y de las interfaces de usuario de la plataforma Pathly a través de GitHub Pages. Gracias a ello, el acceso al desarrollo se habilitó desde cualquier navegador, lo que facilitó la ejecución de pruebas funcionales, la presentación de avances al equipo y la recopilación de retroalimentación inmediata.
 
 **Proceso de Deployment realizado:**
-- Se creó un repositorio GitHub. (https://github.com/NextStep-UPC/NextStep-LandingPage)
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/landing-page-repository-evidence.png">
-
-- Se organizó el proyecto con estructura de carpetas (assets/images, pages/)
-
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/landing-page-ss1.png">
-  
-
-- Se subieron los archivos HTML, CSS y JS:
-
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/landing-page-ss1.png">
-  
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/landing-page-ss2.png">
-
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/landing-page-ss3.png">
-
-- Se verificó el acceso público:
-  
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/primera-pagina.png">
+- Se desarrollo la interfaz de nuestros planes.
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/s2-deployment-evidence1.jpeg">
+- Se desarrollo el componente visual de comparación de beneficios
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/s2-deployment-evidence2.jpeg">
+- Se desarrollo la vista para seleccionar el rol
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/s2-deployment-evidence3.jpeg">
+- Se desarrollo la vista del Dashboard
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/s2-deployment-evidence5.jpeg">
+- Se desarrollo la vista de inicio de sesión
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/s2-deployment-evidence6.jpeg">
+- Se desarrollo la vista de registro de usuario
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/s2-deployment-evidence8.jpeg">
+- Se desarrollo la funcionalidad de tests
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/s2-deployment-evidence9.jpeg">
 
 - **Responsable:** Pedro Lecca
   

@@ -1319,7 +1319,7 @@ El usuario debe corregir ambas entradas antes de poder continuar.
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
-![class](/assets/img/chapter-IV/class.png)
+![class](/assets/img/chapter-IV/clases.png)
 
 ### 4.7.2. Class Dictionary
 

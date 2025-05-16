@@ -41,9 +41,9 @@
 
 ## Project Report Collaboration Insights
 
-| URL de la organización del proyecto |             URL del repositorio del reporte            |          URL del repositorio de la landing page             |
-|-------------------------------------|--------------------------------------------------------|-------------------------------------------------------------|
-| https://github.com/NextStep-UPC     | https://github.com/DevsConClase-PatitaSolidaria/Report | https://github.com/DevsConClase-PatitaSolidaria/LandingPage |
+| URL de la organización del proyecto |             URL del repositorio del reporte             |        URL del repositorio de la landing page        | URL del repositorio del frontend |
+|-------------------------------------|---------------------------------------------------------|------------------------------------------------------|---------------------------------|
+| https://github.com/NextStep-UPC     | https://github.com/NextStep-UPC/NextStep-Project-Report | https://github.com/NextStep-UPC/NextStep-LandingPage | https://github.com/NextStep-UPC/pathly-frontend |
 
 ## Contenido
 
@@ -1825,7 +1825,7 @@ Durante el Sprint 2 del proyecto Pathly, el equipo trabajó de forma distribuida
 
 El equipo trabajó de forma coordinada, distribuyendo tareas según módulos, aplicando buenas prácticas y validando cada componente mediante pruebas funcionales. Se consolidó así una base técnica sólida y escalable que permitirá continuar el desarrollo en próximos sprints con eficiencia y orden.
 
-# Bibilografía
+# Bibliografía
 - Ardisana, E. H. (2015). *Orientación vocacional a través de las TIC: ¿es suficiente?* ResearchGate. https://www.researchgate.net/publication/285584772
 - Martínez Clares, P. (2020). *El impacto de las TIC en los procesos de orientación profesional*. Revista Española de Orientación y Psicopedagogía, 31(1), 71-85. https://revistas.uned.es/index.php/reop/article/view/36460
 - Miro. (2024). Miro. Miro Corporation. https://miro.com

@@ -21,21 +21,22 @@
 
 | Versión | Fecha | Autor | Descripción |
 |---------|-------|-------|-------------|
-| TB1     | 20/07/2025 | Lecca Villalobos, Pedro Omar | Realizó el Capítulo 2 |
-| TB1     | 20/07/2025 | Quijandria Araneda, Vicente | Realizó partes del el Capítulo 1 |
-| TB1     | 25/07/2025 | Lecca Villalobos, Pedro Omar | Realizó el Capítulo 1 y 3 |
-| TB1     | 26/07/2025 | Lecca Villallbos, Pedro Omar | Realizó los puntos 4.3 y 4.4 del capítulo 4 |
-| TB1     | 26/07/2025 | Lecca Villalobos, Pedro Omar | Terminó la Landing Page / Web Applications & Wireframes & MockUp |
-| TB1     | 26/07/2025 | Geronimo Quispe, Pablo Antonio | Realizó el punto 4.6. |
-| TB1     | 26/07/2025 | Espinoza Chávez, Moisés Filemón | Realizó el punto 4.1.1. General Style Guidelines |
-| TB1     | 27/07/2025 | Espinoza Chávez, Moisés Filemón | Realizó el punto 4.1.2. Web Style Guidelines |
-| TB1     | 27/07/2025 | Espinoza Chávez, Moisés Filemón | Realizó los puntos 4.2.1, 4.2.2, 4.2.3, 4.2.4, 4.2.5 |
-| TB1     | 27/07/2025 | Espinoza Chávez, Moisés Filemón | Realizó el punto 5.2.1.5 Execution Evidence for Sprint Review. |
-| TB1     | 27/07/2025 | Lecca Villalobos, Pedro Omar | Realizó los puntos 5.1.1 hasta 5.2.1.4, luego 5.2.1.6 hasta 5.2.1.8. |
-| TB1     | 27/07/2025 | Lecca Villalobos, Pedro Omar | Realizó las conclusiones, y actualizó el documento. |
-| TB1     | 27/07/2025 | Geronimo Quispe, Pablo Antonio | Realizó el punto 4.7 y 4.8 |
+| TB1     | 20/04/2025 | Lecca Villalobos, Pedro Omar | Realizó el Capítulo 2 |
+| TB1     | 20/04/2025 | Quijandria Araneda, Vicente | Realizó partes del el Capítulo 1 |
+| TB1     | 25/04/2025 | Lecca Villalobos, Pedro Omar | Realizó el Capítulo 1 y 3 |
+| TB1     | 26/04/2025 | Lecca Villallbos, Pedro Omar | Realizó los puntos 4.3 y 4.4 del capítulo 4 |
+| TB1     | 26/04/2025 | Lecca Villalobos, Pedro Omar | Terminó la Landing Page / Web Applications & Wireframes & MockUp |
+| TB1     | 26/04/2025 | Geronimo Quispe, Pablo Antonio | Realizó el punto 4.6. |
+| TB1     | 26/04/2025 | Espinoza Chávez, Moisés Filemón | Realizó el punto 4.1.1. General Style Guidelines |
+| TB1     | 27/04/2025 | Espinoza Chávez, Moisés Filemón | Realizó el punto 4.1.2. Web Style Guidelines |
+| TB1     | 27/04/2025 | Espinoza Chávez, Moisés Filemón | Realizó los puntos 4.2.1, 4.2.2, 4.2.3, 4.2.4, 4.2.5 |
+| TB1     | 27/04/2025 | Espinoza Chávez, Moisés Filemón | Realizó el punto 5.2.1.5 Execution Evidence for Sprint Review. |
+| TB1     | 27/04/2025 | Lecca Villalobos, Pedro Omar | Realizó los puntos 5.1.1 hasta 5.2.1.4, luego 5.2.1.6 hasta 5.2.1.8. |
+| TB1     | 27/04/2025 | Lecca Villalobos, Pedro Omar | Realizó las conclusiones, y actualizó el documento. |
+| TB1     | 27/04/2025 | Geronimo Quispe, Pablo Antonio | Realizó el punto 4.7 y 4.8 |
 | TP      | 15/05/2025 | Quijandria Araneda, Vicente | Realizó el sprint evidence 2 |
-
+| TP      | 16/05/2025 | Geronimo Quispe, Pablo Antonio | Realizó el sprint evidence 2 |
+| TP      | 16/05/2025 | Geronimo Quispe, Pablo Antonio | Aplico mejora continua|
 ## Project Report Collaboration Insights
 
 | URL de la organización del proyecto |             URL del repositorio del reporte            |          URL del repositorio de la landing page             |

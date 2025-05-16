@@ -36,7 +36,9 @@
 | TB1     | 27/04/2025 | Geronimo Quispe, Pablo Antonio | Realizó el punto 4.7 y 4.8 |
 | TP      | 15/05/2025 | Quijandria Araneda, Vicente | Realizó el sprint evidence 2 |
 | TP      | 16/05/2025 | Geronimo Quispe, Pablo Antonio | Realizó el sprint evidence 2 |
-| TP      | 16/05/2025 | Geronimo Quispe, Pablo Antonio | Aplico mejora continua|
+| TP      | 16/05/2025 | Geronimo Quispe, Pablo Antonio | Aplico mejora continua |
+| TP      | 16/05/2025 | Lecca Villalobos, Pedro Omar | Realizó el sprint evidence 2 |
+
 ## Project Report Collaboration Insights
 
 | URL de la organización del proyecto |             URL del repositorio del reporte            |          URL del repositorio de la landing page             |
@@ -126,6 +128,15 @@
             - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
             - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
             - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+        - [5.2.2. Sprint 2](#521-sprint-1)
+            - [5.2.2.1. Sprint Planning 2](#5211-sprint-planning-1)
+            - [5.2.2.2. Sprint Backlog 2](#5212-sprint-backlog-1)
+            - [5.2.2.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+            - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+            - [5.2.2.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+            - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+            - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+            - [5.2.2.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -140,8 +151,8 @@ del ABET – EAC - Student Outcome 5.
 
 | **Criterio específico** | **Acciones Realizadas** | **Conclusiones** |
 |:-------------------------|:------------------------|:-----------------|
-| 1. Trabaja en equipo para proporcionar liderazgo | **Lecca Villalobos, Pedro Omar**<br>**TB1:** Realizó el Capítulo 2 completo del informe, redactó el Capítulo 1 (Introducción) y Capítulo 3 (Especificación de Requerimientos), desarrolló los puntos 4.3 y 4.4 (flujos de aplicaciones web), implementó la Landing Page, elaboró wireframes y mockups, completó los puntos 5.1.1 a 5.2.1.4 y de 5.2.1.6 a 5.2.1.8 del Sprint 1, finalizó conclusiones generales y actualizó la versión final del documento.<br><br>**Espinoza Chavez, Moises Filemon**<br>**TB1:** Realizó los apartados 4.1.1 (General Style Guidelines) y 4.1.2 (Web Style Guidelines), así como los puntos 4.2.1 a 4.2.5 (estructura visual y navegación). También redactó la sección 5.2.1.5 (Execution Evidence for Sprint Review).<br><br>**Geronimo Quispe, Pablo Antonio**<br>**TB1:** Realizó el punto 4.6 (Domain-Driven Software Architecture), contribuyendo a la definición de la arquitectura de componentes y contextos de software. | El equipo demostró liderazgo distribuido, asignando roles estratégicos de acuerdo con las habilidades de cada integrante. Se logró coordinar eficazmente el desarrollo técnico, visual y documental del proyecto, asegurando que todas las áreas fueran atendidas de manera oportuna y efectiva. |
-| 2. Crea un entorno colaborativo, establece metas, planifica tareas y cumple objetivos | **Lecca Villalobos, Pedro Omar**<br>**TB1:** Planificó la estructura de capítulos del informe, organizó los entregables por hitos, implementó y desplegó la Landing Page, realizó pruebas manuales de validación y aseguró el cumplimiento de los objetivos del Sprint 1.<br><br>**Espinoza Chavez, Moises Filemon**<br>**TB1:** Propuso criterios de estilo para uniformizar la visualización del proyecto, apoyó la organización y revisión de entregables y cumplió sus asignaciones en los tiempos planificados.<br><br>**Geronimo Quispe, Pablo Antonio**<br>**TB1:** Participó en la definición de los artefactos de arquitectura, colaboró en el avance documentado del informe y cumplió con sus entregables dentro de los plazos del Sprint. | El equipo generó un entorno de colaboración efectiva, planificando de manera estructurada las actividades necesarias para el logro de los objetivos propuestos. Se cumplió satisfactoriamente con los tiempos de entrega, manteniendo una comunicación continua y asegurando la calidad de los productos desarrollados. |
+| 1. Trabaja en equipo para proporcionar liderazgo | **Lecca Villalobos, Pedro Omar**<br>**TB1:** Realizó el Capítulo 2 completo del informe, redactó el Capítulo 1 (Introducción) y Capítulo 3 (Especificación de Requerimientos), desarrolló los puntos 4.3 y 4.4 (flujos de aplicaciones web), implementó la Landing Page, elaboró wireframes y mockups, completó los puntos 5.1.1 a 5.2.1.4 y de 5.2.1.6 a 5.2.1.8 del Sprint 1, finalizó conclusiones generales y actualizó la versión final del documento.<br><br>**Espinoza Chavez, Moises Filemon**<br>**TB1:** Realizó los apartados 4.1.1 (General Style Guidelines) y 4.1.2 (Web Style Guidelines), así como los puntos 4.2.1 a 4.2.5 (estructura visual y navegación). También redactó la sección 5.2.1.5 (Execution Evidence for Sprint Review).<br><br>**Geronimo Quispe, Pablo Antonio**<br>**TB1:** Realizó el punto 4.6 (Domain-Driven Software Architecture), contribuyendo a la definición de la arquitectura de componentes y contextos de software.<br><br>**Lecca Villalobos, Pedro Omar**<br>**TP1:** Organizó y lideró la planificación del Sprint 2, estructurando el desarrollo del frontend mediante arquitectura DDD y distribución por *bounded contexts*. Implementó funcionalidades clave como la autenticación, recuperación de contraseña y, especialmente, la internacionalización de la plataforma (i18n), configurando los archivos `en.json` y `es.json`, y creando el componente `language-switcher`. Coordinó el trabajo técnico del equipo asegurando cohesión, modularidad y buenas prácticas.<br><br>**Quijandria Araneda, Vicente**<br>**TP1:** Fue responsable del desarrollo funcional del test vocacional, diseñando la interfaz de preguntas, lógica de navegación entre secciones, captura de respuestas y visualización de resultados personalizados. También se encargó de aplicar estilos CSS para mejorar la experiencia de usuario, integrando correctamente la funcionalidad en el flujo general del sistema. | El equipo demostró liderazgo distribuido, asignando roles estratégicos de acuerdo con las habilidades de cada integrante. Se logró coordinar eficazmente el desarrollo técnico, visual y documental del proyecto, asegurando que todas las áreas fueran atendidas de manera oportuna y efectiva. |
+| 2. Crea un entorno colaborativo, establece metas, planifica tareas y cumple objetivos | **Lecca Villalobos, Pedro Omar**<br>**TB1:** Planificó la estructura de capítulos del informe, organizó los entregables por hitos, implementó y desplegó la Landing Page, realizó pruebas manuales de validación y aseguró el cumplimiento de los objetivos del Sprint 1.<br><br>**Espinoza Chavez, Moises Filemon**<br>**TB1:** Propuso criterios de estilo para uniformizar la visualización del proyecto, apoyó la organización y revisión de entregables y cumplió sus asignaciones en los tiempos planificados.<br><br>**Geronimo Quispe, Pablo Antonio**<br>**TB1:** Participó en la definición de los artefactos de arquitectura, colaboró en el avance documentado del informe y cumplió con sus entregables dentro de los plazos del Sprint.<br><br>**Lecca Villalobos, Pedro Omar**<br>**TP1:** Estableció objetivos técnicos claros, diseñó componentes compartidos reutilizables y aplicó principios de ingeniería de software que facilitaron la implementación simultánea entre contextos. También se encargó del ajuste visual de vistas comunes y del despliegue funcional de las vistas multilenguaje. Dio soporte activo a sus compañeros durante la integración de módulos.<br><br>**Quijandria Araneda, Vicente**<br>**TP1:** Coordinó con los demás miembros del equipo la conexión de su módulo con los datos del sistema y las rutas de navegación. Validó el correcto funcionamiento del test vocacional mediante pruebas funcionales y aseguró la presentación clara de resultados. Su participación permitió avanzar con uno de los componentes más visibles del sistema, alineado con los objetivos del Sprint. | El equipo generó un entorno de colaboración efectiva, planificando de manera estructurada las actividades necesarias para el logro de los objetivos propuestos. Se cumplió satisfactoriamente con los tiempos de entrega, manteniendo una comunicación continua y asegurando la calidad de los productos desarrollados. |
 
 # Capítulo I: Introducción
 
@@ -1684,7 +1695,7 @@ A lo largo del Sprint 1, Pedro Lecca se encargó de manera integral del desarrol
 
 ### 5.2.2. Sprint 2
 
-### 5.2.2.2. Sprint Planning 2
+### 5.2.2.1. Sprint Planning 2
 
 En esta sección se detallan los aspectos principales de la reunión de planificación del Sprint 2 del proyecto “Pathly”. En esta fase se definió el desarrollo del **frontend completo de la plataforma**, organizando el proyecto bajo principios de **Domain-Driven Design (DDD)** y estructurando la solución en distintos *Bounded Contexts* (`auth`, `admin`, `psychologist`, `students`). La sesión fue organizada por **Pedro Omar Lecca Villalobos** y contó con la participación de todos los integrantes del equipo.
 
@@ -1701,7 +1712,7 @@ En esta sección se detallan los aspectos principales de la reunión de planific
 | **Sprint n Velocity** | 25 Story Points |
 | **Sum of Story Points** | 25 |
 
-#### 5.2.2.3. Sprint Backlog 2
+#### 5.2.2.2. Sprint Backlog 2
 
 Durante el segundo Sprint se priorizó el desarrollo de la estructura completa del frontend de la plataforma Pathly, organizando el código en *Bounded Contexts* alineados con la arquitectura DDD. Se desarrollaron componentes clave para autenticación, paneles de administración, funcionalidades del psicólogo, vistas del estudiante y configuración multilenguaje (i18n). A continuación, se detallan las tareas asociadas a las historias de usuario priorizadas.
 
@@ -1721,7 +1732,7 @@ Durante el segundo Sprint se priorizó el desarrollo de la estructura completa d
 
 **Nota:** Las tareas se organizaron bajo los *bounded contexts* definidos (`auth`, `admin`, `psychologist`, `students`, `shared`) siguiendo principios de separación de responsabilidades y escalabilidad.
 
-#### 5.2.2.4. Development Evidence for Sprint Review
+#### 5.2.2.3. Development Evidence for Sprint Review
 
 Durante el Sprint 2 se realizaron múltiples avances en el desarrollo del frontend de Pathly, aplicando la arquitectura DDD y segmentando el código en bounded contexts. A continuación, se presenta la evidencia de los commits realizados por los integrantes del equipo:
 
@@ -1739,7 +1750,7 @@ Durante el Sprint 2 se realizaron múltiples avances en el desarrollo del fronte
 | pathly-frontend | main | `a90f8af` | feat(test): implemented the first version of the test feature | Lógica funcional del test vocacional completada. | 2025-05-14 |
 | pathly-frontend | main | `5878d7e` | feat(db.json): created the server directory for the json server | Preparación de estructura simulada para pruebas. | 2025-05-14 |
 
-#### 5.2.2.5. Testing Suite Evidence for Sprint Review
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
 Durante el Sprint 2 se realizaron pruebas funcionales manuales para verificar la correcta integración, navegabilidad y validación de las principales vistas y componentes desarrollados. A continuación, se presentan los principales resultados de testing:
 
@@ -1750,15 +1761,17 @@ Durante el Sprint 2 se realizaron pruebas funcionales manuales para verificar la
 | main | `fc5021f` | fix: update en.json | Se comprobó el funcionamiento del selector de idioma (`en/es`) y la traducción dinámica de textos en la interfaz. | Aprobado | 2025-05-16 |
 | main | `02b7652` | add json-server and CreateSectionForm.vue | Se evaluó la interacción con datos simulados usando `json-server` y la correcta visualización en los formularios del psicólogo. | Aprobado | 2025-05-16 |
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
 
+Para este punto, se ha desplegado el FrontEnd mediante ONRENDER.
+https://pathly-frontend.onrender.com/
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 **URL estimada del repositorio de backend:**
 https://github.com/NextStep-UPC/NextStep-Project-BackEnd
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 Durante este Sprint, se llevó a cabo la publicación de la Landing Page y de las interfaces de usuario de la plataforma Pathly a través de GitHub Pages. Gracias a ello, el acceso al desarrollo se habilitó desde cualquier navegador, lo que facilitó la ejecución de pruebas funcionales, la presentación de avances al equipo y la recopilación de retroalimentación inmediata.
 
@@ -1802,6 +1815,10 @@ Durante el Sprint 2 del proyecto Pathly, el equipo trabajó de forma distribuida
 
 # Conclusiones
 **TB1:** El proyecto "Pathly" reflejó un enfoque centrado en el usuario y orientado a abordar una necesidad social importante: la orientación vocacional de los estudiantes. Se consiguió estructurar una plataforma funcional y accesible mediante la aplicación de herramientas como User Stories, wireframes y una organización basada en funciones clave, priorizando en todo momento la experiencia del usuario. Las decisiones relacionadas con la navegación, la distribución de contenidos y la interacción visual fueron coherentes con el objetivo de facilitar el acceso a recursos de orientación académica y profesional. Además, la claridad en la definición de funciones y flujos de navegación favoreció la organización del equipo de trabajo, evidenciando un compromiso sólido con la misión educativa del proyecto y estableciendo una base sólida para su futura evolución y escalabilidad.
+
+**TP1:** Durante el Sprint 2 se logró implementar el frontend completo de la plataforma Pathly, aplicando arquitectura DDD y dividiendo el desarrollo en bounded contexts (auth, admin, psychologist, students). Se desarrollaron funcionalidades clave como el test vocacional, autenticación, panel del psicólogo, dashboard administrativo e internacionalización (i18n) en español e inglés.
+
+El equipo trabajó de forma coordinada, distribuyendo tareas según módulos, aplicando buenas prácticas y validando cada componente mediante pruebas funcionales. Se consolidó así una base técnica sólida y escalable que permitirá continuar el desarrollo en próximos sprints con eficiencia y orden.
 
 # Bibilografía
 - Ardisana, E. H. (2015). *Orientación vocacional a través de las TIC: ¿es suficiente?* ResearchGate. https://www.researchgate.net/publication/285584772

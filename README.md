@@ -1794,7 +1794,7 @@ Durante este Sprint, se llevó a cabo la publicación de la Landing Page y de la
 - Se desarrollo la funcionalidad de tests
 <p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/s2-deployment-evidence9.jpeg">
 - Se desarrollo la funcionalidad de Admin Dashboard
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/admin-dashboard.jpeg">
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/admin-dashboard.png">
 
 - **Responsable:** Pedro Lecca
   

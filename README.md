@@ -1818,6 +1818,53 @@ Durante el Sprint 2 del proyecto Pathly, el equipo trabajó de forma distribuida
 <p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/commits-evidence5.png">
 <p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/commits-evidence6.png">
 
+    
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+#### Preguntas para segmento 1:
+
+-¿Te pareció fácil de usar la página desde el primer momento?
+
+-¿Pudiste encontrar rápido lo que necesitabas (ver tu sesión, escribir al psicólogo, etc.)?
+
+-¿Los íconos y botones te parecieron claros o hubo alguno que no entendiste?
+
+-¿Te sentiste cómodo/a navegando por la página o algo te confundió?
+
+-¿Qué te gustó más del diseño o apariencia de la página?
+
+-¿Hubo algo que te pareció feo, incómodo o innecesario?
+
+-¿Te gustaría que la página tenga más colores, animaciones o efectos cuando haces clic?
+
+-¿Qué mejorarías para que usar la página sea más divertido o sencillo?
+
+-¿Te parece que esta página está hecha pensando en personas jóvenes como tú?
+
+-¿Cambiarías algo para que se sienta más como una app que te gusta usar?
+
+#### Preguntas para segmento 2:
+
+-¿Consideras que el diseño general de la plataforma transmite profesionalismo y confianza?
+
+-¿Pudiste encontrar fácilmente la información que buscabas (estudiantes, sesiones, agenda, etc.)?
+
+-¿Los botones y opciones de navegación están claramente etiquetados y son fáciles de identificar?
+
+-¿La experiencia de uso fue fluida o hubo momentos de confusión?
+
+-¿Qué funcionalidades o herramientas te parecen más útiles como profesional?
+
+-¿Notas algún elemento que esté de más o que pueda distraer de tu trabajo?
+
+-¿Qué mejorarías en términos de diseño visual (colores, tipografía, disposición de los elementos)?
+
+-¿Te gustaría ver más funcionalidades interactivas como confirmaciones visuales, recordatorios o notificaciones?
+
+-¿La plataforma te parece intuitiva desde el punto de vista de un profesional de la salud?
+
+-¿Hay algo que te gustaría ver implementado para facilitar tu labor como psicólogo/a?
+
 # Conclusiones
 **TB1:** El proyecto "Pathly" reflejó un enfoque centrado en el usuario y orientado a abordar una necesidad social importante: la orientación vocacional de los estudiantes. Se consiguió estructurar una plataforma funcional y accesible mediante la aplicación de herramientas como User Stories, wireframes y una organización basada en funciones clave, priorizando en todo momento la experiencia del usuario. Las decisiones relacionadas con la navegación, la distribución de contenidos y la interacción visual fueron coherentes con el objetivo de facilitar el acceso a recursos de orientación académica y profesional. Además, la claridad en la definición de funciones y flujos de navegación favoreció la organización del equipo de trabajo, evidenciando un compromiso sólido con la misión educativa del proyecto y estableciendo una base sólida para su futura evolución y escalabilidad.
 

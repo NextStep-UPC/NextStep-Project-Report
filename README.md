@@ -41,9 +41,9 @@
 
 ## Project Report Collaboration Insights
 
-| URL de la organización del proyecto |             URL del repositorio del reporte             |        URL del repositorio de la landing page        | URL del repositorio del frontend |
-|-------------------------------------|---------------------------------------------------------|------------------------------------------------------|---------------------------------|
-| https://github.com/NextStep-UPC     | https://github.com/NextStep-UPC/NextStep-Project-Report | https://github.com/NextStep-UPC/NextStep-LandingPage | https://github.com/NextStep-UPC/pathly-frontend |
+| URL de la organización del proyecto |             URL del repositorio del reporte             |        URL del repositorio de la landing page        | URL del repositorio del frontend | URL del repositorio del frontend               |
+|-------------------------------------|---------------------------------------------------------|------------------------------------------------------|---------------------------------|------------------------------------------------|
+| https://github.com/NextStep-UPC     | https://github.com/NextStep-UPC/NextStep-Project-Report | https://github.com/NextStep-UPC/NextStep-LandingPage | https://github.com/NextStep-UPC/pathly-frontend | https://github.com/NextStep-UPC/pathly-backend |
 
 ## Contenido
 
@@ -137,6 +137,19 @@
             - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
             - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
             - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+        - [5.2.3. Sprint 3](#523-sprint-3)
+            - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+            - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+            - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+            - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+            - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+            - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+            - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+            - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+        - [5.2.4. Validation Interviews](#524-validation-interviews)
+          - [5.2.4.1. Diseño de Entrevistas](#5241-diseño-de-entrevistas)
+          - [5.2.4.2. Registro de Entrevistas](#5242-registro-de-entrevistas)
+          - [5.2.4.3. Evaluaciones según heurísticas](#5243-evaluaciones-según-heurísticas)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -1818,7 +1831,23 @@ Durante el Sprint 2 del proyecto Pathly, el equipo trabajó de forma distribuida
 <p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/commits-evidence5.png">
 <p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/commits-evidence6.png">
 
-    
+## 5.2.3. Sprint 3
+### 5.2.3.1. Sprint Planning 3
+
+| Elemento                            | Detalle                                                                                           |
+|-------------------------------------|---------------------------------------------------------------------------------------------------|
+| Sprint #                            | 3                                                                                                 |
+| Date                                | 2025-06-16                                                                                        |
+| Time                                | 9:00 PM                                                                                           |
+| Location                            | Google Meet (virtual)                                                                             |
+| Prepared By 	                       | Lecca Villalobos, Pedro Omar                                                                      |
+| Attendees (to planning meeting)     | Quijandria Araneda, Vicente<br>Espinoza Chavez, Moises Filemon<br>Geronimo Quispe, Pablo Antonio  |
+| Sprint n - 3 Review Summary         | Se implementaron en el backend los bounded contexts: IAM, Sections, Vocational Test y Admin.      |
+| Sprint n – 3 Retrospective Summary	 | Se identifico el mejorar el diseño del frontend para hacerlo compatible con el backend a futuro.  |
+| Sprint 3 Goal	                      | Finalizar la integración de servicios externos y preparar el producto para pruebas de validación. |
+
+### 5.2.3.2. Sprint Backlog 3
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 #### Preguntas para segmento 1:

@@ -2109,6 +2109,36 @@ Cada integrante participó activamente en la implementación de su bounded conte
 | **Sugerencias de mejora**                | Reforzar detalles visuales y agregar animaciones o confirmaciones al realizar acciones. |
 | **Nivel de confusión**                   | No experimentó confusión durante la navegación solo al inicio.                                       |
 
+
+| **Entrevista 2**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
+|------------------------------------------|----------------------------------------------------------------------------------------|
+| **Entrevistado**                         | Piero Tenorio                                                                       |
+| **Edad**                                 | 16 años                                                                               |
+| **Distrito**                             | San Miguel                                                                               |
+| **Inicio de entrevista**                 | 00:03                                                                             |
+| **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/drive/folders/1op9rdbTmhcIgEaSbnXENuiOK1LwqcNjJ?usp=drive_link)                               |
+| **Foto captura**                         | ![Captura](assets/img/chapter-V/Piero4.png)                                |
+| **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general. |
+| **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio.  |
+| **Visualización del panel principal**    | Le pareció bastante desordenado.     |
+| **Sugerencias de mejora**                | Reforzar detalles visuales y agregar animaciones o confirmaciones al realizar acciones y mejorar el orden en general. |
+| **Nivel de confusión**                   | No experimentó confusión durante la navegación solo al inicio.                                       |
+
+
+| **Entrevista 3**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
+|------------------------------------------|----------------------------------------------------------------------------------------|
+| **Entrevistado**                         | Adrian Valera                                                                         |
+| **Edad**                                 | 17 años                                                                               |
+| **Distrito**                             | Olivos                                                                                |
+| **Inicio de entrevista**                 | 00:03                                                                             |
+| **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/file/d/15JrVdInb3l4Z1dWaigvleWp0SY7_qOpf/view?usp=drive_link)                               |
+| **Foto captura**                         | ![Captura](assets/img/chapter-V/Adrian.png)                                |
+| **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general. |
+| **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece pero que podria mejorar algunos aspectos. |
+| **Visualización del panel principal**    | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones.   |
+| **Sugerencias de mejora**                | Reforzar detalles visuales y agregar animaciones o confirmaciones al realizar acciones. |
+| **Nivel de confusión**                   | No experimentó confusión durante la navegación solo al inicio.                                       |
+
 ## Segmento Objetivo 2: Psicólogos enfocados en orientación vocacional**
 
 | **Entrevista 4**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |

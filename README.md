@@ -1945,6 +1945,8 @@ Durante este sprint, se consolidaron los siguientes aspectos técnicos:
 
 **Capturas del backend, bounded context: Vocational Test**
 
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-backend-evidence4.jpg">
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 En esta sección se incluye la relación de endpoints documentados con OpenAPI, desarrollados como parte del alcance del Sprint 3. Se resumen los logros alcanzados en relación con la implementación y documentación de los servicios REST del Backend.
@@ -1958,6 +1960,7 @@ Este backend está desarrollado siguiendo el patrón **Domain-Driven Design (DDD
 * **Authentication** – Registro de usuarios, inicio de sesión y autenticación mediante JWT.
 * **Sections** – Gestión de secciones de estudiantes.
 * **Admin** – Estadísticas del sistema, sesiones activas y feedback.
+* **Question** - Preguntas para los estudiantes.
 
 #### API
 
@@ -1976,30 +1979,39 @@ Todos los endpoints están organizados siguiendo la convención RESTful bajo la 
 
 #### Authentication Bounded Context
 
-| Tag            | HTTP Verbs | Endpoint           | Summary      | Description                                 | OperationId |
-| -------------- | ---------- | ------------------ | ------------ | ------------------------------------------- | ----------- |
-| Authentication | POST       | /api/Auth/register | User Sign-Up | Register a new user into the system         | SignUp      |
-| Authentication | POST       | /api/Auth/login    | User Sign-In | Authenticate a user and return access token | SignIn      |
-| Authentication | GET        | /api/Auth/me       | User Info    | Get user details based on access token      | Me          |
+| Tag            | HTTP Verbs | Endpoint           | Summary        | Description                                        | OperationId |
+| -------------- | ---------- | ------------------ | -------------- | -------------------------------------------------- | ----------- |
+| Authentication | POST       | /api/Auth/register | User Sign-Up   | Registra un nuevo usuario en el sistema           | SignUp      |
+| Authentication | POST       | /api/Auth/login    | User Sign-In   | Autentica al usuario y retorna un token de acceso | SignIn      |
+| Authentication | GET        | /api/Auth/me       | User Info      | Obtiene información del usuario mediante el token | Me          |
 
 #### Sections Bounded Context
 
-| Tag      | HTTP Verbs | Endpoint                          | Summary                    | Description                                        | OperationId    |
-| -------- | ---------- | --------------------------------- | -------------------------- | -------------------------------------------------- | -------------- |
-| Sections | GET        | /api/Sections                     | Get All Sections           | Retrieve all existing sections                     | GetSections    |
-| Sections | POST       | /api/Sections                     | Create Section             | Create a new section                               | CreateSection  |
-| Sections | GET        | /api/Sections/{id}                | Get Section by ID          | Retrieve a section by its unique ID                | GetSectionById |
-| Sections | PUT        | /api/Sections/{id}                | Update Section             | Update section data based on ID                    | UpdateSection  |
-| Sections | GET        | /api/Sections/student/{studentId} | Get Sections by Student ID | Retrieve sections assigned to a particular student | GetByStudentId |
+| Tag      | HTTP Verbs | Endpoint                          | Summary                    | Description                                                     | OperationId    |
+| -------- | ---------- | --------------------------------- | -------------------------- | --------------------------------------------------------------- | -------------- |
+| Sections | GET        | /api/Sections                     | Obtener secciones          | Recupera todas las secciones existentes                         | GetSections    |
+| Sections | POST       | /api/Sections                     | Crear sección              | Crea una nueva sección                                          | CreateSection  |
+| Sections | GET        | /api/Sections/{id}                | Obtener sección por ID     | Recupera una sección específica mediante su identificador       | GetSectionById |
+| Sections | PUT        | /api/Sections/{id}                | Actualizar sección         | Actualiza los datos de una sección específica                   | UpdateSection  |
+| Sections | GET        | /api/Sections/student/{studentId} | Secciones por estudiante   | Recupera todas las secciones asignadas a un estudiante por ID   | GetByStudentId |
 
 #### Admin Bounded Context
 
-| Tag   | HTTP Verbs | Endpoint               | Summary             | Description                          | OperationId  |
-| ----- | ---------- | ---------------------- | ------------------- | ------------------------------------ | ------------ |
-| Admin | GET        | /api/admin/stats/users | Get User Stats      | Retrieve statistical data of users   | GetUserStats |
-| Admin | GET        | /api/admin/sessions    | Get Active Sessions | Retrieve current active sessions     | GetSessions  |
-| Admin | GET        | /api/admin/feedback    | Get Feedback        | Retrieve feedback submitted by users | GetFeedback  |
+| Tag   | HTTP Verbs | Endpoint               | Summary               | Description                                           | OperationId  |
+| ----- | ---------- | ---------------------- | --------------------- | ----------------------------------------------------- | ------------ |
+| Admin | GET        | /api/admin/stats/users | Obtener estadísticas  | Recupera estadísticas de uso de los usuarios          | GetUserStats |
+| Admin | GET        | /api/admin/sessions    | Obtener sesiones      | Recupera sesiones activas actuales del sistema        | GetSessions  |
+| Admin | GET        | /api/admin/feedback    | Obtener feedback      | Recupera los comentarios enviados por los usuarios    | GetFeedback  |
 
+#### Question Bounded Context
+
+| Tag      | HTTP Verbs | Endpoint             | Summary               | Description                                                    | OperationId     |
+| -------- | ---------- | -------------------- | --------------------- | -------------------------------------------------------------- | ----------------|
+| Question | GET        | /api/Question        | Obtener preguntas     | Recupera todas las preguntas registradas                       | GetQuestions     |
+| Question | POST       | /api/Question        | Crear pregunta        | Crea una nueva pregunta en la base de datos                    | CreateQuestion   |
+| Question | GET        | /api/Question/{id}   | Obtener por ID        | Recupera una pregunta específica mediante su identificador     | GetQuestionById  |
+| Question | PUT        | /api/Question/{id}   | Actualizar pregunta   | Actualiza los datos de una pregunta mediante su ID             | UpdateQuestion   |
+| Question | DELETE     | /api/Question/{id}   | Eliminar pregunta     | Elimina una pregunta específica de la base de datos por su ID  | DeleteQuestion   |
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 Durante el Sprint 3, se logró desplegar exitosamente la API del backend del proyecto **Pathly** utilizando una instancia virtual alojada en **Google Cloud Platform**, permitiendo el acceso público a los endpoints implementados y documentados. Esto aseguró que las funcionalidades desarrolladas estuvieran disponibles para pruebas externas y validación del producto en un entorno de staging.
@@ -2047,8 +2059,6 @@ Cada integrante participó activamente en la implementación de su bounded conte
 <p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/sprint3-work3.png">
 
 <p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/sprint3-work4.png">
-
-
 
 ### 5.3.2. Registro de Entrevistas
 
@@ -2187,6 +2197,8 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 **TB1:** El proyecto "Pathly" reflejó un enfoque centrado en el usuario y orientado a abordar una necesidad social importante: la orientación vocacional de los estudiantes. Se consiguió estructurar una plataforma funcional y accesible mediante la aplicación de herramientas como User Stories, wireframes y una organización basada en funciones clave, priorizando en todo momento la experiencia del usuario. Las decisiones relacionadas con la navegación, la distribución de contenidos y la interacción visual fueron coherentes con el objetivo de facilitar el acceso a recursos de orientación académica y profesional. Además, la claridad en la definición de funciones y flujos de navegación favoreció la organización del equipo de trabajo, evidenciando un compromiso sólido con la misión educativa del proyecto y estableciendo una base sólida para su futura evolución y escalabilidad.
 
 **TP1:** Durante el Sprint 2 se logró implementar el frontend completo de la plataforma Pathly, aplicando arquitectura DDD y dividiendo el desarrollo en bounded contexts (auth, admin, psychologist, students). Se desarrollaron funcionalidades clave como el test vocacional, autenticación, panel del psicólogo, dashboard administrativo e internacionalización (i18n) en español e inglés.
+
+**TB2:** Durante este sprint 3 se consolidó la implementación del backend mediante la distribución de bounded contexts entre los integrantes, logrando documentar, validar y desplegar exitosamente los servicios en Google Cloud. Las funcionalidades se probaron manualmente desde Swagger y el frontend, y se comprobó la persistencia de datos. El trabajo colaborativo permitió alcanzar los objetivos planificados y sentar bases para futuros avances.
 
 El equipo trabajó de forma coordinada, distribuyendo tareas según módulos, aplicando buenas prácticas y validando cada componente mediante pruebas funcionales. Se consolidó así una base técnica sólida y escalable que permitirá continuar el desarrollo en próximos sprints con eficiencia y orden.
 

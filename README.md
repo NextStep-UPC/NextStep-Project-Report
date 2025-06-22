@@ -1848,51 +1848,365 @@ Durante el Sprint 2 del proyecto Pathly, el equipo trabajó de forma distribuida
 
 ### 5.2.3.2. Sprint Backlog 3
 
+Durante el Sprint 3 se consolidaron las funcionalidades fundamentales de la plataforma, con un enfoque centrado en la implementación de los módulos backend correspondientes a los distintos Bounded Contexts definidos según los requerimientos del dominio: IAM, Section, Vocational Test y Admin.
+
+Todo el desarrollo se realizó utilizando Visual Studio 2022 como entorno principal de trabajo, junto con MySQL como sistema de gestión de base de datos relacional. La estructura modular del backend se diseñó bajo principios de Domain-Driven Design (DDD), permitiendo así una separación lógica y escalable entre las funcionalidades orientadas al negocio.
+
+| sprint # | Sprint 3 | | | | | |
+|----------|----------|---|---|-------------|--------------------|------------------|
+| **User Story** | | **Work-Item / Task** | | | | |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / To-Review / Done) |
+| US01 | Registro de cuenta | TA001 | Implementar Registro de Usuario | Crear endpoint POST para registrar usuarios en el sistema IAM (login/register), asegurando validación y persistencia. | 5 horas | Pedro Lecca | Done |
+| US02 | Inicio de sesión | TA002 | Implementar Inicio de Sesión | Desarrollar endpoint POST para autenticación de usuarios con JWT. | 4 horas | Pedro Lecca | Done |
+| US03 | Gestión de secciones | TA003 | CRUD de Psicólogos | Implementar endpoints para registrar, editar, listar y eliminar información de psicólogos. | 6 horas | Pablo Gerónimo | Done |
+| US04 | Gestión de tests | TA004 | Implementar lógica de test vocacional | Crear lógica para test vocacional, cálculo de resultados y recomendaciones asociadas. | 7 horas | Vicente Quijandría | Done |
+| US05 | Administración general | TA005 | Panel de administración | Desarrollar funcionalidades para listar usuarios, secciones y métricas en el dashboard de administrador. | 6 horas | Moisés Espinoza | Done |
+
+### 5.2.3.3. Development Evidence for Sprint Review
+
+Durante el tercer sprint, se trabajó en la implementación de los principales *Bounded Contexts* del backend (`IAM`, `Section`, `Vocational Test`, `Admin`), desarrollando endpoints, servicios, controladores y entidades bajo el patrón DDD. Se utilizó Visual Studio con .NET y MySQL, siguiendo principios de modularidad y organización de capas. A continuación, se presenta la evidencia de desarrollo mediante los commits más relevantes realizados por el equipo:
+
+| Repository      | Branch       | Commit Id | Author             | Type     | Commit Message                                                                 | Committed on (Date) |
+|-----------------|--------------|-----------|--------------------|----------|--------------------------------------------------------------------------------|----------------------|
+| pathly-backend  | test         | `bde1344` | Vicente Quijandría | authored | `feat(Program): added CareerTest DbContext`                                    | 2025-06-21           |
+| pathly-backend  | test         | `34a6a73` | Vicente Quijandría | authored | `feat(QuestionController): implemented the Question Controller`                | 2025-06-21           |
+| pathly-backend  | test         | `a2a8d59` | Vicente Quijandría | authored | `feat(QuestionService): coded the QuestionService in Domain layer`             | 2025-06-21           |
+| pathly-backend  | psychologist | `ac35eea` | Pablo Gerónimo     | authored | `feat(section): add create section feature`                                    | 2025-06-21           |
+| pathly-backend  | main         | `f6aee9b` | Pedro Lecca        | authored | `refactor(IAM): reworked the entire backend structure for better organization` | 2025-06-20           |
+| pathly-backend  | admin        | `897ba6d` | Moises Espinoza    | authored | `feat(admin): admin-bounded-context done`                                      |
+
+### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+Durante el Sprint 3 se llevaron a cabo principalmente pruebas manuales para validar el correcto funcionamiento de los módulos desarrollados. Aunque no se implementaron archivos `.feature` para pruebas automatizadas con enfoque BDD (Desarrollo Dirigido por el Comportamiento), se tiene previsto incluirlos en próximos sprints mediante herramientas como Cucumber o SpecFlow, además de aplicar Unitframework.
+
+Las validaciones se realizaron a través de Swagger UI, probando directamente los endpoints REST de los *bounded contexts* ya conectados al frontend. Asimismo, se emplearon herramientas como **MySQL Workbench** para verificar la persistencia de datos en la base de datos y **Google Cloud Platform (GCP)** para validar la infraestructura en entorno real.
+
+Estas pruebas permitieron comprobar la integración entre el backend y frontend para los módulos IAM, sección de psicólogos, test vocacional y parte administrativa. Las respuestas obtenidas en cada endpoint, así como los flujos esperados de autenticación, registro, envío de respuestas y gestión de usuarios fueron validados manualmente por el equipo.
+
+A continuación, se resume el estado del testing al cierre del Sprint 3:
+
+| **Aspecto Evaluado**        | **Resultado**                                                              |
+|-----------------------------|----------------------------------------------------------------------------|
+| Pruebas BDD automatizadas   | En planificación. No se completaron archivos `.feature` aún.               |
+| Pruebas manuales            | Realizadas mediante Swagger UI y validaciones en el frontend.              |
+| Herramientas utilizadas     | Visual Studio 2022, Swagger, MySQL Workbench, Google Cloud Platform (GCP). |
+| Estado general del testing  | Funcionalidad básica validada manualmente de forma satisfactoria.          |
+
+### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 3, se logró un avance significativo en la implementación del backend del sistema, destacando la creación de múltiples endpoints RESTful correspondientes a los *bounded contexts* de IAM, psicólogos, test vocacional y panel administrativo. Estas funcionalidades fueron desarrolladas bajo principios de arquitectura limpia, asegurando una correcta separación de capas y persistencia de datos.
+
+El despliegue del sistema se realizó con éxito en **Google Cloud Platform (GCP)**, donde se hostea actualmente tanto la API como la base de datos MySQL. Para la validación de persistencia y funcionamiento, se utilizó **MySQL Workbench**, permitiendo verificar en tiempo real la creación, edición y eliminación de datos generados desde el frontend conectado.
+
+A continuación, se presentan detalles técnicos y evidencia del backend desplegado y verificado durante este sprint:
+
+---
+
+#### Backend
+
+Durante este sprint, se consolidaron los siguientes aspectos técnicos:
+
+- Creación de endpoints RESTful por cada *bounded context* definido: IAM, Section, Vocational Test y Admin.
+- Implementación de controladores, servicios y lógica de negocio en cada capa del backend.
+- Despliegue del backend en un entorno cloud mediante Google Cloud Platform.
+- Verificación de conexión exitosa con la base de datos MySQL utilizando MySQL Workbench, desde donde se inspeccionaron las tablas generadas, los datos insertados y las relaciones establecidas.
+
+---
+
+**MySQL Workbench conectado a la base de datos de Google Cloud**
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-mysql-evidence1.png">
+
+---
+
+**MySQL Workbench mostrando los datos del bounded context: IAM**
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-mysql-evidence2.png">
+
+**MySQL Workbench mostrando los datos del bounded context: Vocational Test**
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-mysql-evidence3.png">
+
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-mysql-evidence4.png">
+
+**MySQL Workbench mostrando los datos del bounded context: Sections**
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-mysql-evidence5.png">
+
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-mysql-evidence6.png">
+
+
+
+**Capturas del backend, bounded context: IAM**
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-backend-evidence1.png">
+
+**Capturas del backend, bounded context: Sections**
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-backend-evidence2.png">
+
+**Capturas del backend, bounded context: Admin**
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-backend-evidence3.jpg">
+
+**Capturas del backend, bounded context: Vocational Test**
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+En esta sección se incluye la relación de endpoints documentados con OpenAPI, desarrollados como parte del alcance del Sprint 3. Se resumen los logros alcanzados en relación con la implementación y documentación de los servicios REST del Backend.
+
+#### Backend en Visual Studio
+
+Este backend está desarrollado siguiendo el patrón **Domain-Driven Design (DDD)**, estructurando la lógica en **Bounded Contexts** claramente definidos y separados. Cada contexto encapsula su propio modelo de dominio, comportamientos y reglas de negocio, lo que permite una arquitectura modular, mantenible y alineada con el dominio de la aplicación.
+
+#### Bounded Contexts
+
+* **Authentication** – Registro de usuarios, inicio de sesión y autenticación mediante JWT.
+* **Sections** – Gestión de secciones de estudiantes.
+* **Admin** – Estadísticas del sistema, sesiones activas y feedback.
+
+#### API
+
+Todos los endpoints están organizados siguiendo la convención RESTful bajo la ruta base `/api/` y están documentados por contexto.
+
+**Buenas Prácticas Aplicadas**
+
+* Uso de **Enums tipados** para valores restringidos.
+* **Colecciones embebidas** en modelos.
+* Separación entre **entidades de dominio** y **DTOs**.
+* Control de errores centralizado.
+* Uso de **Mappers** para conversión entre entidades y recursos.
+* Arquitectura preparada para pruebas, integración y escalabilidad.
+
+---
+
+#### Authentication Bounded Context
+
+| Tag            | HTTP Verbs | Endpoint           | Summary      | Description                                 | OperationId |
+| -------------- | ---------- | ------------------ | ------------ | ------------------------------------------- | ----------- |
+| Authentication | POST       | /api/Auth/register | User Sign-Up | Register a new user into the system         | SignUp      |
+| Authentication | POST       | /api/Auth/login    | User Sign-In | Authenticate a user and return access token | SignIn      |
+| Authentication | GET        | /api/Auth/me       | User Info    | Get user details based on access token      | Me          |
+
+#### Sections Bounded Context
+
+| Tag      | HTTP Verbs | Endpoint                          | Summary                    | Description                                        | OperationId    |
+| -------- | ---------- | --------------------------------- | -------------------------- | -------------------------------------------------- | -------------- |
+| Sections | GET        | /api/Sections                     | Get All Sections           | Retrieve all existing sections                     | GetSections    |
+| Sections | POST       | /api/Sections                     | Create Section             | Create a new section                               | CreateSection  |
+| Sections | GET        | /api/Sections/{id}                | Get Section by ID          | Retrieve a section by its unique ID                | GetSectionById |
+| Sections | PUT        | /api/Sections/{id}                | Update Section             | Update section data based on ID                    | UpdateSection  |
+| Sections | GET        | /api/Sections/student/{studentId} | Get Sections by Student ID | Retrieve sections assigned to a particular student | GetByStudentId |
+
+#### Admin Bounded Context
+
+| Tag   | HTTP Verbs | Endpoint               | Summary             | Description                          | OperationId  |
+| ----- | ---------- | ---------------------- | ------------------- | ------------------------------------ | ------------ |
+| Admin | GET        | /api/admin/stats/users | Get User Stats      | Retrieve statistical data of users   | GetUserStats |
+| Admin | GET        | /api/admin/sessions    | Get Active Sessions | Retrieve current active sessions     | GetSessions  |
+| Admin | GET        | /api/admin/feedback    | Get Feedback        | Retrieve feedback submitted by users | GetFeedback  |
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 3, se logró desplegar exitosamente la API del backend del proyecto **Pathly** utilizando una instancia virtual alojada en **Google Cloud Platform**, permitiendo el acceso público a los endpoints implementados y documentados. Esto aseguró que las funcionalidades desarrolladas estuvieran disponibles para pruebas externas y validación del producto en un entorno de staging.
+
+El despliegue incluyó una instancia de backend desarrollada con .NET y C#, y una base de datos MySQL gestionada en Google Cloud. Para la validación de la persistencia y consultas, se utilizó **MySQL Workbench** como gestor de base de datos.
+
+#### Entorno de Despliegue
+
+- **Plataforma**: Google Cloud Platform
+- **Base de datos**: MySQL (Google Cloud SQL)
+- **Gestor de Base de Datos**: MySQL Workbench
+- **Tipo de despliegue**: Backend como servicio (BaaS), desplegado manualmente
+
+#### Archivos de configuración clave
+
+- `appsettings.json`: Define la configuración del servicio, cadenas de conexión y parámetros de entorno.
+- `Dockerfile`: Contenedor opcional para futuras fases del proyecto (aún no implementado en este sprint).
+
+#### Verificación de Despliegue
+
+Se realizaron pruebas manuales en Swagger UI y a través del frontend conectado. Estas pruebas confirmaron:
+
+- El correcto funcionamiento de los endpoints REST (como `/api/Auth/login`, `/api/Sections`, `/api/admin/stats/users`, entre otros).
+- La persistencia de datos en la base de datos MySQL remota.
+- La conexión exitosa entre frontend y backend desplegado.
+- Autenticación y registro funcionales mediante JWT.
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+
+| Integrante           | Acciones realizadas durante el sprint                                                                 |
+|----------------------|--------------------------------------------------------------------------------------------------------|
+| Pedro Lecca          | Desarrollo del bounded context de **IAM** (registro, login y autenticación de usuarios).              |
+| Pablo Gerónimo       | Desarrollo del bounded context de **Psychologists** (gestión de datos de psicólogos).                 |
+| Vicente Quijandría   | Desarrollo del bounded context de **Vocational Test** (encuestas para evaluación vocacional).         |
+| Moisés Espinoza      | Desarrollo del bounded context de **Admin** (panel administrativo y métricas generales del sistema).  |
+
+#### Contribución en el repositorio del Backend
+
+Cada integrante participó activamente en la implementación de su bounded context, asegurando la correcta conexión con la base de datos, estructuración bajo el enfoque DDD, pruebas manuales con Swagger y verificación desde el frontend.
+
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/sprint3-work1.png">
+
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/sprint3-work2.png">
+
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/sprint3-work3.png">
+
+<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/sprint3-work4.png">
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
-#### Preguntas para segmento 1:
+#### Preguntas para segmento 1
 
--¿Te pareció fácil de usar la página desde el primer momento?
-
--¿Pudiste encontrar rápido lo que necesitabas (ver tu sesión, escribir al psicólogo, etc.)?
-
--¿Los íconos y botones te parecieron claros o hubo alguno que no entendiste?
-
--¿Te sentiste cómodo/a navegando por la página o algo te confundió?
-
--¿Qué te gustó más del diseño o apariencia de la página?
-
--¿Hubo algo que te pareció feo, incómodo o innecesario?
-
--¿Te gustaría que la página tenga más colores, animaciones o efectos cuando haces clic?
-
--¿Qué mejorarías para que usar la página sea más divertido o sencillo?
-
--¿Te parece que esta página está hecha pensando en personas jóvenes como tú?
-
--¿Cambiarías algo para que se sienta más como una app que te gusta usar?
+- ¿Te pareció fácil de usar la página desde el primer momento?
+- ¿Pudiste encontrar rápido lo que necesitabas (ver tu sesión, escribir al psicólogo, etc.)?
+- ¿Los íconos y botones te parecieron claros o hubo alguno que no entendiste?
+- ¿Te sentiste cómodo/a navegando por la página o algo te confundió?
+- ¿Qué te gustó más del diseño o apariencia de la página?
+- ¿Hubo algo que te pareció feo, incómodo o innecesario?
+- ¿Te gustaría que la página tenga más colores, animaciones o efectos cuando haces clic?
+- ¿Qué mejorarías para que usar la página sea más divertido o sencillo?
+- ¿Te parece que esta página está hecha pensando en personas jóvenes como tú?
+- ¿Cambiarías algo para que se sienta más como una app que te gusta usar?
 
 #### Preguntas para segmento 2:
 
--¿Consideras que el diseño general de la plataforma transmite profesionalismo y confianza?
+- ¿Consideras que el diseño general de la plataforma transmite profesionalismo y confianza?
+- ¿Pudiste encontrar fácilmente la información que buscabas (estudiantes, sesiones, agenda, etc.)?
+- ¿Los botones y opciones de navegación están claramente etiquetados y son fáciles de identificar?
+- ¿La experiencia de uso fue fluida o hubo momentos de confusión?
+- ¿Qué funcionalidades o herramientas te parecen más útiles como profesional?
+- ¿Notas algún elemento que esté de más o que pueda distraer de tu trabajo?
+- ¿Qué mejorarías en términos de diseño visual (colores, tipografía, disposición de los elementos)?
+- ¿Te gustaría ver más funcionalidades interactivas como confirmaciones visuales, recordatorios o notificaciones?
+- ¿La plataforma te parece intuitiva desde el punto de vista de un profesional de la salud?
+- ¿Hay algo que te gustaría ver implementado para facilitar tu labor como psicólogo/a?
 
--¿Pudiste encontrar fácilmente la información que buscabas (estudiantes, sesiones, agenda, etc.)?
+### 5.3.2. Registro de Entrevistas
 
--¿Los botones y opciones de navegación están claramente etiquetados y son fáciles de identificar?
+## Segmento Objetivo 1: Jóvenes estudiantes de 15 - 19 años**
 
--¿La experiencia de uso fue fluida o hubo momentos de confusión?
+| **Entrevista 1**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
+|------------------------------------------|----------------------------------------------------------------------------------------|
+| **Entrevistado**                         | Adrian Valera                                                                         |
+| **Edad**                                 | 17 años                                                                               |
+| **Distrito**                             | Olivos                                                                                |
+| **Inicio de entrevista**                 | 00:03                                                                             |
+| **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/file/d/15JrVdInb3l4Z1dWaigvleWp0SY7_qOpf/view?usp=drive_link)                               |
+| **Foto captura**                         | ![Captura](assets/img/chapter-V/Adrian.png)                                |
+| **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general. |
+| **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece pero que podria mejorar algunos aspectos. |
+| **Visualización del panel principal**    | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones.   |
+| **Sugerencias de mejora**                | Reforzar detalles visuales y agregar animaciones o confirmaciones al realizar acciones. |
+| **Nivel de confusión**                   | No experimentó confusión durante la navegación solo al inicio.                                       |
 
--¿Qué funcionalidades o herramientas te parecen más útiles como profesional?
+| **Entrevista 2**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
+|------------------------------------------|----------------------------------------------------------------------------------------|
+| **Entrevistado**                         | Adrian Valera                                                                         |
+| **Edad**                                 | 17 años                                                                               |
+| **Distrito**                             | Olivos                                                                                |
+| **Inicio de entrevista**                 | 00:03                                                                             |
+| **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/file/d/15JrVdInb3l4Z1dWaigvleWp0SY7_qOpf/view?usp=drive_link)                               |
+| **Foto captura**                         | ![Captura](assets/img/chapter-V/Adrian.png)                                |
+| **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general. |
+| **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece pero que podria mejorar algunos aspectos. |
+| **Visualización del panel principal**    | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones.   |
+| **Sugerencias de mejora**                | Reforzar detalles visuales y agregar animaciones o confirmaciones al realizar acciones. |
+| **Nivel de confusión**                   | No experimentó confusión durante la navegación solo al inicio.                                       |
 
--¿Notas algún elemento que esté de más o que pueda distraer de tu trabajo?
 
--¿Qué mejorarías en términos de diseño visual (colores, tipografía, disposición de los elementos)?
+| **Entrevista 3**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
+|------------------------------------------|----------------------------------------------------------------------------------------|
+| **Entrevistado**                         | Adrian Valera                                                                         |
+| **Edad**                                 | 17 años                                                                               |
+| **Distrito**                             | Olivos                                                                                |
+| **Inicio de entrevista**                 | 00:03                                                                             |
+| **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/file/d/15JrVdInb3l4Z1dWaigvleWp0SY7_qOpf/view?usp=drive_link)                               |
+| **Foto captura**                         | ![Captura](assets/img/chapter-V/Adrian.png)                                |
+| **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general. |
+| **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece pero que podria mejorar algunos aspectos. |
+| **Visualización del panel principal**    | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones.   |
+| **Sugerencias de mejora**                | Reforzar detalles visuales y agregar animaciones o confirmaciones al realizar acciones. |
+| **Nivel de confusión**                   | No experimentó confusión durante la navegación solo al inicio.                                       |
 
--¿Te gustaría ver más funcionalidades interactivas como confirmaciones visuales, recordatorios o notificaciones?
 
--¿La plataforma te parece intuitiva desde el punto de vista de un profesional de la salud?
+## Segmento Objetivo 2: Psicólogos enfocados en orientación vocacional**
 
--¿Hay algo que te gustaría ver implementado para facilitar tu labor como psicólogo/a?
+| **Entrevista 4**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
+|------------------------------------------|----------------------------------------------------------------------------------------|
+| **Entrevistado**                         | Marcos Contreras                                                                        |
+| **Edad**                                 | 24 años                                                                               |
+| **Distrito**                             |San miguel                                                                          |
+| **Inicio de entrevista**                 | 00:10                                                                             |
+| **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/file/d/1PEMKDA9LZ-0WNp_YF4aYjczwqlGaMBWO/view?usp=drive_link)                               |
+| **Foto captura**                         | ![Captura](assets/img/chapter-V/marquitos.png)                                |
+| **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general pero hubo detalles que no le agrararon. |
+| **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece pero que podria mejorar algunos aspectos. |
+| **Visualización del panel principal**    | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones pero le gustaria mas imagenes.   |
+| **Sugerencias de mejora**                | Reforzar detalles visuales y agregar animaciones o confirmaciones al realizar acciones y agregar un historial clinico. |
+| **Nivel de confusión**                   | No experimentó confusión durante la navegación solo al inicio.                                     |
+
+
+| **Entrevista 5**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
+|------------------------------------------|----------------------------------------------------------------------------------------|
+| **Entrevistado**                         | Maricielo  Rugel                                                                     |
+| **Edad**                                 | 22 años                                                                               |
+| **Distrito**                             | Olivos                                                                                |
+| **Inicio de entrevista**                 | 00:04                                                                            |
+| **Enlace de entrevista**                 |[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/ESDuLCEOKI9BoSS8sI_f2SoBAWMi_ommI4r-gnF_ks-1MQ?e=jsdUSV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                               |
+| **Foto captura**                         | ![Captura](assets/img/chapter-V/maricielo2.png)                                |
+| **Diseño de presentación del producto**  |Le parecio bastante bueno pero debio mejorar en algunos aspectos. |
+| **Información del producto**            |Le gusto bastante el inicio y observo algunas falacias con la pagina web. |
+| **Visualización del panel principal**    | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones añadio que podria ver un historial clinico.   |
+| **Sugerencias de mejora**                | Agregar mas opciones para que sea lo mas rapido posible y notificaciones. |
+| **Nivel de confusión**                   | No experimentó confusión durante la navegación .                                       |
+
+
+| **Entrevista 6**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
+|------------------------------------------|----------------------------------------------------------------------------------------|
+| **Entrevistado**                         | Adrian Valera                                                                         |
+| **Edad**                                 | 17 años                                                                               |
+| **Distrito**                             | Olivos                                                                                |
+| **Inicio de entrevista**                 | 00:03                                                                             |
+| **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/file/d/15JrVdInb3l4Z1dWaigvleWp0SY7_qOpf/view?usp=drive_link)                               |
+| **Foto captura**                         | ![Captura](assets/img/chapter-V/Adrian.png)                                |
+| **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general. |
+| **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece pero que podria mejorar algunos aspectos. |
+| **Visualización del panel principal**    | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones.   |
+| **Sugerencias de mejora**                | Reforzar detalles visuales y agregar animaciones o confirmaciones al realizar acciones. |
+| **Nivel de confusión**                   | No experimentó confusión durante la navegación solo al inicio.                                       |
+
+
+
+### 5.3.1. Evaluaciones según heurísticas
+#### UX Heuristics & Principles Evaluation
+
+**Carrera:** Ingeniería de Software  
+**Curso:** Aplicaciones Web  
+**NRC:** 4424  
+**Profesores:** Oscar Ivan Villafuerte
+**Auditor:** Nesxtep
+**Clientes:** Todos  
+*SITE o APP A EVALUAR* Pathly
+## TAREAS A EVALUAR
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+- Visualizar la propuesta de valor al llegar a la página (Desktop Frontend )
+- Localizar el formulario de contacto o registro
+- Navegar por la información de psicologos/secciones
+- Ver la información de las seccciones
+- Utilizar los datos de estudiantes para crear una nueva seccion
+- Comprender el propósito del sitio en los primeros segundos de navegación
+
+### ❌ Tareas no incluidas en esta versión de la evaluación:
+
+- Revisión de compatibilidad con dispositivos móviles
+- Validación de enlaces externos o redes sociales
+- Interacción completa con los psicologos por medios de enalces.
+- Evaluación del contenido legal (política de privacidad, términos y condiciones)
+- Revisión de comportamiento en diferentes navegadores (cross-browser testing)
+## ESCALA DE SEVERIDAD
+
+| **Nivel** | **Descripción**                                                                 |
+|-----------|----------------------------------------------------------------------------------|
+| **1**     | Problema superficial: no interfiere gravemente con la experiencia.              |
+| **2**     | Problema menor: ocurre ocasionalmente, conviene resolverlo.                     |
+| **3**     | Problema mayor: afecta la interacción frecuente. Alta prioridad.                |
+| **4**     | Problema muy grave: impide continuar. Debe corregirse antes del lanzamiento.    |
 
 # Conclusiones
 **TB1:** El proyecto "Pathly" reflejó un enfoque centrado en el usuario y orientado a abordar una necesidad social importante: la orientación vocacional de los estudiantes. Se consiguió estructurar una plataforma funcional y accesible mediante la aplicación de herramientas como User Stories, wireframes y una organización basada en funciones clave, priorizando en todo momento la experiencia del usuario. Las decisiones relacionadas con la navegación, la distribución de contenidos y la interacción visual fueron coherentes con el objetivo de facilitar el acceso a recursos de orientación académica y profesional. Además, la claridad en la definición de funciones y flujos de navegación favoreció la organización del equipo de trabajo, evidenciando un compromiso sólido con la misión educativa del proyecto y estableciendo una base sólida para su futura evolución y escalabilidad.

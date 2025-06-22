@@ -2012,6 +2012,7 @@ Todos los endpoints están organizados siguiendo la convención RESTful bajo la 
 | Question | GET        | /api/Question/{id}   | Obtener por ID        | Recupera una pregunta específica mediante su identificador     | GetQuestionById  |
 | Question | PUT        | /api/Question/{id}   | Actualizar pregunta   | Actualiza los datos de una pregunta mediante su ID             | UpdateQuestion   |
 | Question | DELETE     | /api/Question/{id}   | Eliminar pregunta     | Elimina una pregunta específica de la base de datos por su ID  | DeleteQuestion   |
+
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 Durante el Sprint 3, se logró desplegar exitosamente la API del backend del proyecto **Pathly** utilizando una instancia virtual alojada en **Google Cloud Platform**, permitiendo el acceso público a los endpoints implementados y documentados. Esto aseguró que las funcionalidades desarrolladas estuvieran disponibles para pruebas externas y validación del producto en un entorno de staging.
@@ -2059,6 +2060,36 @@ Cada integrante participó activamente en la implementación de su bounded conte
 <p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/sprint3-work3.png">
 
 <p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/sprint3-work4.png">
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+#### Preguntas para segmento 1
+
+- ¿Te pareció fácil de usar la página desde el primer momento?Add commentMore actions
+- ¿Pudiste encontrar rápido lo que necesitabas (ver tu sesión, escribir al psicólogo, etc.)?
+- ¿Los íconos y botones te parecieron claros o hubo alguno que no entendiste?
+- ¿Te sentiste cómodo/a navegando por la página o algo te confundió?
+- ¿Qué te gustó más del diseño o apariencia de la página?
+- ¿Hubo algo que te pareció feo, incómodo o innecesario?
+- ¿Te gustaría que la página tenga más colores, animaciones o efectos cuando haces clic?
+- ¿Qué mejorarías para que usar la página sea más divertido o sencillo?
+- ¿Te parece que esta página está hecha pensando en personas jóvenes como tú?
+- ¿Cambiarías algo para que se sienta más como una app que te gusta usar?
+
+#### Preguntas para segmento 2:
+
+- ¿Consideras que el diseño general de la plataforma transmite profesionalismo y confianza?
+- ¿Pudiste encontrar fácilmente la información que buscabas (estudiantes, sesiones, agenda, etc.)?
+- ¿Los botones y opciones de navegación están claramente etiquetados y son fáciles de identificar?
+- ¿La experiencia de uso fue fluida o hubo momentos de confusión?
+- ¿Qué funcionalidades o herramientas te parecen más útiles como profesional?
+- ¿Notas algún elemento que esté de más o que pueda distraer de tu trabajo?
+- ¿Qué mejorarías en términos de diseño visual (colores, tipografía, disposición de los elementos)?
+- ¿Te gustaría ver más funcionalidades interactivas como confirmaciones visuales, recordatorios o notificaciones?
+- ¿La plataforma te parece intuitiva desde el punto de vista de un profesional de la salud?
+- ¿Hay algo que te gustaría ver implementado para facilitar tu labor como psicólogo/a?
 
 ### 5.3.2. Registro de Entrevistas
 

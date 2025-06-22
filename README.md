@@ -1865,6 +1865,139 @@ Durante el Sprint 2 del proyecto Pathly, el equipo trabajó de forma distribuida
 
 -¿Hay algo que te gustaría ver implementado para facilitar tu labor como psicólogo/a?
 
+### 5.3.2. Registro de Entrevistas
+
+## Segmento Objetivo 1: Jóvenes estudiantes de 15 - 19 años**
+
+| **Entrevista 1**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
+|------------------------------------------|----------------------------------------------------------------------------------------|
+| **Entrevistado**                         | Adrian Valera                                                                         |
+| **Edad**                                 | 17 años                                                                               |
+| **Distrito**                             | Olivos                                                                                |
+| **Inicio de entrevista**                 | 00:03                                                                             |
+| **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/file/d/15JrVdInb3l4Z1dWaigvleWp0SY7_qOpf/view?usp=drive_link)                               |
+| **Foto captura**                         | ![Captura](assets/img/chapter-V/Adrian.png)                                |
+| **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general. |
+| **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece pero que podria mejorar algunos aspectos. |
+| **Visualización del panel principal**    | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones.   |
+| **Sugerencias de mejora**                | Reforzar detalles visuales y agregar animaciones o confirmaciones al realizar acciones. |
+| **Nivel de confusión**                   | No experimentó confusión durante la navegación solo al inicio.                                       |
+
+| **Entrevista 2**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
+|------------------------------------------|----------------------------------------------------------------------------------------|
+| **Entrevistado**                         | Adrian Valera                                                                         |
+| **Edad**                                 | 17 años                                                                               |
+| **Distrito**                             | Olivos                                                                                |
+| **Inicio de entrevista**                 | 00:03                                                                             |
+| **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/file/d/15JrVdInb3l4Z1dWaigvleWp0SY7_qOpf/view?usp=drive_link)                               |
+| **Foto captura**                         | ![Captura](assets/img/chapter-V/Adrian.png)                                |
+| **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general. |
+| **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece pero que podria mejorar algunos aspectos. |
+| **Visualización del panel principal**    | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones.   |
+| **Sugerencias de mejora**                | Reforzar detalles visuales y agregar animaciones o confirmaciones al realizar acciones. |
+| **Nivel de confusión**                   | No experimentó confusión durante la navegación solo al inicio.                                       |
+
+
+| **Entrevista 3**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
+|------------------------------------------|----------------------------------------------------------------------------------------|
+| **Entrevistado**                         | Adrian Valera                                                                         |
+| **Edad**                                 | 17 años                                                                               |
+| **Distrito**                             | Olivos                                                                                |
+| **Inicio de entrevista**                 | 00:03                                                                             |
+| **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/file/d/15JrVdInb3l4Z1dWaigvleWp0SY7_qOpf/view?usp=drive_link)                               |
+| **Foto captura**                         | ![Captura](assets/img/chapter-V/Adrian.png)                                |
+| **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general. |
+| **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece pero que podria mejorar algunos aspectos. |
+| **Visualización del panel principal**    | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones.   |
+| **Sugerencias de mejora**                | Reforzar detalles visuales y agregar animaciones o confirmaciones al realizar acciones. |
+| **Nivel de confusión**                   | No experimentó confusión durante la navegación solo al inicio.                                       |
+
+
+## Segmento Objetivo 2: Psicólogos enfocados en orientación vocacional**
+
+| **Entrevista 4**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
+|------------------------------------------|----------------------------------------------------------------------------------------|
+| **Entrevistado**                         | Marcos Contreras                                                                        |
+| **Edad**                                 | 24 años                                                                               |
+| **Distrito**                             |San miguel                                                                          |
+| **Inicio de entrevista**                 | 00:10                                                                             |
+| **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/file/d/1PEMKDA9LZ-0WNp_YF4aYjczwqlGaMBWO/view?usp=drive_link)                               |
+| **Foto captura**                         | ![Captura](assets/img/chapter-V/marquitos.png)                                |
+| **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general pero hubo detalles que no le agrararon. |
+| **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece pero que podria mejorar algunos aspectos. |
+| **Visualización del panel principal**    | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones pero le gustaria mas imagenes.   |
+| **Sugerencias de mejora**                | Reforzar detalles visuales y agregar animaciones o confirmaciones al realizar acciones y agregar un historial clinico. |
+| **Nivel de confusión**                   | No experimentó confusión durante la navegación solo al inicio.                                     |
+
+
+| **Entrevista 5**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
+|------------------------------------------|----------------------------------------------------------------------------------------|
+| **Entrevistado**                         | Maricielo  Rugel                                                                     |
+| **Edad**                                 | 22 años                                                                               |
+| **Distrito**                             | Olivos                                                                                |
+| **Inicio de entrevista**                 | 00:04                                                                            |
+| **Enlace de entrevista**                 |[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/ESDuLCEOKI9BoSS8sI_f2SoBAWMi_ommI4r-gnF_ks-1MQ?e=jsdUSV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                               |
+| **Foto captura**                         | ![Captura](assets/img/chapter-V/maricielo2.png)                                |
+| **Diseño de presentación del producto**  |Le parecio bastante bueno pero debio mejorar en algunos aspectos. |
+| **Información del producto**            |Le gusto bastante el inicio y observo algunas falacias con la pagina web. |
+| **Visualización del panel principal**    | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones añadio que podria ver un historial clinico.   |
+| **Sugerencias de mejora**                | Agregar mas opciones para que sea lo mas rapido posible y notificaciones. |
+| **Nivel de confusión**                   | No experimentó confusión durante la navegación .                                       |
+
+
+| **Entrevista 6**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
+|------------------------------------------|----------------------------------------------------------------------------------------|
+| **Entrevistado**                         | Adrian Valera                                                                         |
+| **Edad**                                 | 17 años                                                                               |
+| **Distrito**                             | Olivos                                                                                |
+| **Inicio de entrevista**                 | 00:03                                                                             |
+| **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/file/d/15JrVdInb3l4Z1dWaigvleWp0SY7_qOpf/view?usp=drive_link)                               |
+| **Foto captura**                         | ![Captura](assets/img/chapter-V/Adrian.png)                                |
+| **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general. |
+| **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece pero que podria mejorar algunos aspectos. |
+| **Visualización del panel principal**    | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones.   |
+| **Sugerencias de mejora**                | Reforzar detalles visuales y agregar animaciones o confirmaciones al realizar acciones. |
+| **Nivel de confusión**                   | No experimentó confusión durante la navegación solo al inicio.                                       |
+
+
+
+### 5.3.1. Evaluaciones según heurísticas
+#### UX Heuristics & Principles Evaluation
+
+**Carrera:** Ingeniería de Software  
+**Curso:** Aplicaciones Web  
+**NRC:** 4424  
+**Profesores:** Oscar Ivan Villafuerte
+**Auditor:** Nesxtep
+**Clientes:** Todos  
+*SITE o APP A EVALUAR* Pathly
+## TAREAS A EVALUAR
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+- Visualizar la propuesta de valor al llegar a la página (Desktop Frontend )
+- Localizar el formulario de contacto o registro
+- Navegar por la información de psicologos/secciones
+- Ver la información de las seccciones
+- Utilizar los datos de estudiantes para crear una nueva seccion
+- Comprender el propósito del sitio en los primeros segundos de navegación
+
+### ❌ Tareas no incluidas en esta versión de la evaluación:
+
+- Revisión de compatibilidad con dispositivos móviles
+- Validación de enlaces externos o redes sociales
+- Interacción completa con los psicologos por medios de enalces.
+- Evaluación del contenido legal (política de privacidad, términos y condiciones)
+- Revisión de comportamiento en diferentes navegadores (cross-browser testing)
+## ESCALA DE SEVERIDAD
+
+| **Nivel** | **Descripción**                                                                 |
+|-----------|----------------------------------------------------------------------------------|
+| **1**     | Problema superficial: no interfiere gravemente con la experiencia.              |
+| **2**     | Problema menor: ocurre ocasionalmente, conviene resolverlo.                     |
+| **3**     | Problema mayor: afecta la interacción frecuente. Alta prioridad.                |
+| **4**     | Problema muy grave: impide continuar. Debe corregirse antes del lanzamiento.    |
+
 # Conclusiones
 **TB1:** El proyecto "Pathly" reflejó un enfoque centrado en el usuario y orientado a abordar una necesidad social importante: la orientación vocacional de los estudiantes. Se consiguió estructurar una plataforma funcional y accesible mediante la aplicación de herramientas como User Stories, wireframes y una organización basada en funciones clave, priorizando en todo momento la experiencia del usuario. Las decisiones relacionadas con la navegación, la distribución de contenidos y la interacción visual fueron coherentes con el objetivo de facilitar el acceso a recursos de orientación académica y profesional. Además, la claridad en la definición de funciones y flujos de navegación favoreció la organización del equipo de trabajo, evidenciando un compromiso sólido con la misión educativa del proyecto y estableciendo una base sólida para su futura evolución y escalabilidad.
 

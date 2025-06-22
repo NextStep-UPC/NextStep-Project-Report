@@ -147,10 +147,12 @@
             - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
             - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
             - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-        - [5.2.4. Validation Interviews](#524-validation-interviews)
-          - [5.2.4.1. Diseño de Entrevistas](#5241-diseño-de-entrevistas)
-          - [5.2.4.2. Registro de Entrevistas](#5242-registro-de-entrevistas)
-          - [5.2.4.3. Evaluaciones según heurísticas](#5243-evaluaciones-según-heurísticas)
+    - [5.3. Validation Interviews](#53-validation-interviews)
+      - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+      - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+      - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+    - [5.4. Video About the Product](#54-video-about-the-product)
+    - [5.5. Video Exposición TB2](#55-video-exposición-tb2)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -192,10 +194,10 @@ Convertirnos en la plataforma de referencia en orientación vocacional en Latino
 
 | Foto | Descripción |
 |------|-------------|
-| <img width="150" src="/assets/img/chapter-I/vicente-photo.png"> | Estudio la carrera de Ingeniería de Software en la UPC. Me gusta el fútbol, surf, buceo y la tecnología. Soy una persona que siempre busca aprender nuevos conocimientos que me lleven a convertirme en un gran profesional y así poder cumplir mis metas cada día. |
-| <img width="150" src="/assets/img/chapter-I/pedro-photo.jpg"> | Mi nombre es Pedro Lecca y actualmente estudio la carrera de Ingeniería de Software en la Universidad UPC, sede San Miguel. Tengo 20 años y me considero una persona responsable, comprometida con el cumplimiento de mis deberes académicos. Además, valoro profundamente mantener una buena relación con mi equipo de trabajo, ya que estoy convencido de que un ambiente colaborativo y respetuoso permite alcanzar mejores resultados y potencia el desarrollo colectivo. |
-| <img width="150" src="/assets/img/chapter-I/moises-photo.jpg"> | Mi nombre es Moisés Espinoza Chávez, estoy estudiando la carrera de Ingeniería de Software y actualmente me encuentro cursando el quinto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje. Tengo conocimientos en SQL, C++ y un poco de HTML, CSS y JavaScript, así como habilidades para la adaptabilidad y la responsabilidad. |
-| <img width="150" src="/assets/img/chapter-I/Pablo-photo.jpg"> |Mi nombre es Pablo,tengo 19 años y soy estudiante de Ingeniería de Software en la UPC, sede San Miguel. Soy una persona decidida, confiable, responsable y honesta con mi grupo de trabajo ,siendo lo más útil posible. Tengo conocimientos en C++,C# y php. Cada día trato de dar una mejor versión de mi y aprender de mis errores. |   
+| <img width="150" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-I/vicente-photo.png"> | Estudio la carrera de Ingeniería de Software en la UPC. Me gusta el fútbol, surf, buceo y la tecnología. Soy una persona que siempre busca aprender nuevos conocimientos que me lleven a convertirme en un gran profesional y así poder cumplir mis metas cada día. |
+| <img width="150" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-I/pedro-photo.jpg"> | Mi nombre es Pedro Lecca y actualmente estudio la carrera de Ingeniería de Software en la Universidad UPC, sede San Miguel. Tengo 20 años y me considero una persona responsable, comprometida con el cumplimiento de mis deberes académicos. Además, valoro profundamente mantener una buena relación con mi equipo de trabajo, ya que estoy convencido de que un ambiente colaborativo y respetuoso permite alcanzar mejores resultados y potencia el desarrollo colectivo. |
+| <img width="150" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-I/moises-photo.jpg"> | Mi nombre es Moisés Espinoza Chávez, estoy estudiando la carrera de Ingeniería de Software y actualmente me encuentro cursando el quinto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje. Tengo conocimientos en SQL, C++ y un poco de HTML, CSS y JavaScript, así como habilidades para la adaptabilidad y la responsabilidad. |
+| <img width="150" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-I/Pablo-photo.jpg"> |Mi nombre es Pablo,tengo 19 años y soy estudiante de Ingeniería de Software en la UPC, sede San Miguel. Soy una persona decidida, confiable, responsable y honesta con mi grupo de trabajo ,siendo lo más útil posible. Tengo conocimientos en C++,C# y php. Cada día trato de dar una mejor versión de mi y aprender de mis errores. |   
 
 
 ## 1.2. Solution Profile
@@ -318,7 +320,7 @@ Estas hipótesis serán validadas mediante pruebas con usuarios, entrevistas, pr
 
 #### 1.2.2.4. Lean UX Canvas
 
-<p align="center"><img width="auto" height="auto" src="/assets/img/chapter-I/lean-ux-canvas.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-I/lean-ux-canvas.png">
 
 ## 1.3. Segmentos objetivo
 
@@ -494,7 +496,7 @@ Conocer su experiencia en orientación vocacional, métodos de trabajo actuales,
 - Sexo: Masculino
 - Edad: 17 años
 - Ubicación en la que vive olivos, Lima, Perú  
-<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/AdrianValera.png">
+<p align="left"><img width ="auto" height="240" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-II/AdrianValera.png">
 - Link: https://drive.google.com/file/d/1ytI4TQHYi9yd6shk1knVcFKFqv8wHry7/view?usp=drive_link
 - Momento en el que inicia: 0:02
 - Duración: 7:07
@@ -510,7 +512,7 @@ lo ayude en ese proceso y que le gustaria estudiar psicologia.
 - Edad: 17 años
 - Ubicación en la que vive Independencia, Lima, Perú
 
-<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/Anyelo.png">
+<p align="left"><img width ="auto" height="240" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-II/Anyelo.png">
     
 **Entrevista**:
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EZ3MnphrLQ5DrRb7NmGPEZEBDl3JarEgirlFJFtvqdAkZw?e=YOkBkE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi4yNn19
@@ -521,7 +523,7 @@ lo ayude en ese proceso y que le gustaria estudiar psicologia.
   - Edad: 17 años
   - Ubicación en la que vive San Miguel, Lima, Perú
 
-<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/Ethan.png">
+<p align="left"><img width ="auto" height="240" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-II/Ethan.png">
     
 **Entrevista**:
 - link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EZ72K_vbEyRNifUIwye0XYoBayn9JnUzIor_XMr0QY8Wfg?e=hopDKG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -540,7 +542,7 @@ un futuro prometedor que tanto anhela.
 - Edad: 23 años
 - Ubicación en la que vive olivos, Lima, Perú
 
- <p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/maricielo.png">
+ <p align="left"><img width ="auto" height="240" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-II/maricielo.png">
   
   **Entrevista:**
   link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EcVMA4GvuX5PiYD6y-ZQDQoBMpOEFHInTl34d-NKVHWzAA?e=Xkc9TW
@@ -561,7 +563,7 @@ Su perspectiva refuerza la importancia de unir la tecnología con un enfoque hum
 
 
 
-<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/antonella.png">
+<p align="left"><img width ="auto" height="240" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-II/antonella.png">
  
  
  **Entrevista:**
@@ -581,7 +583,7 @@ Antonella también resaltó la importancia del rol que cumplen los padres en est
   - Edad: 24 años
   - Ubicación en la que vive Independencia, Lima, Perú
     
-    <p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/Marcos.png">
+    <p align="left"><img width ="auto" height="240" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-II/Marcos.png">
 
 **Entrevista**:
 - link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/Eb72kDMH6gNHt9tAQhgZkZYBXCf9tGGwbrpUYmwE7SYbDA?e=wrH5Qu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MS45Nn19
@@ -606,9 +608,9 @@ Angelo es un joven que busca herramientas digitales accesibles, interactivas y c
 Piero sigue motivado por el deseo de construir un futuro prometedor, lo que denota resiliencia y un enfoque positivo hacia los desafíos que enfrenta. La falta de un plan claro no le impide seguir intentando, lo que refleja un deseo de exploración y adaptación en busca de una forma de asegurar su éxito en el futuro. En resumen, Piero se encuentra en una etapa de indecisión, pero con una disposición para descubrir nuevas oportunidades que lo lleven a alcanzar sus metas.
 
 
- <p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/test.png">
+ <p align="left"><img width ="auto" height="240" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-II/test.png">
 
- <p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/videollamada.png">
+ <p align="left"><img width ="auto" height="240" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-II/videollamada.png">
 
 
 ***Segmento 2:Psicólogos enfocados en orientación vocacional***
@@ -620,13 +622,13 @@ Antonella nos comento que quisiera una plataforma digital que combine herramient
 **Entrevista N°3:**
 Marcos es un profesional con un enfoque integrador y abierto a la innovación tecnológica, siempre que estas herramientas respeten la importancia de la interacción personal y ayuden a mejorar la experiencia de orientación vocacional de los estudiantes.
 
-<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/pie-chart.png">
+<p align="left"><img width ="auto" height="240" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-II/pie-chart.png">
 
 
-<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/pie-chart1.png">
+<p align="left"><img width ="auto" height="240" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-II/pie-chart1.png">
 
 
-<p align="left"><img width ="auto" height="240" src="/assets/img/chapter-II/pie-chart2.png">
+<p align="left"><img width ="auto" height="240" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-II/pie-chart2.png">
 
 
 ## 2.3. Needfinding
@@ -637,7 +639,7 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 
 ### User Persona: Estudiante de secundaria
 
-<p align="left"><img width="auto" height="240" src="/assets/img/chapter-II/UserPersona1.png">
+<p align="left"><img width="auto" height="240" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-II/UserPersona1.png">
 
 **Nombre**: Mariana Espinoza  
 **Edad**: 16 años  
@@ -669,7 +671,7 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 
 ### User Persona: Psicóloga vocacional
 
-<p align="left"><img width="auto" height="240" src="/assets/img/chapter-II/UserPersona2.png">
+<p align="left"><img width="auto" height="240" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-II/UserPersona2.png">
 
 **Nombre**: Carla Huamán  
 **Edad**: 35 años  
@@ -744,23 +746,23 @@ Los siguientes recorridos representan la experiencia actual (*As-Is*) de los seg
 
 ### Estudiante de secundaria (Mariana Espinoza)
 
-<p align="center"><img width="auto" height="auto" src="/assets/img/chapter-II/UserJourneyMapping1.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-II/UserJourneyMapping1.png">
   
 ---
 
 ### Psicóloga vocacional (Carla Huamán)
 
-<p align="center"><img width="auto" height="auto" src="/assets/img/chapter-II/UserJourneyMapping2.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-II/UserJourneyMapping2.png">
 
 ## 2.3.4. Empathy Mapping
 
 ### Estudiante de secundaria (Mariana Espinoza)
 
-<p align="center"><img width="auto" height="auto" src="/assets/img/chapter-II/EmpathyMapping1.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-II/EmpathyMapping1.png">
 
 ### Psicóloga vocacional (Carla Huamán)
 
-<p align="center"><img width="auto" height="auto" src="/assets/img/chapter-II/EmpathyMapping2.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-II/EmpathyMapping2.png">
 
 ### 2.3.5. As-Is Scenario Mapping
 
@@ -825,7 +827,7 @@ Este glosario contiene los términos clave del dominio de negocio de Pathly, red
 
 Simular cómo sería una experiencia ideal con Pathly, desde la perspectiva del estudiante, comparándola con el As-Is ya trabajado. El flujo debe enfocarse en una experiencia estructurada, empática y guiada.
 
-<p align="center"><img width="auto" height="auto" src="/assets/img/chapter-III/to-be-scenario-mapping.jpg">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-III/to-be-scenario-mapping.jpg">
 
 ---
 
@@ -833,7 +835,7 @@ Simular cómo sería una experiencia ideal con Pathly, desde la perspectiva del 
 
 Diseñar la experiencia ideal de un psicólogo certificado utilizando Pathly, enfocándose en eficiencia, organización y vínculo con estudiantes.
 
-<p align="center"><img width="auto" height="auto" src="/assets/img/chapter-III/to-be-scenario-mapping2.jpg">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-III/to-be-scenario-mapping2.jpg">
 
 ## 3.2. User Stories
 
@@ -879,7 +881,7 @@ Diseñar la experiencia ideal de un psicólogo certificado utilizando Pathly, en
 
 ## 3.3. Impact Mapping
 
-<p align="center"><img width="auto" height="auto" src="/assets/img/chapter-III/impact-mapping.jpg">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-III/impact-mapping.jpg">
 
 ## 3.4. Product Backlog
 
@@ -943,7 +945,7 @@ Se usa en los íconos, elementos informativos, indicadores secundarios.
 Este verde azulado intenso combina serenidad con firmeza, y comunica acompañamiento emocional y apertura.
 Se usa en botones secundarios, títulos destacados, íconos de confianza o conexión.
 
-![paleta img](/assets/img/chapter-IV/paleta-colores.png)
+![paleta img](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/paleta-colores.png)
 
 
 #### 4.1.1.2 Tipografía
@@ -954,19 +956,19 @@ Nuestra tipografía utiliza una combinación de fuentes sans-serif modernas que 
 - **Uso:** Títulos principales, encabezados destacados, botones importantes (CTA).
 - **Justificación:** El aspecto limpio y geometría equilibradad de Poppins, comunica modernidad y profesionalismo sin ser intimidante. Su estructura de líneas redondas transmite dinamismo y cercanía.
 
-![poppins font](/assets/img/chapter-IV/poppins-font.png)
+![poppins font](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/poppins-font.png)
 
 #### **Open Sans**
 - **Uso**: Texto de párrafos, descripciones, formularios, información secundaria.
 - **Justificación:** Se seleccionó a Open Sans por su excelente legibilidad en pantalla, y por su neutralidad visual. Complementa a Poppins porque aporta una base sobria y fácil de leer para los textos largos, lo que contribuye a una experiencia de usuario fluida en plataformas digitales.
 
-![opens sans font](/assets/img/chapter-IV/open-sans-font.png)
+![opens sans font](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/open-sans-font.png)
 
 #### **Raleway**
 - **Uso**: Subtítulos, frases, pequeños encabezados secundarios.
 - **Justificación:** Raleway combina perfectamente con la redondez de Poppins y la neutralidad de Open Sans. Aporta un diseño estilizado que le da un toque de sofisticación ligera, sin perder frescura.
 
-![raleway font](/assets/img/chapter-IV/raleway-font.png)
+![raleway font](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/raleway-font.png)
 
 
 #### 4.1.1.3 Spacing:
@@ -987,12 +989,12 @@ Justificación:
 
 Un sistema de espaciado claro y coherente permite que los elementos estén en armonía, guíen visualemente al usuario, y generan una sensación de orden y profesionalismo. Esto es muy importante en Pathly, porque los estudiantes deben tomar decisiones importantes y con claridad, sin sobrecarga visual.
 
-![spacing img](/assets/img/chapter-IV/spacing.png)
+![spacing img](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/spacing.png)
 
 
 #### 4.1.1.4 Branding:
 
-![logo img](/assets/img/chapter-IV/logo.png)
+![logo img](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/logo.png)
 
 Nuestro logo presenta una identidad visual moderna, minimalista y sólida, diseñada para conectar con un público joven.
 
@@ -1168,21 +1170,21 @@ La navegación será simple:
 
 Los wireframes presentados corresponden al diseño inicial de la landing page de Pathly, tanto para versión web como móvil. La estructura muestra una navegación clara con secciones principales como presentación de la plataforma, beneficios destacados, descripción de servicios, testimonios y un llamado a la acción. Se incluyen áreas para imágenes representativas, texto explicativo breve y elementos interactivos, priorizando una experiencia de usuario intuitiva, visualmente limpia y optimizada para conversión."
 
-<p align="center"><img width="45%" height="45%" src="assets/img/chapter-IV/landing-page-web-wireframe.png">
+<p align="center"><img width="45%" height="45%" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/landing-page-web-wireframe.png">
 
 ---
 
-<p align="center"><img width="45%" height="45%" src="assets/img/chapter-IV/landing-page-mobile-wireframe.png">
+<p align="center"><img width="45%" height="45%" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/landing-page-mobile-wireframe.png">
 
 ### 4.3.2. Landing Page Mock-up
 
 Los mockups presentan el diseño visual final de la landing page de Pathly para versión web y móvil, mostrando la identidad gráfica, estructura de navegación, secciones clave (¿Quiénes somos?, Beneficios, Metas y Equipo) y una propuesta visual amigable para acompañar el proceso de orientación vocacional.
 
-<p align="center"><img width="45%" height="45%" src="assets/img/chapter-IV/landing-page-web-mock-up.png">
+<p align="center"><img width="45%" height="45%" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/landing-page-web-mock-up.png">
 
 ---
 
-<p align="center"><img width="auto" height="45%" src="assets/img/chapter-IV/landing-page-mobile-mock-up.png">
+<p align="center"><img width="auto" height="45%" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/landing-page-mobile-mock-up.png">
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -1193,7 +1195,7 @@ A continuación se presentan los wireframes de las principales pantallas de inte
 ---
 
 **Login:**
-<p align="center"><img width="45%" height="45%" src="assets/img/chapter-IV/Login Wireflow.png">
+<p align="center"><img width="45%" height="45%" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/Login Wireflow.png">
 
 La pantalla de inicio de sesión permite al usuario ingresar su **correo electrónico** y **contraseña** para acceder a la plataforma.  
 Se ofrecen enlaces para **crear una nueva cuenta** o **recuperar contraseña** en caso de olvido.  
@@ -1202,7 +1204,7 @@ Si las credenciales ingresadas son correctas, el usuario accede directamente al 
 ---
 
 **Login con credenciales incorrectas:**
-<p align="center"><img width="45%" height="45%" src="assets/img/chapter-IV/Login wrong credentials Wireflow.png">
+<p align="center"><img width="45%" height="45%" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/Login wrong credentials Wireflow.png">
 
 En caso de ingresar datos incorrectos, el sistema muestra un **mensaje de error en rojo** advirtiendo que el correo o la contraseña son incorrectos.  
 El formulario permanece visible para que el usuario corrija los datos o utilice los accesos de recuperación o registro.
@@ -1210,7 +1212,7 @@ El formulario permanece visible para que el usuario corrija los datos o utilice 
 ---
 
 **Registro de nuevo usuario:**
-<p align="center"><img width="45%" height="45%" src="assets/img/chapter-IV/Register Wireflow.png">
+<p align="center"><img width="45%" height="45%" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/Register Wireflow.png">
 
 Para registrarse, el usuario debe completar los campos obligatorios: **nombre(s)**, **apellidos**, **fecha de nacimiento**, **número telefónico**, **correo electrónico**, **contraseña** y **confirmación de contraseña**.  
 Se incluye una opción de contacto para resolver problemas técnicos en el proceso.
@@ -1218,7 +1220,7 @@ Se incluye una opción de contacto para resolver problemas técnicos en el proce
 ---
 
 **Restablecer contraseña - Solicitar correo electrónico:**
-<p align="center"><img width="45%" height="45%" src="assets/img/chapter-IV/Reset password Wireflow.png">
+<p align="center"><img width="45%" height="45%" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/Reset password Wireflow.png">
 
 Para iniciar el proceso de recuperación, se pide al usuario que introduzca su **correo electrónico** registrado.  
 Una vez enviado, el sistema genera un enlace de recuperación de contraseña al correo proporcionado.
@@ -1226,7 +1228,7 @@ Una vez enviado, el sistema genera un enlace de recuperación de contraseña al 
 ---
 
 **Restablecer contraseña - Nueva contraseña:**
-<p align="center"><img width="45%" height="45%" src="assets/img/chapter-IV/Reset password Wireflow 2.png">
+<p align="center"><img width="45%" height="45%" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/Reset password Wireflow 2.png">
 
 El sistema solicita al usuario ingresar una **nueva contraseña** y confirmar su coincidencia para proceder con el cambio.  
 Al presionar el botón **"Realizar cambios"**, se actualiza la contraseña en el sistema.
@@ -1234,75 +1236,75 @@ Al presionar el botón **"Realizar cambios"**, se actualiza la contraseña en el
 ---
 
 **Restablecer contraseña - Error de coincidencia:**
-<p align="center"><img width="45%" height="45%" src="assets/img/chapter-IV/Reset password Wireflow 3.png">
+<p align="center"><img width="45%" height="45%" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/Reset password Wireflow 3.png">
 
 Si las contraseñas ingresadas no coinciden, se muestra un **mensaje de error en rojo** que indica "**¡Las contraseñas no coinciden!**".  
 El usuario debe corregir ambas entradas antes de poder continuar.
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-<p align="center"><img swidth="auto" height="auto" rc="assets/img/chapter-IV/wireflow-inicio-sesion.jpg">
+<p align="center"><img swidth="auto" height="auto" rc="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/wireflow-inicio-sesion.jpg">
 
 ### 4.4.3. Web Applications Mock-ups
 
 **Desktop Home Mock-Up:**
 
-<p align="center"><img swidth="45%" height="auto" rc="assets/img/chapter-IV/web-applications-desktop-home.png">
+<p align="center"><img swidth="45%" height="auto" rc="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/web-applications-desktop-home.png">
 
 ---
 **Desktop Register Mock-up:**
 
-<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-desktop-register.png">
+<p align="center"><img width="45%" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/web-applications-desktop-register.png">
 
 ---
 
 **Desktop Login / Login Error Mock-up:**
 
-<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-desktop-login.png">
+<p align="center"><img width="45%" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/web-applications-desktop-login.png">
 
-<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-desktop-login-error.png">
+<p align="center"><img width="45%" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/web-applications-desktop-login-error.png">
 
 ---
 
 **Desktop Reset password / Error reset password / Successfully reset password Mock-up:**
 
-<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-desktop-reset-password-one.png">
+<p align="center"><img width="45%" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/web-applications-desktop-reset-password-one.png">
 
-<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-desktop-reset-password-two.png">
+<p align="center"><img width="45%" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/web-applications-desktop-reset-password-two.png">
 
-<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-desktop-reset-password-three.png">
+<p align="center"><img width="45%" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/web-applications-desktop-reset-password-three.png">
 
-<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-desktop-reset-password-four.png">
+<p align="center"><img width="45%" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/web-applications-desktop-reset-password-four.png">
 
 ---
 
 **Mobile Home Mock-up:**
-<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-mobile-home.png">
+<p align="center"><img width="45%" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/web-applications-mobile-home.png">
 
 ---
 
 **Mobile Register Mock-up:**
-<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-mobile-register.png">
+<p align="center"><img width="45%" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/web-applications-mobile-register.png">
 
 ---
 
 **Mobile Login / Login Error Mock-up:**
 
-<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-mobile-login.png">
+<p align="center"><img width="45%" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/web-applications-mobile-login.png">
 
-<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-mobile-login-error.png">
+<p align="center"><img width="45%" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/web-applications-mobile-login-error.png">
 
 ---
 
 **Mobile Reset password / Error reset password / Successfully reset password Mock-up:**
 
-<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-mobile-reset-password-one.png">
+<p align="center"><img width="45%" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/web-applications-mobile-reset-password-one.png">
 
-<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-mobile-reset-password-two.png">
+<p align="center"><img width="45%" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/web-applications-mobile-reset-password-two.png">
 
-<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-mobile-reset-password-three.png">
+<p align="center"><img width="45%" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/web-applications-mobile-reset-password-three.png">
 
-<p align="center"><img width="45%" height="auto" src="assets/img/chapter-IV/web-applications-mobile-reset-password-four.png">
+<p align="center"><img width="45%" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/web-applications-mobile-reset-password-four.png">
 
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
@@ -1311,42 +1313,42 @@ El usuario debe corregir ambas entradas antes de poder continuar.
 
 ### 4.6.1. Software Architecture Context Diagram
 
-![Context Diagram](/assets/img/chapter-IV/Context.png)
+![Context Diagram](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/Context.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-![Context Diagram](/assets/img/chapter-IV/container.png)
+![Context Diagram](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/container.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
 **Diagrama de Componentes - User support Bounded context**
 
-![Context Diagram](/assets/img/chapter-IV/User-component.png)
+![Context Diagram](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/User-component.png)
 
 **Diagrama de Componentes -Technical funcions Bounded context**
 
-![Component Diagram](/assets/img/chapter-IV/funcions-component.png)
+![Component Diagram](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/funcions-component.png)
 
 **Diagrama de Componentes -System administration Bounded context**
 
-![Component Diagram](/assets/img/chapter-IV/system-component.png)
+![Component Diagram](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/system-component.png)
 
 **Diagrama de Componentes -Information Site Bounded context**
 
-![Component Diagram](/assets/img/chapter-IV/Informacion-component.png)
+![Component Diagram](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/Informacion-component.png)
 
 **Diagrama de Componentes -Managament Psychologist Bounded context**
 
-![Component Diagram](/assets/img/chapter-IV/Managament-component.png)
+![Component Diagram](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/Managament-component.png)
 
 **Diagrama de Componentes -Register student Bounded context**
 
-![Component Diagram](/assets/img/chapter-IV/student-component.png)
+![Component Diagram](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/student-component.png)
 
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
-![class](/assets/img/chapter-IV/clases.png)
+![class](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/clases.png)
 
 ### 4.7.2. Class Dictionary
 
@@ -1453,7 +1455,7 @@ Hereda de: `User`
  
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-![Component Diagram](/assets/img/chapter-IV/blank.png)
+![Component Diagram](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/blank.png)
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
@@ -1472,27 +1474,27 @@ Hereda de: `User`
 
 - **Structurizr:** Es un conjunto de herramientas que facilita la creación colaborativa de modelos C4, permitiendo representar gráficamente los productos desarrollados.
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-IV/container.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-IV/container.png">
 
 #### Product UX/UI Design
 
 - **Figma:** Es una plataforma de diseño colaborativo en línea que permite crear, prototipar y compartir interfaces de usuario en tiempo real, facilitando el trabajo en equipo de forma ágil y visual.
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/figma-evidence.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/figma-evidence.png">
 
 #### Software Development 
 
 - **HTML5:** Es la quinta versión del lenguaje de marcado estándar para la creación de páginas web, que incorpora nuevas etiquetas y funcionalidades para estructurar mejor los contenidos, integrar multimedia y mejorar la experiencia de usuario en distintos dispositivos.
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/html5-evidence.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/html5-evidence.png">
 
 - **CSS:** Es un lenguaje de hojas de estilo que permite definir la apariencia y el diseño de los documentos HTML, controlando aspectos como los colores, tipografías, márgenes, posiciones y adaptabilidad de los elementos en diferentes dispositivos.
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/css-evidence.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/css-evidence.png">
 
 - **JavaScript:** Es un lenguaje de programación que permite agregar interactividad, dinamismo y funcionalidades avanzadas a los sitios web, trabajando en conjunto con HTML y CSS para mejorar la experiencia del usuario en navegadores y aplicaciones web.
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/js_evidence.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/js_evidence.png">
 
 #### Software Documentation
 
@@ -1504,9 +1506,9 @@ Hereda de: `User`
 
 #### GitFlow Implementation
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/gitflow1_evidence.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/gitflow1_evidence.png">
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/gitflow2_evidence.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/gitflow2_evidence.png">
 
 **Uso de ramas y Conventional Commits**
 
@@ -1565,7 +1567,7 @@ Esta práctica facilitó la comprensión del historial del proyecto, automatizó
 Creamos un repositorio en GitHub específicamente para alojar el código de nuestra Landing Page.
 El repositorio está configurado como público, lo que significa que cualquier persona puede acceder, visualizar y clonar el proyecto si lo desea. Esto facilita la transparencia, la colaboración abierta y también permite que sea desplegado fácilmente a través de GitHub Pages
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/landing-page-repository-evidence.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/landing-page-repository-evidence.png">
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -1635,27 +1637,27 @@ https://youtu.be/mzCetYgiCDQ
 
 - Landing Page principal (index.html): incluye secciones de inicio, beneficios, metas, equipo, registro, inicio de sesión y llamado a la acción
   
-![primera ](/assets/img/chapter-V/primera-pagina.png)
+![primera ](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/primera-pagina.png)
 
 - Se muestran el apartado de beneficios:
   
-![segunda ](/assets/img/chapter-V/segunda-pagina.png)
+![segunda ](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/segunda-pagina.png)
 
 - Apartado donde se muestran las metas:
   
-![tercera ](/assets/img/chapter-V/tercera-pagina.png)
+![tercera ](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/tercera-pagina.png)
 
 - Se muestran la seccion de equipo, y el footer:
   
-![cuarta ](/assets/img/chapter-V/cuarta-imagen.png)
+![cuarta ](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/cuarta-imagen.png)
 
 - Formulario de registro (register.html): incluye validaciones de contraseña, confirmación y términos requeridos.
   
-![registro ](/assets/img/chapter-V/registro.png)
+![registro ](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/registro.png)
 
 - Formulario de inicio de sesión (login.html): diseño con validaciones JS.
   
-![inicio-sesion ](/assets/img/chapter-V/inicio-sesion.png)
+![inicio-sesion ](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/inicio-sesion.png)
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
@@ -1674,24 +1676,24 @@ Durante este Sprint, se llevó a cabo la publicación de la Landing Page y de la
 **Proceso de Deployment realizado:**
 - Se creó un repositorio GitHub. (https://github.com/NextStep-UPC/NextStep-LandingPage)
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/landing-page-repository-evidence.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/landing-page-repository-evidence.png">
 
 - Se organizó el proyecto con estructura de carpetas (assets/images, pages/)
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/landing-page-ss1.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/landing-page-ss1.png">
   
 
 - Se subieron los archivos HTML, CSS y JS:
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/landing-page-ss1.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/landing-page-ss1.png">
   
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/landing-page-ss2.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/landing-page-ss2.png">
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/landing-page-ss3.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/landing-page-ss3.png">
 
 - Se verificó el acceso público:
   
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/primera-pagina.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/primera-pagina.png">
 
 - **Responsable:** Pedro Lecca
   
@@ -1705,7 +1707,7 @@ A lo largo del Sprint 1, Pedro Lecca se encargó de manera integral del desarrol
 
 **Evidencia en GitHub (Sprint 1)**
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/github-evidence.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/github-evidence.png">
 
 ### 5.2.2. Sprint 2
 
@@ -1794,21 +1796,21 @@ Durante este Sprint, se llevó a cabo la publicación de la Landing Page y de la
 **Proceso de Deployment realizado:**
 
 - Se desarrollo la interfaz de nuestros planes.
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/s2-deployment-evidence1.jpeg">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/s2-deployment-evidence1.jpeg">
 - Se desarrollo el componente visual de comparación de beneficios
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/s2-deployment-evidence2.jpeg">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/s2-deployment-evidence2.jpeg">
 - Se desarrollo la vista para seleccionar el rol
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/s2-deployment-evidence3.jpeg">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/s2-deployment-evidence3.jpeg">
 - Se desarrollo la vista del Dashboard
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/s2-deployment-evidence10.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/s2-deployment-evidence10.png">
 - Se desarrollo la vista de inicio de sesión
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/s2-deployment-evidence6.jpeg">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/s2-deployment-evidence6.jpeg">
 - Se desarrollo la vista de registro de usuario
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/s2-deployment-evidence8.jpeg">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/s2-deployment-evidence8.jpeg">
 - Se desarrollo la funcionalidad de tests
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/s2-deployment-evidence9.jpeg">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/s2-deployment-evidence9.jpeg">
 - Se desarrollo la funcionalidad de Admin Dashboard
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/admin-dashboard.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/admin-dashboard.png">
 
 - **Responsable:** Pedro Lecca
   
@@ -1825,12 +1827,12 @@ Durante el Sprint 2 del proyecto Pathly, el equipo trabajó de forma distribuida
 
 **Evidencia en GitHub (Sprint 2)**
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/commits-evidence.png">
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/commits-evidence2.png">
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/commits-evidence3.png">
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/commits-evidence4.png">
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/commits-evidence5.png">
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/commits-evidence6.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/commits-evidence.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/commits-evidence2.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/commits-evidence3.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/commits-evidence4.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/commits-evidence5.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/commits-evidence6.png">
 
 ## 5.2.3. Sprint 3
 ### 5.2.3.1. Sprint Planning 3
@@ -1915,37 +1917,37 @@ Durante este sprint, se consolidaron los siguientes aspectos técnicos:
 ---
 
 **MySQL Workbench conectado a la base de datos de Google Cloud**
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-mysql-evidence1.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/tb2-mysql-evidence1.png">
 
 ---
 
 **MySQL Workbench mostrando los datos del bounded context: IAM**
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-mysql-evidence2.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/tb2-mysql-evidence2.png">
 
 **MySQL Workbench mostrando los datos del bounded context: Vocational Test**
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-mysql-evidence3.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/tb2-mysql-evidence3.png">
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-mysql-evidence4.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/tb2-mysql-evidence4.png">
 
 **MySQL Workbench mostrando los datos del bounded context: Sections**
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-mysql-evidence5.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/tb2-mysql-evidence5.png">
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-mysql-evidence6.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/tb2-mysql-evidence6.png">
 
 
 
 **Capturas del backend, bounded context: IAM**
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-backend-evidence1.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/tb2-backend-evidence1.png">
 
 **Capturas del backend, bounded context: Sections**
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-backend-evidence2.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/tb2-backend-evidence2.png">
 
 **Capturas del backend, bounded context: Admin**
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-backend-evidence3.jpg">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/tb2-backend-evidence3.jpg">
 
 **Capturas del backend, bounded context: Vocational Test**
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/tb2-backend-evidence4.jpg">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/tb2-backend-evidence4.jpg">
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -2053,13 +2055,13 @@ Se realizaron pruebas manuales en Swagger UI y a través del frontend conectado.
 
 Cada integrante participó activamente en la implementación de su bounded context, asegurando la correcta conexión con la base de datos, estructuración bajo el enfoque DDD, pruebas manuales con Swagger y verificación desde el frontend.
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/sprint3-work1.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/sprint3-work1.png">
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/sprint3-work2.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/sprint3-work2.png">
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/sprint3-work3.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/sprint3-work3.png">
 
-<p align="center"><img width="auto" height="auto" src="assets/img/chapter-V/sprint3-work4.png">
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/sprint3-work4.png">
 
 ## 5.3. Validation Interviews
 
@@ -2097,18 +2099,19 @@ Cada integrante participó activamente en la implementación de su bounded conte
 
 | **Entrevista 1**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
 |------------------------------------------|----------------------------------------------------------------------------------------|
-| **Entrevistado**                         | Hugo Bravo                                                                    |
+| **Entrevistado**                         | Adrian Valera                                                                         |
 | **Edad**                                 | 17 años                                                                               |
 | **Distrito**                             | Olivos                                                                                |
 | **Inicio de entrevista**                 | 00:03                                                                             |
-| **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/drive/folders/1ZyZkrdPkQDs80ATNI455gfPcubUZnBH-?usp=drive_link)                               |
-| **Foto captura**                         | ![Captura](assets/img/chapter-V/pollito.png)                                |
-| **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Con diseños minimalistas y bien adaptado a la epoca. |
-| **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece pero que podria mejorar algunos aspectos y que tendria que ver mas apartados. |
+| **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/file/d/15JrVdInb3l4Z1dWaigvleWp0SY7_qOpf/view?usp=drive_link)                               |
+| **Foto captura**                         | ![Captura](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/Adrian.png)                                |
+| **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general. |
+| **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece pero que podria mejorar algunos aspectos. |
 | **Visualización del panel principal**    | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones.   |
 | **Sugerencias de mejora**                | Reforzar detalles visuales y agregar animaciones o confirmaciones al realizar acciones. |
-| **Nivel de confusión**                   | No experimentó confusión.                                       |
+| **Nivel de confusión**                   | No experimentó confusión durante la navegación solo al inicio.                                       |
 
+---
 
 | **Entrevista 2**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
 |------------------------------------------|----------------------------------------------------------------------------------------|
@@ -2117,68 +2120,73 @@ Cada integrante participó activamente en la implementación de su bounded conte
 | **Distrito**                             | San Miguel                                                                               |
 | **Inicio de entrevista**                 | 00:03                                                                             |
 | **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/drive/folders/1op9rdbTmhcIgEaSbnXENuiOK1LwqcNjJ?usp=drive_link)                               |
-| **Foto captura**                         | ![Captura](assets/img/chapter-V/Piero4.png)                                |
+| **Foto captura**                         | ![Captura](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/Piero4.png)                                |
 | **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general. |
 | **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio.  |
 | **Visualización del panel principal**    | Le pareció bastante desordenado.     |
 | **Sugerencias de mejora**                | Reforzar detalles visuales y agregar animaciones o confirmaciones al realizar acciones y mejorar el orden en general. |
 | **Nivel de confusión**                   | No experimentó confusión durante la navegación solo al inicio.                                       |
 
+---
 
 | **Entrevista 3**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
 |------------------------------------------|----------------------------------------------------------------------------------------|
-| **Entrevistado**                         | Adrian Valera                                                                         |
+| **Entrevistado**                         | Hugo Bravo                                                                    |
 | **Edad**                                 | 17 años                                                                               |
 | **Distrito**                             | Olivos                                                                                |
 | **Inicio de entrevista**                 | 00:03                                                                             |
-| **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/file/d/15JrVdInb3l4Z1dWaigvleWp0SY7_qOpf/view?usp=drive_link)                               |
-| **Foto captura**                         | ![Captura](assets/img/chapter-V/Adrian.png)                                |
-| **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general. |
-| **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece pero que podria mejorar algunos aspectos. |
+| **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/drive/folders/1ZyZkrdPkQDs80ATNI455gfPcubUZnBH-?usp=drive_link)                               |
+| **Foto captura**                         | ![Captura](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/pollito.png)                                |
+| **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Con diseños minimalistas y bien adaptado a la epoca. |
+| **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece pero que podria mejorar algunos aspectos y que tendria que ver mas apartados. |
 | **Visualización del panel principal**    | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones.   |
 | **Sugerencias de mejora**                | Reforzar detalles visuales y agregar animaciones o confirmaciones al realizar acciones. |
-| **Nivel de confusión**                   | No experimentó confusión durante la navegación solo al inicio.                                       |
+| **Nivel de confusión**                   | No experimentó confusión.                                       |
+
+---
 
 ## Segmento Objetivo 2: Psicólogos enfocados en orientación vocacional**
 
-| **Entrevista 4**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
+| **Entrevista 4**                          | **Psicólogos enfocados en orientación vocacional**                                               |
 |------------------------------------------|----------------------------------------------------------------------------------------|
 | **Entrevistado**                         | Marcos Contreras                                                                        |
 | **Edad**                                 | 24 años                                                                               |
 | **Distrito**                             |San miguel                                                                          |
 | **Inicio de entrevista**                 | 00:10                                                                             |
 | **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/file/d/1PEMKDA9LZ-0WNp_YF4aYjczwqlGaMBWO/view?usp=drive_link)                               |
-| **Foto captura**                         | ![Captura](assets/img/chapter-V/marquitos.png)                                |
+| **Foto captura**                         | ![Captura](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/marquitos.png)                                |
 | **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general pero hubo detalles que no le agrararon. |
 | **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece pero que podria mejorar algunos aspectos. |
 | **Visualización del panel principal**    | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones pero le gustaria mas imagenes.   |
 | **Sugerencias de mejora**                | Reforzar detalles visuales y agregar animaciones o confirmaciones al realizar acciones y agregar un historial clinico. |
 | **Nivel de confusión**                   | No experimentó confusión durante la navegación solo al inicio.                                     |
 
+---
 
-| **Entrevista 5**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
+| **Entrevista 5**                          | **Psicólogos enfocados en orientación vocacional**                                               |
 |------------------------------------------|----------------------------------------------------------------------------------------|
 | **Entrevistado**                         | Maricielo  Rugel                                                                     |
 | **Edad**                                 | 22 años                                                                               |
 | **Distrito**                             | Olivos                                                                                |
 | **Inicio de entrevista**                 | 00:04                                                                            |
 | **Enlace de entrevista**                 |[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/ESDuLCEOKI9BoSS8sI_f2SoBAWMi_ommI4r-gnF_ks-1MQ?e=jsdUSV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                               |
-| **Foto captura**                         | ![Captura](assets/img/chapter-V/maricielo2.png)                                |
+| **Foto captura**                         | ![Captura](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/maricielo2.png)                                |
 | **Diseño de presentación del producto**  |Le parecio bastante bueno pero debio mejorar en algunos aspectos. |
 | **Información del producto**            |Le gusto bastante el inicio y observo algunas falacias con la pagina web. |
 | **Visualización del panel principal**    | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones añadio que podria ver un historial clinico.   |
 | **Sugerencias de mejora**                | Agregar mas opciones para que sea lo mas rapido posible y notificaciones. |
 | **Nivel de confusión**                   | No experimentó confusión durante la navegación .                                       |
 
+---
 
-| **Entrevista 6**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
+| **Entrevista 6**                          | **Psicólogos enfocados en orientación vocacional**                                               |
 |------------------------------------------|----------------------------------------------------------------------------------------|
 | **Entrevistado**                         | Antonella Rugel                                                                    |
 | **Edad**                                 | 27 años                                                                               |
 | **Distrito**                             | Olivos                                                                                |
 | **Inicio de entrevista**                 | 00:03                                                                             |
 | **Enlace de entrevista**                 |[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EZI0aGUKVMpPi4UyXZLEedoBKCB1gmntFNX_gwgApeXMyg?e=vsjdtx)                               |
-| **Foto captura**                         | ![Captura](assets/img/chapter-V/antonella2.png)                                |
+| **Foto captura**                         | ![Captura](https://raw.githubusercontent.com/NextStep-UPC/NextStep-Project-Report/main/assets/img/chapter-V/antonella2.png)                                |
 | **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general. |
 | **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece pero que podria mejorar algunos aspectos. |
 | **Visualización del panel principal**    | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones.   |
@@ -2264,6 +2272,14 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Heurística violada:** Usabilidad – Visibilidad y jerarquía visual  
 - **Descripción:** Botones importantes como “Contáctanos” o “Comienza ahora” no destacan lo suficiente respecto al resto del contenido. No hay una jerarquía clara que los haga sobresalir como acciones principales.  
 - **Recomendación:** Aumentar el contraste, tamaño o estilo visual de los botones principales para que llamen más la atención e inviten al clic.
+
+## 5.4. Video About-the-Product
+
+**Link:** https://www.youtube.com/watch?v=z4TBfX-ncS4
+
+## 5.4. Video Exposición TB2
+
+**Link:** https://www.youtube.com/watch?v=BAabbk_HopU
 
 # Conclusiones
 **TB1:** El proyecto "Pathly" reflejó un enfoque centrado en el usuario y orientado a abordar una necesidad social importante: la orientación vocacional de los estudiantes. Se consiguió estructurar una plataforma funcional y accesible mediante la aplicación de herramientas como User Stories, wireframes y una organización basada en funciones clave, priorizando en todo momento la experiencia del usuario. Las decisiones relacionadas con la navegación, la distribución de contenidos y la interacción visual fueron coherentes con el objetivo de facilitar el acceso a recursos de orientación académica y profesional. Además, la claridad en la definición de funciones y flujos de navegación favoreció la organización del equipo de trabajo, evidenciando un compromiso sólido con la misión educativa del proyecto y estableciendo una base sólida para su futura evolución y escalabilidad.

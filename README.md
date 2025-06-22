@@ -2192,6 +2192,49 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 | **3**     | Problema mayor: afecta la interacción frecuente. Alta prioridad.                |
 | **4**     | Problema muy grave: impide continuar. Debe corregirse antes del lanzamiento.    |
 
+
+## TABLA RESUMEN DE PROBLEMAS
+
+| #  | Problema                                                               | Severidad | Heurística/Principio violado                                  |
+|----|------------------------------------------------------------------------|-----------|----------------------------------------------------------------|
+| 1  | El apartado de alumnos no tiene mucha informacion relevante          | 2         | Usabilidad – Visibilidad del estado del sistema                |
+| 2  | No hay botón de regreso rápido al inicio desde secciones inferiores    | 2         | Usabilidad – Control del usuario                               |
+| 3  | Falta de etiquetas accesibles en íconos e imágenes                     | 3         | Inclusive Design – Proporciona experiencias comparables        |
+| 4  | Llamados a la acción poco diferenciados visualmente                    | 2         | Usabilidad – Visibilidad y jerarquía visual                    |
+
+---
+## DESCRIPCIÓN DE PROBLEMAS
+
+### 🔹 Problema #1: Las secciones no destacan visualmente
+- **Severidad:** 2  
+- **Heurística violada:** Usabilidad – Visibilidad del estado del sistema  
+- **Descripción:** El apartado de alumnos se visualiza pero no hay mucha accion para los estudiantes
+- **Recomendación:** Añadir animaciones o un toolbar para estudiantes
+
+---
+
+### 🔹 Problema #2: No hay botón de regreso rápido al inicio
+- **Severidad:** 2  
+- **Heurística violada:** Usabilidad – Control del usuario  
+- **Descripción:** Al estar en la parte inferior de la página no se puede volver fácilmente al inicio.  
+- **Recomendación:** Agregar un botón flotante de “volver”.
+
+---
+
+### 🔹 Problema #3: Falta de etiquetas accesibles en íconos e imágenes
+- **Severidad:** 3  
+- **Heurística violada:** Inclusive Design – Proporciona experiencias comparables  
+- **Descripción:** Imágenes e íconos carecen de descripciones alternativas.  
+- **Recomendación:** Incluir atributos `alt` y asegurar compatibilidad con lectores de pantalla.
+
+---
+
+### 🔹 Problema #4: Llamados a la acción poco diferenciados visualmente
+- **Severidad:** 2  
+- **Heurística violada:** Usabilidad – Visibilidad y jerarquía visual  
+- **Descripción:** Botones importantes como “Contáctanos” o “Comienza ahora” no destacan lo suficiente respecto al resto del contenido. No hay una jerarquía clara que los haga sobresalir como acciones principales.  
+- **Recomendación:** Aumentar el contraste, tamaño o estilo visual de los botones principales para que llamen más la atención e inviten al clic.
+
 # Conclusiones
 **TB1:** El proyecto "Pathly" reflejó un enfoque centrado en el usuario y orientado a abordar una necesidad social importante: la orientación vocacional de los estudiantes. Se consiguió estructurar una plataforma funcional y accesible mediante la aplicación de herramientas como User Stories, wireframes y una organización basada en funciones clave, priorizando en todo momento la experiencia del usuario. Las decisiones relacionadas con la navegación, la distribución de contenidos y la interacción visual fueron coherentes con el objetivo de facilitar el acceso a recursos de orientación académica y profesional. Además, la claridad en la definición de funciones y flujos de navegación favoreció la organización del equipo de trabajo, evidenciando un compromiso sólido con la misión educativa del proyecto y estableciendo una base sólida para su futura evolución y escalabilidad.
 

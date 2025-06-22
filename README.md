@@ -2097,17 +2097,17 @@ Cada integrante participó activamente en la implementación de su bounded conte
 
 | **Entrevista 1**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |
 |------------------------------------------|----------------------------------------------------------------------------------------|
-| **Entrevistado**                         | Adrian Valera                                                                         |
+| **Entrevistado**                         | Hugo Bravo                                                                    |
 | **Edad**                                 | 17 años                                                                               |
 | **Distrito**                             | Olivos                                                                                |
 | **Inicio de entrevista**                 | 00:03                                                                             |
-| **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/file/d/15JrVdInb3l4Z1dWaigvleWp0SY7_qOpf/view?usp=drive_link)                               |
-| **Foto captura**                         | ![Captura](assets/img/chapter-V/Adrian.png)                                |
-| **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general. |
-| **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece pero que podria mejorar algunos aspectos. |
+| **Enlace de entrevista**                 |[URL de la entrevista](https://drive.google.com/drive/folders/1ZyZkrdPkQDs80ATNI455gfPcubUZnBH-?usp=drive_link)                               |
+| **Foto captura**                         | ![Captura](assets/img/chapter-V/pollito.png)                                |
+| **Diseño de presentación del producto**  | Le pareció agradable y bien estructurado. Con diseños minimalistas y bien adaptado a la epoca. |
+| **Información del producto**            | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece pero que podria mejorar algunos aspectos y que tendria que ver mas apartados. |
 | **Visualización del panel principal**    | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones.   |
 | **Sugerencias de mejora**                | Reforzar detalles visuales y agregar animaciones o confirmaciones al realizar acciones. |
-| **Nivel de confusión**                   | No experimentó confusión durante la navegación solo al inicio.                                       |
+| **Nivel de confusión**                   | No experimentó confusión.                                       |
 
 
 | **Entrevista 2**                          | **Jóvenes estudiantes de 15 - 19 años**                                               |

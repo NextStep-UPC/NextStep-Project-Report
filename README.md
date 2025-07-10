@@ -40,6 +40,7 @@
 | TP      | 16/05/2025 | Lecca Villalobos, Pedro Omar | Realizó el sprint evidence 2 |
 | TB2 | 21/05/2025 | Lecca Villalobos, Pedro Omar | Realizó el sprint evidence 3 |
 | TB2 | 21/05/2025 | Geronimo Quispe, Pablo Antonio | Realizó las entrevistas de validación para el producto final |
+
 ## Project Report Collaboration Insights
 
 | URL de la organización del proyecto |             URL del repositorio del reporte             |        URL del repositorio de la landing page        | URL del repositorio del frontend | URL del repositorio del frontend               |
@@ -147,6 +148,15 @@
             - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
             - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
             - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+        - [5.2.4. Sprint 4](#524-sprint-4)
+            - [5.2.4.1. Sprint Planning 3](#5241-sprint-planning-4)
+            - [5.2.4.2. Sprint Backlog 3](#5242-sprint-backlog-4)
+            - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+            - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+            - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+            - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+            - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+            - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
     - [5.3. Validation Interviews](#53-validation-interviews)
       - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
       - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -2050,6 +2060,136 @@ Se realizaron pruebas manuales en Swagger UI y a través del frontend conectado.
 | Pablo Gerónimo       | Desarrollo del bounded context de **Psychologists** (gestión de datos de psicólogos).                 |
 | Vicente Quijandría   | Desarrollo del bounded context de **Vocational Test** (encuestas para evaluación vocacional).         |
 | Moisés Espinoza      | Desarrollo del bounded context de **Admin** (panel administrativo y métricas generales del sistema).  |
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+| **Sprint #**                                                                                                                                                                                                                                                                                                      | **Sprint 4** |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| **Date**                                                                                                                                                                                                                                                                                                          | 2025-07-04 |
+| **Time**                                                                                                                                                                                                                                                                                                          | 9:00 PM |
+| **Location**                                                                                                                                                                                                                                                                                                      | Discord (Reunión virtual) |
+| **Prepared By**                                                                                                                                                                                                                                                                                                   | Lecca Villalobos, Pedro Omar |
+| **Attendees (to planning meeting)**                                                                                                                                                                                                                                                                               | Lecca Villalobos, Pedro Omar<br>Espinoza Chávez, Moisés Filemón<br>Quijandria Araneda, Vicente<br>Geronimo Quispe, Pablo Antonio |
+| **Sprint 3 Review Summary**                                                                                                                                                                                                                                                                                       | Se finalizó la implementación del backend segmentado en los *bounded contexts* principales: IAM, Sections, Admin y Vocational Test. Se logró desplegar la base de datos en Google Cloud y validar los servicios expuestos.                                                                                        |
+| **Sprint 3 Retrospective Summary**                                                                                                                                                                                                                                                                                | Se identificó la necesidad de ampliar la cobertura funcional del backend con nuevos módulos (perfiles, sesiones, sanciones, reportes) para brindar una experiencia completa de orientación vocacional. Asimismo, se destacó la importancia de estandarizar los controladores y mejorar la documentación técnica.  |
+| **Sprint 4 Goal**                                                                                                                                                                                                                                                                                                 | Ampliar la funcionalidad del sistema backend con nuevos *bounded contexts* y unir al frontend, que incluyan: manejo de perfiles, sesiones, chat, feedback, reportes, sanciones, apelaciones y notificaciones. El objetivo es cubrir todo el flujo de interacción entre estudiantes, psicólogos y administradores. |
+| **Sprint n Velocity**                                                                                                                                                                                                                                                                                             | **30 Story Points** |
+| **Sum of Story Points**                                                                                                                                                                                                                                                                                           | **30** |
+
+#### 5.2.4.2. Sprint Backlog 4
+
+Durante este Sprint se desarrollaron nuevas funcionalidades backend relacionadas al flujo completo de interacción vocacional, desde sesiones y sanciones hasta apelaciones, reportes y feedback. Se organizaron las tareas por bounded context, alineadas a las User Stories del backlog principal:
+
+| **User Story ID** | **User Story Title**                     | **Task ID** | **Task Title**                          | **Description**                                                                 | **Estimation (Hours)** | **Assigned To**       | **Status** |
+|------------------:|:-----------------------------------------|-------------|------------------------------------------|----------------------------------------------------------------------------------|------------------------:|------------------------|------------|
+| US01              | Registro de estudiante                   | T16-01      | Endpoint POST `/auth/register`           | Crear controlador para registrar nuevos usuarios y retornar JWT.                | 3                      | Pedro Lecca           | Done       |
+| US02              | Inicio de sesión                         | T16-02      | Endpoint POST `/auth/login`              | Implementar autenticación y emisión de tokens.                                 | 2                      | Pedro Lecca           | Done       |
+| US07              | Gestión de perfil                        | T16-03      | Endpoint GET y PUT `/profiles/me`        | Permitir al usuario ver y actualizar su perfil.                                 | 3                      | Pedro Lecca       | Done       |
+| US10              | Visualizar perfil público                | T16-04      | Endpoint GET `/profiles/{id}`            | Obtener perfil público con datos básicos.                                       | 2                      | Pedro Lecca       | Done       |
+| US04              | Agendar sesión con psicólogo             | T16-05      | Endpoint POST `/sessions/book`           | Crear flujo de reserva de sesión vocacional.                                    | 3                      | Pedro Lecca    | Done       |
+| US09              | Sesión por videollamada                  | T16-06      | Endpoint POST `/sessions/{id}/assign`    | Confirmar sesión por parte del psicólogo.                                       | 2                      | Pablo Geronimo        | Done       |
+| US06              | Feedback de sesión                       | T16-07      | Endpoint POST `/sessions/{id}/feedback`  | Crear funcionalidad para dejar valoración posterior a sesión.                   | 2                      | Vicente Quijandria    | Done       |
+| US19              | Notificaciones automáticas               | T16-08      | Endpoints POST y GET `/notifications`    | Crear notificaciones y obtener lista personal.                                  | 2                      | Moisés Espinoza       | Done       |
+| US20              | Filtro de psicólogos                     | T16-09      | Endpoint GET `/sessions/psychologists`   | Listar todos los psicólogos disponibles.                                        | 2                      | Pablo Geronimo        | Done       |
+| US17              | Ver estadísticas de desempeño            | T16-10      | Endpoint GET `/feedbacks`                | Visualizar feedbacks históricos para sesiones.                                  | 2                      | Pedro Lecca           | Done       |
+| US22              | Dashboard de administración              | T16-11      | Endpoint GET `/sanctions` y `/reports`   | Listar sanciones y reportes activos desde el rol admin.                         | 3                      | Moisés Espinoza       | Done       |
+| US22              | Gestión de apelaciones                   | T16-12      | Endpoint POST `/sanctions/{id}/appeal`   | Permitir crear apelación ante una sanción.                                      | 2                      | Pablo Geronimo        | Done       |
+
+**Nota:** Todas las tareas fueron implementadas siguiendo arquitectura DDD y documentadas con Swagger utilizando Swashbuckle.
+
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+Durante el Sprint 4 se consolidaron múltiples funcionalidades tanto en el frontend como en el backend, abordando módulos críticos como sesiones, apelaciones, perfiles, reportes, feedback, notificaciones y autenticación. A continuación se muestra la evidencia de desarrollo mediante commits relevantes por repositorio:
+
+---
+
+**Frontend – Repositorio: `pathly-frontend`**
+
+| **Commit Id** | **Mensaje de Commit** |
+|---------------|------------------------|
+| `5fe2d7c`     | `feat(frontend): add profiles and sessions bounded context (not working 100%)` |
+| `c570705`     | `fix(auth/register): fix weird bug with entities` |
+| `e10cce6`     | `refactor(frontend): new models and service logics` |
+| `3fe113b`     | `feat: fixeds and rework services/models` |
+| `aa17a2c`     | `feat: several fixes` |
+| `91ab3d6`     | `fix: weird bug in http instance` |
+| `94f9816`     | `fix: some directions` |
+| `54b3480`     | `feat: update auth routes` |
+| `f1a2e28`     | `refactor: reworked login & register form` |
+| `dea1769`     | `feat: new register form model and rework in login form model` |
+| `b94c93d`     | `feat: new use register service` |
+| `c8f22ec`     | `feat: new auth service and rework in use login service` |
+| `ad2f49d`     | `feat: add store, api and new routes` |
+
+---
+
+**Backend – Repositorio: `pathly-backend`**
+
+| **Commit Id** | **Mensaje de Commit** |
+|---------------|------------------------|
+| `fa7c15b`     | `feat(backend): refactor IAM and new Sessions bounded context` |
+| `0fd2d6c`     | `feat(backend): add new IAM system and Profile & Sessions BC` |
+| `6fdcf1e`     | `feat(Sessions): add bounded context logic` |
+| `83a102c`     | `feat(Sessions): add chat and feedback functionality` |
+| `297c4c7`     | `feat(Sessions): add Notification functionality` |
+| `d29d31a`     | `feat(Sessions): add Report system` |
+| `2548378`     | `feat(Sessions): validations implemented, bounded context Sessions finished` |
+| `84988cb`     | `feat(backend): add Session extension` |
+| `9204804`     | `feat(Analytics): add admin functions` |
+| `9c516f8`     | `feat(backend): add SanctionsAndAppeals bounded context` |
+| `603dd29`     | `feat(backend): add validations to Program.cs and new README.md` |
+| `0f18062`     | `feat(backend): add VocationalTests bounded context` |
+| `fdc525b`     | `fix(SanctionsAndAppeals): fix weird bug on EFSanctionRepository` |
+| `a967c5a`     | `fix(SanctionsAndAppeals): fix weird bug on EFSanctionRepository` |
+| `1a36e88`     | `CORDS for dev testing` |
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+Durante el Sprint 4, se realizaron pruebas funcionales manuales a través de **Swagger UI**, verificando la correcta operación de los endpoints REST implementados en cada bounded context. Las pruebas incluyeron operaciones CRUD, autenticación, validaciones de roles, y flujos completos de uso entre estudiantes, psicólogos y administradores.
+
+| **Bounded Context**     | **Endpoints probados**                                                                                   | **Resultado**      | **Herramienta** |
+|-------------------------|----------------------------------------------------------------------------------------------------------|--------------------|------------------|
+| IAM                     | `/api/auth/register`, `/api/auth/login`, `/api/auth/me`                                                  | ✅ Éxito            | Swagger UI       |
+| Profile                 | `/api/profiles/me`, `/api/profiles/{id}`                                                                 | ✅ Éxito            | Swagger UI       |
+| Sessions                | `/api/sessions/book`, `/api/sessions/{id}/assign`, `/api/sessions/{id}/cancel`, `/api/sessions/me`       | ✅ Éxito            | Swagger UI       |
+| Chat                    | `/api/sessions/{id}/messages` (GET y POST)                                                               | ✅ Éxito            | Swagger UI       |
+| Feedback                | `/api/sessions/{id}/feedback`, `/api/feedbacks`                                                          | ✅ Éxito            | Swagger UI       |
+| Notifications           | `/api/notifications`, `/api/notifications/{id}/read`                                                     | ✅ Éxito            | Swagger UI       |
+| Reports                 | `/api/sessions/{id}/report`, `/api/sessions/{id}/report/my`, `/api/reports`                              | ✅ Éxito            | Swagger UI       |
+| Sanctions               | `/api/sanctions`, `/api/sanctions/me`, `/api/sanctions/{id}/revoke`                                      | ✅ Éxito            | Swagger UI       |
+| Appeals                 | `/api/sanctions/{id}/appeal`, `/api/sanctions/appeals/me`, `/api/admin/appeals`, `/api/appeals/{id}/resolve` | ✅ Éxito        | Swagger UI       |
+
+**Resumen:**
+
+- Todos los endpoints fueron verificados manualmente por el equipo.
+- Se confirmaron respuestas HTTP esperadas (`200 OK`, `201 Created`, `204 No Content`, `400 Bad Request`, `401 Unauthorized`, `403 Forbidden`, `404 Not Found`).
+- Las pruebas contemplaron autenticación vía JWT para rutas protegidas.
+- Se utilizaron distintos roles (admin, student, psychologist) para validar flujos con restricciones.
+- Se comprobó la persistencia de datos a través de MySQL Workbench.
+
+**Estado general del testing:**  Funcionalidad validada de forma satisfactoria.
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+
+
 
 #### Contribución en el repositorio del Backend
 
